@@ -126,6 +126,10 @@ strong {
     color: var(--dark-blue);
 }
 
+.twitter-feed {
+    padding-bottom: 2rem;
+}
+
 
 /* =================
 Layout
