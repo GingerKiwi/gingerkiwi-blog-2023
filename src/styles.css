@@ -1,6 +1,6 @@
 /*  Fonts
 -----
-font-family: 'Lora', serif;
+font-family: 'Marcellus', serif;
 font-family: 'Ubuntu', sans-serif;
 */
 
@@ -47,14 +47,14 @@ Typography
 h1, 
 h2,
 h3 {
-    font-family: 'Lora', serif;
+    font-family: 'Marcellus', serif;
     font-weight: 400;
     color: var(--dark-blue);
     margin-top: 0;
 }
 
 h1 {
-    font-size: 2rem;
+    font-size: 3rem;
     margin: 0;
 }
 
@@ -222,6 +222,11 @@ nav a:focus {
     
     nav li {
         margin: .5em 0;
+    }
+
+    h1 {
+        font-size: 2.5rem;
+        margin: 0;
     }
 }
 
