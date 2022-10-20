@@ -12,11 +12,12 @@ font-family: 'Ubuntu', sans-serif;
     --white: #FFFFFF;
     --light-grey: #EBEBEB;
     --off-white: #F8F8F8;
-    --medium-blue: #1792D2;
-    --dark-blue: #143774;
+    --medium-blue: #d185a2;
+    --dark-blue: #b44821;
     --medium-grey-1: #707070;
     --medium-grey-2: #717171;
 }
+/* #d4713f #c16537 #af5629*/
 
 
 body {
@@ -206,7 +207,7 @@ nav a:focus {
 }
 
 .current-page {
-    border-bottom: 1px solid var(--medium-grey-1);
+    border-bottom: 2px solid var(--medium-grey-1);
 }
 
 .current-page:hover {
