@@ -270,7 +270,7 @@ nav a:focus {
 /* widgets */
 
 .sidebar-widget {
-    border: 20px solid #efefef;
+    border: 20px solid var(--light-grey);
     margin-bottom: 2em;
     padding: 1em;
 }
