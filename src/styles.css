@@ -4,6 +4,21 @@ font-family: 'Lora', serif;
 font-family: 'Ubuntu', sans-serif;
 */
 
+/* Colours
+-----
+*/
+
+:root {
+    --white: #FFFFFF;
+    --light-grey: #EBEBEB;
+    --off-white: #F8F8F8;
+    --medium-blue: #1792D2;
+    --dark-blue: #143774;
+    --medium-grey-1: #707070;
+    --medium-grey-2: #717171;
+}
+
+
 body {
     margin: 0;
     font-family: 'Ubuntu', sans-serif;
