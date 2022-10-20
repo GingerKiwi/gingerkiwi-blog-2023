@@ -173,6 +173,11 @@ footer {
         min-width: 200px;
         margin-left: 1em;
     }
+
+    /* .full-article {
+        width: 90%;
+        min-width: 600px;
+    } */
 }
 
 /* navigation */
