@@ -57,11 +57,11 @@ h1 {
 }
 
 h3 {
-    color: #1792d2;
+    color: var(--medium-blue);
 }
 
 a {
-    color: #1792d2;
+    color: var(--medium-blue);
 }
 
 a:hover,
@@ -76,7 +76,7 @@ strong {
 /* h1 subtitle */
 .subtitle {
     font-weight: 700;
-    color: #1792d2;
+    color: var(--medium-blue);
     font-size: .75rem;
     margin: 0;
 }
@@ -91,7 +91,7 @@ strong {
 }
 
 .article-read-more {
-    color: #1792d2;
+    color: var(--medium-blue);
     text-decoration: none;
     font-weight: 700;
 }
@@ -193,7 +193,7 @@ nav a {
 
 nav a:hover,
 nav a:focus {
-    color: #1792d2;
+    color: var(--medium-blue);
 }
 
 .current-page {
