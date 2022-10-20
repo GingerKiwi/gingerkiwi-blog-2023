@@ -47,7 +47,7 @@ h2,
 h3 {
     font-family: 'Lora', serif;
     font-weight: 400;
-    color: #143774;
+    color: var(--dark-blue);
     margin-top: 0;
 }
 
@@ -66,7 +66,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #143774;
+    color: var(--dark-blue);
 }
 
 strong {
@@ -98,7 +98,7 @@ strong {
 
 .article-read-more:hover,
 .article-read-more:focus {
-    color: #143774;
+    color: var(--dark-blue);
     text-decoration: underline;
 }
 
@@ -117,7 +117,7 @@ strong {
 }
 
 .widget-recent-post-title {
-    color: #143774;
+    color: var(--dark-blue);
 }
 
 
@@ -138,7 +138,7 @@ Layout
 }
 
 header {
-    background: #f8f8f8;
+    background: var(--off-white);
     padding: 2em 0;
     text-align: center;
     margin-bottom: 3em;
