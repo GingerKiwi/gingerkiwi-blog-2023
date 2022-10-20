@@ -145,7 +145,7 @@ header {
 }
 
 footer {
-    background:#143774;
+    background: var(--dark-blue);
     color: white;
     text-align: center;
     padding: 3em 0;
