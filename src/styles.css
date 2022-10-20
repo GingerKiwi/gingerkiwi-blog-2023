@@ -85,6 +85,10 @@ strong {
     font-size: 1.5rem;
 }
 
+.article-body {
+    line-height: 1.7rem;
+}
+
 .article-read-more,
 .article-info {
     font-size: .875rem;
