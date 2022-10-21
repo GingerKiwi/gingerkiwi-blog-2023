@@ -1,43 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="author" content="Elizabeth McCready" />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css"
-    />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Marcellus:wght@300;400;700;900&family=Ubuntu:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap"
-      rel="stylesheet"
-    />
-    <link rel="stylesheet" href="styles.css" />
-  </head>
-  <header>
-    <div class="container container-flex">
-      <div class="site-title">
-        <h1>Ginger Kiwi</h1>
-        <p class="subtitle">Exploring technology, design, and accessibility</p>
-      </div>
-      <nav>
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li>
-            <a class="current-page" href="blog.html">Recent Articles</a>
-          </li>
-          <li><a href="about.html">About me</a></li>
-        </ul>
-      </nav>
-    </div>
-    <!-- / .container -->
-  </header>
+--- 
+title: Blog
+layout: 'base.njk'
+---
 
   <div class="container container-flex">
+
     <main role="main">
+      <article class="article-recent">
+        <h2>Blog content goes here</h2>
+    {# <main role="main">
       <article class="article-recent">
         <div class="article-recent-main">
           <h2 class="article-title">Finding simplicity in life</h2>
@@ -121,8 +92,9 @@
           <p class="article-info">July 3, 2019</p>
         </div>
       </article>
+    </main> #}
+</article>
     </main>
-
     <aside class="sidebar">
       <div class="sidebar-widget">
         <h2 class="widget-title">ABOUT ME</h2>
@@ -166,13 +138,4 @@
     </aside>
   </div>
 
-  <footer>
-    <p><strong>Ginger Kiwi</strong></p>
-    <img
-      src="assets/avatar.png"
-      alt="a redhead woman with a ponytail behind a laptop computer"
-      class="logo-img"
-    />
-    <p>Copyright Elizabeth McCready 2022</p>
-  </footer>
-</html>
+
