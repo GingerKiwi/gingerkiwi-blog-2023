@@ -9,13 +9,13 @@ font-family: 'Ubuntu', sans-serif;
 */
 
 :root {
-    --white: #FFFFFF;
-    --light-grey: #EBEBEB;
-    --off-white: #F8F8F8;
-    --medium-blue: #c71e5f;
-    --dark-blue: #b44821;
-    --medium-grey-1: #707070;
-    --medium-grey-2: #717171;
+    --white: #FFFFFF; /* #FFFFFF */
+    --widget-border-1: #EBEBEB; /* hex: EBEBEB was light-grey */
+    --header-colour-1: #F8F8F8; /* hex: F8F8F8| ver 1.0 was named off-white */
+    --accent-2: #c71e5f; /* hex: #c71e5f | ver 1.0 was named medium-blue */
+    --accent-1: #b44821; /* hex: b44821 | ver 1.0 was named dark-blue */
+    --nav-accent-1: #707070; /* hex: 707070 | ver 1.0 was named medium-grey-1 */
+    --medium-grey-2: #717171; /* hex: 717171 | ver 1.0 was named medium-grey-2 */
 }
 /* #d4713f #c16537 #af5629*/
 /* #d185a2 */
