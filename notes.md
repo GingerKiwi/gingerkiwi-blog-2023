@@ -1,5 +1,11 @@
 # Saved Content
 
+## Photo and Asset Credits
+
+down-the-rabbit-hole.png
+https://unsplash.com/photos/KaOQ6u1zRVw
+Photo by Meghan Hessler on Unsplash
+
 loreum ipsum
 
 ## Nav content
