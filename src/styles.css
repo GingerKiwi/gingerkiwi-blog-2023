@@ -163,6 +163,10 @@ footer {
     padding: 3em 0;
 }
 
+.link-reverse-colour{
+    color: var(--header-colour-1);
+}
+
 .logo-img {
     max-height: 70px;
     max-width: 70px;

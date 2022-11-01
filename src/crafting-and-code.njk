@@ -13,8 +13,8 @@ layout: 'base.njk'
         <li><a href="/">Home</a></li>
         <li><a href="/blog">Blog</a></li>
         <li><a href="/about">About</a></li>
-        <li><a href="/article">Article</a></li>
         <li><a href="/crafting-and-code" class="current-page">Crafting & Code Meetups</a></li>
+        <li><a href="/article">Article</a></li>
       </ul>
     </nav>
   </div>
@@ -24,4 +24,54 @@ layout: 'base.njk'
 
     <main role="main">
       <article class="article-recent">
-        <h2>Crafting and Code Meetups</h2>
+        <h2>Crafting & Code Meetups</h2>
+        <p>Come out and meet other devs who like to knit, crochet, sew, or do other crafts, or just about anything crafty. Enjoy a nice relaxing social hour chatting about crafting, javascript/code, (and most likely cats as well!). All skill levels welcome. Any type of craft or anything crafty is also welcome. </p> 
+        
+      </article>
+    </main>
+{# <h2>Aside goes here</h2> #}
+    
+    <aside class="sidebar">
+      <div class="sidebar-widget">
+        <h2 class="widget-title">ABOUT ME</h2>
+        <img
+          src="assets/blog/about-me.jpg"
+          alt="john doe"
+          class="widget-image"
+        />
+        <p class="widget-body">
+          I find life better, and I'm happier, when things are nice and simple.
+        </p>
+      </div>
+
+      <div class="sidebar-widget">
+        <h2 class="widget-title">RECENT POSTS</h2>
+        <div class="widget-recent-post">
+          <h3 class="widget-recent-post-title">Keeping cooking simple</h3>
+          <img
+            src="assets/blog/food.jpg"
+            alt="two dumplings on a wood plate with chopsticks"
+            class="widget-image"
+          />
+        </div>
+        <div class="widget-recent-post">
+          <h3 class="widget-recent-post-title">Simplicity and work</h3>
+          <img
+            src="assets/blog/work.jpg"
+            alt="a chair white chair at a white desk on a white wall"
+            class="widget-image"
+          />
+        </div>
+        <div class="widget-recent-post">
+          <h3 class="widget-recent-post-title">Simple decorations</h3>
+          <img
+            src="assets/blog/deco.jpg"
+            alt="a green plant in a clear, round vase with water in it"
+            class="widget-image"
+          />
+        </div>
+      </div>
+    </aside>
+  </div>
+
+
