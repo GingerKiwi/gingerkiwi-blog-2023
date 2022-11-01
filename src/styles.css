@@ -9,13 +9,13 @@ font-family: 'Ubuntu', sans-serif;
 */
 
 :root {
-    --white: #FFFFFF; /* #FFFFFF */
-    --widget-border-1: #EBEBEB; /* hex: EBEBEB was light-grey */
-    --header-colour-1: #F8F8F8; /* hex: F8F8F8| ver 1.0 was named off-white */
-    --accent-2: #c71e5f; /* hex: #c71e5f | ver 1.0 was named medium-blue */
-    --accent-1: #b44821; /* hex: b44821 | ver 1.0 was named dark-blue */
-    --nav-accent-1: #707070; /* hex: 707070 | ver 1.0 was named medium-grey-1 */
-    --medium-grey-2: #717171; /* hex: 717171 | ver 1.0 was named medium-grey-2 */
+    --white: hsl(0, 0%, 100%); /* #FFFFFF */
+    --widget-border-1: hsl(0, 0%, 92%); /* hex: EBEBEB was light-grey */
+    --header-colour-1: hsl(0, 0%, 97%); /* hex: F8F8F8| ver 1.0 was named off-white */
+    --accent-2: hsl(337, 74%, 45%); /* hex: #c71e5f | ver 1.0 was named medium-blue */
+    --accent-1: hsl(16, 69%, 42%); /* hex: b44821 | ver 1.0 was named dark-blue */
+    --nav-accent-1: hsl(0, 0%, 44%); /* hex: 707070 | ver 1.0 was named medium-grey-1 */
+    --medium-grey-2: hsl(0, 0%, 44%); /* hex: 717171 | ver 1.0 was named medium-grey-2 */
 }
 /* #d4713f #c16537 #af5629*/
 /* #d185a2 */
@@ -49,7 +49,7 @@ h2,
 h3 {
     font-family: 'Marcellus', serif;
     font-weight: 400;
-    color: var(--dark-blue);
+    color: var(--accent-1);
     margin-top: 0;
 }
 
@@ -59,16 +59,16 @@ h1 {
 }
 
 h3 {
-    color: var(--medium-blue);
+    color: var(--accent-2);
 }
 
 a {
-    color: var(--medium-blue);
+    color: var(--accent-2);
 }
 
 a:hover,
 a:focus {
-    color: var(--dark-blue);
+    color: var(--accent-1);
 }
 
 strong {
@@ -78,7 +78,7 @@ strong {
 /* h1 subtitle */
 .subtitle {
     font-weight: 700;
-    color: var(--medium-blue);
+    color: var(--accent-2);
     font-size: .80rem;
     margin: 0.5rem 0 0 0;
 }
@@ -97,14 +97,14 @@ strong {
 }
 
 .article-read-more {
-    color: var(--medium-blue);
+    color: var(--accent-2);
     text-decoration: none;
     font-weight: 700;
 }
 
 .article-read-more:hover,
 .article-read-more:focus {
-    color: var(--dark-blue);
+    color: var(--accent-1);
     text-decoration: underline;
 }
 
@@ -123,7 +123,7 @@ strong {
 }
 
 .widget-recent-post-title {
-    color: var(--dark-blue);
+    color: var(--accent-1);
 }
 
 .twitter-feed {
@@ -147,7 +147,7 @@ Layout
 }
 
 header {
-    background: var(--off-white);
+    background: var(--header-colour-1);
     padding: 2em 0;
     text-align: center;
     margin-bottom: 3em;
@@ -157,7 +157,7 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: var(--dark-blue);
+    background: var(--accent-1);
     color: white;
     text-align: center;
     padding: 3em 0;
@@ -210,22 +210,22 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: var(--medium-grey-1);
+    color: var(--nav-accent-1);
     font-weight: 700;
     padding: .25em 0;
 }
 
 nav a:hover,
 nav a:focus {
-    color: var(--medium-blue);
+    color: var(--accent-2);
 }
 
 .current-page {
-    border-bottom: 2px solid var(--medium-grey-1);
+    border-bottom: 2px solid var(--nav-accent-1);
 }
 
 .current-page:hover {
-    color: var(--medium-grey-1);
+    color: var(--nav-accent-1);
 }
 
 @media (max-width: 675px) {
@@ -246,7 +246,7 @@ nav a:focus {
 /* articles */
 
 .article-featured {
-    border-bottom: var(--medium-grey-1) 1px solid;
+    border-bottom: var(--nav-accent-1) 1px solid;
     padding-bottom: 2em;
     margin-bottom: 2em;
 }
@@ -299,7 +299,7 @@ nav a:focus {
 /* widgets */
 
 .sidebar-widget {
-    border: 20px solid var(--light-grey);
+    border: 20px solid var(--widget-border-1);
     margin-bottom: 2em;
     padding: 1em;
 }
@@ -307,7 +307,7 @@ nav a:focus {
 .widget-recent-post {
     display: flex;
     flex-direction: column;
-    border-bottom: 1px solid var(--medium-grey-1);
+    border-bottom: 1px solid var(--nav-accent-1);
     margin-bottom: 1em;
 }
 
