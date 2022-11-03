@@ -10,8 +10,10 @@ loreum ipsum
 
 ## Nav content
 
-<header>
-  <div class="container container-flex">
+Nav content here.
+
+`{# <header> 
+  `<div class="container container-flex">
     <div class="site-title">
       <h1>Ginger Kiwi</h1>
       <p class="subtitle">Exploring technology, design, and accessibility</p>
@@ -26,11 +28,11 @@ loreum ipsum
     </nav>
   </div>
   <!-- / .container -->
-</header>
+</header> #}`
 
 ## Blog content
 
-  {# <main role="main">
+  `{# <main role="main">
       <article class="article-recent">
         <div class="article-recent-main">
           <h2 class="article-title">Finding simplicity in life</h2>
@@ -45,14 +47,13 @@ loreum ipsum
         </div>
         <div class="article-recent-secondary">
           <img
-            src="assets/blog/life.jpg"
+            src="/assets/blog/life.jpg"
             alt="simple white desk on a white wall with a plant on the far right side"
             class="article-image"
           />
           <p class="article-info">July 23, 2019</p>
         </div>
       </article>
-
       <article class="article-recent">
         <div class="article-recent-main">
           <h2 class="article-title">How to keep your cooking simple</h2>
@@ -72,7 +73,6 @@ loreum ipsum
           <p class="article-info">July 19, 2019</p>
         </div>
       </article>
-
       <article class="article-recent">
         <div class="article-recent-main">
           <h2 class="article-title">Simplicity and work</h2>
@@ -93,7 +93,6 @@ loreum ipsum
           <p class="article-info">July 12, 2019</p>
         </div>
       </article>
-
       <article class="article-recent">
         <div class="article-recent-main">
           <h2 class="article-title">Simple decorations</h2>
@@ -114,7 +113,7 @@ loreum ipsum
           <p class="article-info">July 3, 2019</p>
         </div>
       </article>
-    </main>
+    </main>`
 
 ## Loreum ipsum 3 paragraphs
 
