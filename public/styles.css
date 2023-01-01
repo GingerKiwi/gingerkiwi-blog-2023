@@ -59,7 +59,7 @@ Typography
 
 h1 {
     font-family: var(--font-family-serif-1);
-    font-weight: 400;
+    font-weight: 600;
     color: var(--accent-1);
     margin-top: 0;
 }
@@ -144,8 +144,24 @@ strong {
     color: var(--accent-1);
 }
 
+.widget-underline {
+    border-bottom: 1px solid var(--nav-accent-1);
+    margin-bottom: 1em;
+    padding-top: 1em;
+}
+
+.widget-subheading {
+    font-family: var(--font-family-sans-1);
+    font-weight: 550;
+    color: var(--accent-1);
+}
+
 .twitter-feed {
     padding-bottom: 2rem;
+}
+
+.footer-font {
+    font-family: var(--font-family-serif-1);
 }
 
 /* =================
