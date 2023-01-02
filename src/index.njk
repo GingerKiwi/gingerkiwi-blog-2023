@@ -42,23 +42,7 @@ layout: 'base.njk'
   {%- for post in collections.post| reverse -%}
               <li>
 
-                <article class="article-recent">
-                  <div class="article-recent-main">
-                    <h2 class="article-title">{{ post.data.title }}</h2>
-                      <p class="article-body article-recent-p">
-                        {{ post.data.description }}
-                      </p>
-                      <a href="{{ post.url }}" class="article-read-more">CONTINUE READING</a>
-                  </div>
-                  <div class="article-recent-secondary">
-                    <img
-                      src="{{ post.data.image }}"
-                      alt="{{ post.data.imageAlt }}"
-                      class="article-image article-recent-image"
-                    />
-                    <p class="article-info">{{ post.data.date | postDate }}</p>
-                </div>
-              </article>
+                {% include 'article-snippet.njk' %}
 
               </li>
             {%- endfor %}
