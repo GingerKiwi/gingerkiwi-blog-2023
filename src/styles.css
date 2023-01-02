@@ -172,6 +172,16 @@ article > p {
     font-family: var(--font-family-serif-1);
 }
 
+/* .linkedin svg {
+    color: blue;
+} */
+
+.widget-icon {
+    max-width: 50%;
+    margin: auto;
+  }
+  
+
 /* =================
 Layout
 ================= */

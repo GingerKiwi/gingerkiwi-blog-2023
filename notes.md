@@ -1,5 +1,9 @@
 # Saved Content
 
+## To Do for January 03, 2023
+
+1. Add articles
+2. Add projects to about me - or a projects page
 ## Photo and Asset Credits
 
 down-the-rabbit-hole.png
