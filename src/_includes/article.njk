@@ -6,13 +6,13 @@ layout: 'base.njk'
   <div class="container container-flex">
     <main role="main" class="full-article">
       <article class="article-featured">
-        <h2 class="article-title">Finding simplicity in life</h2>
+        <h2 class="article-title">{{ post.data.title }}</h2>
         <img
-          src="/assets/blog/life.jpg"
-          alt="simple white desk on a white wall with a plant on the far right side"
-          class="article-image"
+            src="{{ post.data.image }}"
+            alt="{{ post.data.imageAlt }}"
+            class="article-image article-recent-image"
         />
-        <p class="article-info">July 23, 2019</p>
+        <p class="article-info">{{ post.data.date | postDate }}</p>
         <p class="article-body">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse quos earum at accusamus libero repudiandae sapiente, illo harum expedita asperiores ad! Dolorum voluptatem assumenda libero quasi, hic labore maxime consequuntur!
         </p>
