@@ -15,7 +15,7 @@ layout: 'base.njk'
         <li><a href="/" class="current-page">Home</a></li>
         <li><a href="/blog">Blog</a></li>
         <li><a href="/about">About</a></li>
-        <li><a href="/article">Article</a></li>
+        <li><a href="/contact">Contact</a></li>
       </ul>
     </nav>
   </div>
@@ -39,13 +39,14 @@ layout: 'base.njk'
     </article>
 {# ====================================== #}
 <ul role="list" class="articles__list flow"> 
-  {%- for post in collections.post| reverse -%}
-              <li>
 
-                {% include 'article-snippet.njk' %}
+  {%- for post in collections.featured| reverse -%}
+   
 
-              </li>
-            {%- endfor %}
+      {% include 'article-snippet.njk' %}
+
+   
+  {%- endfor %}
       </ul>
 
     {# <article class="article-recent">
