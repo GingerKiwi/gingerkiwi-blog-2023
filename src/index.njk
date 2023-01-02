@@ -25,22 +25,48 @@ layout: 'base.njk'
 <div class="container container-flex">
   <main role="main">
     <article class="article-featured">
-      <h2 class="article-title">Title of Featured Article</h2>
+      <h2 class="article-title">WELCOME MESSAGE</h2>
       <img
-        src="/assets/blog/down-the-rabbit-hole.jpg"
+        src="/assets/blog/stephen-h-V4AEsPq6NFs-unsplash.jpg"
         alt="simple white desk on a white wall with a plant on the far right side"
         class="article-image"
       />
-      <p class="article-info">July 23, 2019</p>
+      {# <p class="article-info">July 23, 2019</p> #}
       <p class="article-body">
         <strong>Enim nulla aliquet porttitor lacus luctus </strong>, accumsan. Vulputate mi sit amet mauris commodo quis. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras.
       </p>
-      <a href="#" class="article-read-more">CONTINUE READING</a>
+      {# <a href="#" class="article-read-more">CONTINUE READING</a> #}
     </article>
+{# ====================================== #}
+<ul role="list" class="articles__list flow"> 
+  {%- for post in collections.post| reverse -%}
+              <li>
 
-    <article class="article-recent">
+                <article class="article-recent">
+                  <div class="article-recent-main">
+                    <h2 class="article-title">{{ post.data.title }}</h2>
+                      <p class="article-body article-recent-p">
+                        {{ post.data.description }}
+                      </p>
+                      <a href="{{ post.url }}" class="article-read-more">CONTINUE READING</a>
+                  </div>
+                  <div class="article-recent-secondary">
+                    <img
+                      src="{{ post.data.image }}"
+                      alt="{{ post.data.imageAlt }}"
+                      class="article-image article-recent-image"
+                    />
+                    <p class="article-info">{{ post.data.date | postDate }}</p>
+                </div>
+              </article>
+
+              </li>
+            {%- endfor %}
+      </ul>
+
+    {# <article class="article-recent">
       <div class="article-recent-main">
-        <h2 class="article-title">Title of recent post</h2>
+        <h2 class="article-title">First Title of recent post</h2>
         <p class="article-body">
           Food is a very important part of everyone's life. If you want to be
           healthy, you have to eat healthy. One of the easiest ways to do that
@@ -56,7 +82,8 @@ layout: 'base.njk'
         />
         <p class="article-info">July 19, 2019</p>
       </div>
-    </article>
+    </article> 
+
 
     <article class="article-recent">
       <div class="article-recent-main">
@@ -98,55 +125,13 @@ layout: 'base.njk'
         />
         <p class="article-info">July 3, 2019</p>
       </div>
-    </article>
+    </article> #}
   </main>
 
   {% include 'aside.njk' %}
-  {# <aside class="sidebar">
-    <div class="sidebar-widget">
-          <h2 class="widget-title">LIZ McCREADY</h2>
-          <img
-            src="assets/avatar.png"
-            alt="a redhead woman with a ponytail behind a laptop computer"
-            class="widget-image"
-          />
-          <p class="widget-body widget-underline widget-subheading">Experienced Technical Writer</p>
-          <p class="widget-body widget-underline widget-subheading">SEO Web Content Writer</p>
-          <p class="widget-body widget-underline widget-subheading">Accessibility Advocate</p>
-          <p class="widget-body widget-underline widget-subheading">Web Developer</p>
-          <p class="widget-body widget-underline widget-subheading">Passionate About Solving Puzzles with Others</p>
-          <p class="widget-body widget-subheading">Seeking Challenging Projects With Awesome People</p>
-          
-        </div>
+  
 
-    <div class="sidebar-widget">
-      <h2 class="widget-title">RECENT POSTS</h2>
-      <div class="widget-recent-post">
-        <h3 class="widget-recent-post-title">Title of a recent post</h3>
-        <img
-          src="assets/blog/food.jpg"
-          alt="two dumplings on a wood plate with chopsticks"
-          class="widget-image"
-        />
-      </div>
-      <div class="widget-recent-post">
-        <h3 class="widget-recent-post-title">Simplicity and work</h3>
-        <img
-          src="assets/blog/work.jpg"
-          alt="a chair white chair at a white desk on a white wall"
-          class="widget-image"
-        />
-      </div>
-      <div class="widget-recent-post">
-        <h3 class="widget-recent-post-title">Simple decorations</h3>
-        <img
-          src="assets/deco/blog.jpg"
-          alt="a green plant in a clear, round vase with water in it"
-          class="widget-image"
-        />
-      </div>
-    </div>
-  </aside> #}
+
 
 </div> {# /.container-flex #}
 

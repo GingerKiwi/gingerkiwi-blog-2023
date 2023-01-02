@@ -27,7 +27,7 @@ layout: 'base.njk'
 
           <ul role="list" class="articles__list flow"> 
 
-            {%- for post in collections.post -%}
+            {%- for post in collections.post| reverse -%}
               <li>
 
                 <article class="article-recent">
@@ -47,7 +47,6 @@ layout: 'base.njk'
                     <p class="article-info">{{ post.data.date | postDate }}</p>
                 </div>
               </article>
-
 
               </li>
             {%- endfor %}
