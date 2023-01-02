@@ -139,6 +139,10 @@ ul {
     font-size: 1rem;
 }
 
+article > p {
+    line-height: 1.7rem;
+}
+
 .widget-title {
     font-family: var(--font-family-serif-1);
     font-weight: 700;
