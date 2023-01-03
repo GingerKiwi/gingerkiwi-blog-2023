@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Elizabeth McCready" />
+    <link rel="shortcut icon" type="image/png" href="/assets/blog/favicon-2.png" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Marcellus&family=Marcellus+SC&family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css" />
+    <title>Learn GitHub Workflows and Open Source the Fun Way: The Alice in Wonderland Project
+</title>
+  </head>
+        
+    <body>
+        
+        <header>
+  <div class="container container-flex">
+    <div class="site-title">
+      <h1>Ginger Kiwi</h1>
+      <p class="subtitle">Exploring technology, design, and accessibility</p>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+  <!-- / .container -->
+</header>
+
+  <div class="container container-flex">
+    <main role="main" class="full-article">
+      <article class="article-featured">
+        <h2 class="article-title">Learn GitHub Workflows and Open Source the Fun Way: The Alice in Wonderland Project
+</h2>
+        <img
+            src="/assets/blog/down-the-rabbit-hole.jpg"
+            alt="Neon lights saying Down the Rabbit Hole on a black background. All the words are in pink neon, except the is in yellow neon"
+            class="article-image article-recent-image"
+        />
+        <p class="article-info">Nov 4, 2022</p>
+        <p><strong>Welcome to Wonderland!</strong></p>
+<p>Getting involved in open source and learning GitHub workflows can be intimidating and challenging for new developers - myself included. So during Hacktoberfest 2022, I created an open source repo to help other new developers learn GitHub work flows, get involved with open source while being social and making something fun.</p>
+<p><a href="https://github.com/GingerKiwi/alice-game">The Alice in Wonderland Project</a> is a html/css/vanilla javascript text-based game with an Alice in Wonderland theme.  As this is a repo geared towards new developers learning GitHub workflows, most issues and PRs are small. Some are as simple as 'create a h2 heading on line x'. Some are low code  or no code issues like adding text to a markdown file. There's also some longer ones, like the current create a JSON file of contributor objects from the project discussion.</p>
+<hr>
+<h2>The Alice In Wonderland Project History</h2>
+<p>This game was orignally created as a [python console game]](https://github.com/GingerKiwi/alice-game/blob/main/159.172_AliceStealsBandersnatchGame.py) as part of a computer science course at Massey University, New Zealand in 2020. Part of the assignment was documenting the thought process using comments. (So there's a lot of comments in the .py file!). The assignment was the classic <a href="http://programarcadegames.com/index.php?lang=en&amp;chapter=lab_camel">Camel game</a> from &quot;Program Arcade Games and With Python And Pygame&quot; and orginally concevied in 1979 in &quot;More BASIC Computer Games&quot;.</p>
+<p>However, the premise of the game is both racist and colonlialist - stealing an camel from the &quot;natives&quot; and racing away from them across the Mobi desert. So I changed the theme to Alice from Tim Burton's Alice in Wonderland movie rescuing the Red Queen's Bandersnatch from his imprissionment and racing across Underland to get to the White Queen's castle. I also added a random chance that the player would be attacked by the Jabberwocky, be killed, and the Jabberwocky poem would print on the screen.</p>
+<h3>From Python Console to Javascript Text Based Web App</h3>
+<p>The goal is to take the existing python code and turn it into an accessible text based web game in html, css, and vanilla javascript. The game type is much like the classic text based &quot;Oregon Trail&quot; PC game. As we're still working on the html and css, the repo looks like it's a python project and not a javascript one. So I get a lot of devs reaching out who want to learn python.</p>
+<h2>Accessibility - Part of Every PR - Not Retrofitted and Refactored</h2>
+<p>This project is being developed with accessibility in mind from the beginning and at every step. That starts with sematic html, labelling elements, and having a &quot;skip to main content&quot;. It also means that even if planned accessibilty features such as theme switching aren't being released in a particular version, the code is still written to make those features easily added.</p>
+<p>This is one reason why CSS variables are being used, instead of hard coding colours and font/text attributes. While CSS variables are a more intermediate level skill, they make it easier to switch colours, type/font and implement theme switching instead of having to refactor the entire stylesheet.</p>
+<p>This is not just an &quot;extra&quot; add on. It's industry best practice as it results in immense cost savings to include accessibility at every step in the development process. You wouldn't build a house without doors and windows, then cut holes in the walls afterwards to put them in. That's both costly and down right silly. So don't build web apps and software that way!</p>
+<hr>
+<h2>Where the Alice in Wonderland Project is Going Next</h2>
+<p>Now that the Hacktoberfest is over, this project is going to progress slowly and steadily. While I'm a new dev, I've created and managed other types of projects before and know how to keep things from going pear shaped. Miscommunication and project creep suck!</p>
+<p>So, I'm working on setting up some project management tools (e.g. Jira, discord server for live chat), an initial project proposal, and delegating parts of the Alice project so that it stays doable for everyone. A slow, organized and thoughtful start means a much better experience for everyone! No one needs to end up with as sore a head and grumpy as the Red Queen! Maintainers don't need to lose their head by getting overworked.  ;-)</p>
+<p>If (when!) you get involved with The Alice in Wonderland Project, expect a relaxed, fun, social pace. We're not trying to push out new releases and versions on a fast paced schedule. We're building a community, having fun, and learning together. Everyone has personal lives, projects, and things that keep them busy. That shouldn't prevent any of us from being part of the open source community!</p>
+<hr>
+<h2>How to Get Involved</h2>
+<p>If you'd like become part of the community at <a href="https://github.com/GingerKiwi/alice-game">The Alice in Wonderland project on GitHub</a> and contribute to developing the game please follow these three steps:</p>
+<ol>
+<li>Please introduce yourself in the <a href="https://github.com/GingerKiwi/alice-game/discussions/4">discussions tab</a></li>
+<li>Have a quick read through <em>both</em> the <a href="https://github.com/GingerKiwi/alice-game/blob/main/CONTRIBUTING.md"><strong>CONTRIBUTING.md</strong></a> and <a href="https://github.com/GingerKiwi/alice-game/blob/main/README.md"><strong>README.md</strong></a> files</li>
+<li>Comment in the issue that you'd like to work on.</li>
+</ol>
+<p>If we still have contributor spots open, one of the maintainers or myself will assign you the issue. If we've maxed out the number of contributors we can effectively support, we'll put you on a waitlist, and you're welcome to follow along on GitHub.</p>
+<h3>People Roles - Who Does What?</h3>
+<p>If you're interested in joining other devs in going down the rabbit hole to learn GitHub workflows, get involved in open source, learn accessibility, and apply your html, css, javascript, and markdown skills there's two options. The first step is to be a contributor.</p>
+<p>####<strong>Contributors:</strong></p>
+<p>Contributors are the backbone of the project. They're new devs at any point in their learn to code journey - from knowing how to say &quot;hello world&quot; in html heading all the way to more advanced CSS (css variables, grid, css functions) and JavaScript (e.g. JavaScript promises, arrow and constructor functions, api).</p>
+<h4><strong>Maintainers:</strong></h4>
+<p>Maintainers act as team leads. They are fellow new devs who are far enough along in a skillset that they can provide valuable code reviews and manage part of the project. For example, my fellow 'NewbiesSmashingPumpkins' teammate, and Scrimba friend <a href="https://www.linkedin.com/in/wesley-vinson-edd/">Wes</a> is overseeing the Javascript and JSON parts of the project.</p>
+<h4><strong>Creator/Maintainer:</strong></h4>
+<p>Finally there's me. As the project creator, I'm writing the project management documentation, guiding maintainers in contributing to project management, and helping new devs learn markup and technical writing.</p>
+<hr>
+<h2>Join Your Fellow Devs Down the Rabbit Hole Today!</h2>
+<p><strong>Say Hello on GitHub: <a href="https://github.com/GingerKiwi/alice-game">https://github.com/GingerKiwi/alice-game</a></strong></p>
+<p><strong>Connect with me on <a href="https://www.linkedin.com/in/elizabethmccready">LinkedIn</a></strong></p>
+<p><strong>Follow my blog, and watch out for when the new JamStack version is released <a href="https://gingerkiwi.blog">gingerkiwi.blog</a></strong></p>
+<p><strong>Follow me on <a href="https://dev.to/gingerkiwi">Dev.to</a></strong></p>
+<p>Happy Coding, and Welcome to Wonderland!</p>
+<hr>
+<h2>Image Credits</h2>
+<ul>
+<li><a href="https://unsplash.com/photos/BvAwzPQRRis">Cover Image: Brecht Corbeel on unsplash.com</a></li>
+<li><a href="https://unsplash.com/photos/KaOQ6u1zRVw">Down the Rabbit Hole:
+Meghan Hessler on unsplash.com</a></li>
+</ul>
+
+        
+     
+      </article>
+    </main>
+  </div>
+  
+</html>
+
+        </div>
+    </body>
+        <footer>
+  <p class="footer-font"><strong>Ginger Kiwi</strong></p>
+  <img
+    src="/assets/avatar.png"
+    alt="a redhead woman with a ponytail behind a laptop computer"
+    class="logo-img"
+  />
+  <p class="footer-font">Copyright &copy;  Elizabeth McCready, 2023</p>
+  
+</footer>
+</html>
