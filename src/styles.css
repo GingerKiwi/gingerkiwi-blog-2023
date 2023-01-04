@@ -96,6 +96,16 @@ ul {
     list-style: none;
 }
 
+article > ul {
+    list-style: disc;
+    line-height: 1.7rem;
+}
+
+.list-bullets {
+    list-style: disc;
+    line-height: 1.7rem;
+}
+
 /* h1 subtitle */
 .subtitle {
     font-family: var(--font-family-serif-1);

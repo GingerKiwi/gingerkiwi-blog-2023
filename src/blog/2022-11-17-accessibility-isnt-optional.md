@@ -1,7 +1,7 @@
 ---
 title: Accessibility Isn't Optional
 date: 2022-11-17
-tags: ["post", "featured", "a11y"]
+tags: ["post", "a11y"]
 image: '/assets/blog/elisa-ventur-bmJAXAz6ads-unsplash.jpg'
 imageAlt: 'Woman with long dark hair holding her head seemingly in frustration over a silver laptop computer on a white desk.'
 imageCaption: 'ADD CAPTION'
@@ -33,32 +33,28 @@ I’m generally a positive person, have a wacky sense of humour, and can find so
 
 Now, I’m going back to coding my current Scrimba Frontend Developer program project, and to enjoying the irony of the timing. It’s  a Twitter clone.  
 
----
 
+---
+###  Resources
+
+**Jessica Kellgren-Fozard: [Ableism vs. Disablism](https://youtu.be/rqJxfnioF3Y)**
+
+**Jessica @ How to ADHD: [My Channel was a Bit Ableist When I Started](https://youtu.be/KeonwDjcaF8)**
+
+**Molly Burke: [I don’t look blind, or do I? A blind girl rant](https://youtu.be/g7gEb8lVkCE)**
+
+Bonus:
+**Using The Sims to Explain The Spoon Theory. 
+[What Is A Spoonie? // The Spoon Theory](https://youtu.be/a2NGaG8mhjU)
+_Skip to around 4:15min if you just want to Sims part_
+Jessica Kellgren-Fozard**
+
+
+---
+### Credits
 
 Cover Image Credit: Photo by <a href="https://unsplash.com/@elisa_ventur?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Elisa Ventur</a> on <a href="https://unsplash.com/s/photos/computer-error?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
 
 ---
-
-**Ableism vs. Disablism**
-[https://youtu.be/rqJxfnioF3Y](https://youtu.be/rqJxfnioF3Y)
-Jessica Kellgren-Fozard
-
-**My Channel was a Bit Ableist When I Started**
-https://youtu.be/KeonwDjcaF8
-Jessica @ How to ADHD
-
-**I don’t look blind, or do I? (A blind girl rant)**
-https://youtu.be/g7gEb8lVkCE
-Molly Burke
-
-Bonus: 
-**Using The Sims to Explain The Spoon Theory. 
-What Is A Spoonie? // The Spoon Theory**
-_Skip to around 4:15min if you just want to Sims part_
-Jessica Kellgren-Fozard
-https://youtu.be/a2NGaG8mhjU
-
----
-Orginally published on [Dev.to:](https://dev.to/gingerkiwi/accessibility-isnt-optional-11co)
+### Orginally Published 
+on [Dev.to:](https://dev.to/gingerkiwi/accessibility-isnt-optional-11co)
