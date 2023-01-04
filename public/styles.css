@@ -323,10 +323,12 @@ nav a:focus {
     display: flex;
     flex-direction: column;
     margin-bottom: 2em;
+    margin-right: 1.7em;
 }
 
 .article-recent-main {
     order: 2;
+
 }
 
 .article-recent-secondary {
@@ -337,10 +339,12 @@ nav a:focus {
     .article-recent {
         flex-direction: row;
         justify-content: space-between;
+        margin-right: 0.8em;
     }
     
     .article-recent-main {
         width: 68%;
+        margin-left: 1.2em;
     }
     
     .article-recent-secondary {
