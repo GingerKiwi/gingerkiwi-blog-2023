@@ -19,9 +19,9 @@ Getting involved in open source and learning GitHub workflows can be intimidatin
 
 ## The Alice In Wonderland Project History
 
-This game was orignally created as a [python console game]](https://github.com/GingerKiwi/alice-game/blob/main/159.172_AliceStealsBandersnatchGame.py) as part of a computer science course at Massey University, New Zealand in 2020. Part of the assignment was documenting the thought process using comments. (So there's a lot of comments in the .py file!). The assignment was the classic [Camel game](http://programarcadegames.com/index.php?lang=en&chapter=lab_camel) from "Program Arcade Games and With Python And Pygame" and orginally concevied in 1979 in "More BASIC Computer Games".
+This game was originally created as a [python console game](https://github.com/GingerKiwi/alice-game/blob/main/159.172_AliceStealsBandersnatchGame.py) as part of a computer science course at Massey University, New Zealand in 2020. Part of the assignment was documenting the thought process using comments. (So there's a lot of comments in the .py file!). The assignment was the classic [Camel Game](http://programarcadegames.com/index.php?lang=en&chapter=lab_camel) from "Program Arcade Games and With Python And Pygame" and originally conceived in 1979 in "More BASIC Computer Games".
 
-However, the premise of the game is both racist and colonlialist - stealing an camel from the "natives" and racing away from them across the Mobi desert. So I changed the theme to Alice from Tim Burton's Alice in Wonderland movie rescuing the Red Queen's Bandersnatch from his imprissionment and racing across Underland to get to the White Queen's castle. I also added a random chance that the player would be attacked by the Jabberwocky, be killed, and the Jabberwocky poem would print on the screen.
+However, the premise of the game is both racist and colonialist - stealing an camel from the "natives" and racing away from them across the Mobi desert. So I changed the theme to Alice from Tim Burton's Alice in Wonderland movie rescuing the Red Queen's Bandersnatch from his imprisonment and racing across Underland to get to the White Queen's castle. I also added a random chance that the player would be attacked by the Jabberwocky, be killed, and the Jabberwocky poem would print on the screen.
 
 ### From Python Console to Javascript Text Based Web App
 
@@ -29,7 +29,7 @@ The goal is to take the existing python code and turn it into an accessible text
 
 ## Accessibility - Part of Every PR - Not Retrofitted and Refactored
 
-This project is being developed with accessibility in mind from the beginning and at every step. That starts with sematic html, labelling elements, and having a "skip to main content". It also means that even if planned accessibilty features such as theme switching aren't being released in a particular version, the code is still written to make those features easily added.
+This project is being developed with accessibility in mind from the beginning and at every step. That starts with semantic html, labelling elements, and having a "skip to main content". It also means that even if planned accessibility features such as theme switching aren't being released in a particular version, the code is still written to make those features easily added.
 
 This is one reason why CSS variables are being used, instead of hard coding colours and font/text attributes. While CSS variables are a more intermediate level skill, they make it easier to switch colours, type/font and implement theme switching instead of having to refactor the entire stylesheet. 
 
@@ -61,16 +61,16 @@ If we still have contributor spots open, one of the maintainers or myself will a
 
 If you're interested in joining other devs in going down the rabbit hole to learn GitHub workflows, get involved in open source, learn accessibility, and apply your html, css, javascript, and markdown skills there's two options. The first step is to be a contributor.
 
-####**Contributors:** 
+#### **Contributors:**
 
 Contributors are the backbone of the project. They're new devs at any point in their learn to code journey - from knowing how to say "hello world" in html heading all the way to more advanced CSS (css variables, grid, css functions) and JavaScript (e.g. JavaScript promises, arrow and constructor functions, api).
 
 
-#### **Maintainers:** 
+#### **Maintainers:**
 
 Maintainers act as team leads. They are fellow new devs who are far enough along in a skillset that they can provide valuable code reviews and manage part of the project. For example, my fellow 'NewbiesSmashingPumpkins' teammate, and Scrimba friend [Wes](https://www.linkedin.com/in/wesley-vinson-edd/) is overseeing the Javascript and JSON parts of the project.
 
-#### **Creator/Maintainer:** 
+#### **Creator/Maintainer:**
 
 Finally there's me. As the project creator, I'm writing the project management documentation, guiding maintainers in contributing to project management, and helping new devs learn markup and technical writing.
 
