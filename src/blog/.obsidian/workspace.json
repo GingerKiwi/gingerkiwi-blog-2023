@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-01-03-happy-new-year.md",
+                "file": "2022-11-05-learn-github-workflows-and-open-source-the-fun-way-the-alice-in-wonderland-project.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-01-03-happy-new-year.md",
+                "file": "2022-11-05-learn-github-workflows-and-open-source-the-fun-way-the-alice-in-wonderland-project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-01-03-happy-new-year.md",
+                "file": "2022-11-05-learn-github-workflows-and-open-source-the-fun-way-the-alice-in-wonderland-project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-01-03-happy-new-year.md"
+                "file": "2022-11-05-learn-github-workflows-and-open-source-the-fun-way-the-alice-in-wonderland-project.md"
               }
             }
           }
@@ -210,6 +210,7 @@
   },
   "active": "34a5b14379145a35",
   "lastOpenFiles": [
+    "2023-01-03-happy-new-year.md",
     "2022-11-03-the-gingerkiwi-blog-is-under-renovation.md",
     "2022-11-07-introducing-bitesized-accessibility.md",
     "2022-10-14-third-article.md",
@@ -218,7 +219,6 @@
     "2020-09-10-five-free-and-cheap-ways-to-improve-your-geospatial-technology-skills-and-learn-gis.md",
     "2022-11-17-accessibility-isnt-optional.md",
     "2022.11.04-down-the-rabbit-hole-for-hacktoberfest.md",
-    "2022-10-20-second-post.md",
-    "2023-01-02.md"
+    "2022-10-20-second-post.md"
   ]
 }
