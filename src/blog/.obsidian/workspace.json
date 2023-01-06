@@ -8,79 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e348b8bcdbe4884",
+            "id": "fd2cf624e2e379eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11-07-introducing-bitesized-accessibility.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a4599cc02fa1b4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11-17-accessibility-isnt-optional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e6a5fa8f1343599",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2020-09-10-five-free-and-cheap-ways-to-improve-your-geospatial-technology-skills-and-learn-gis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63b43aecae0070d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-01-03-happy-new-year.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34a5b14379145a35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11-05-learn-github-workflows-and-open-source-the-fun-way-the-alice-in-wonderland-project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "293f022ee2548c83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11-05-learn-github-workflows-and-open-source-the-fun-way-the-alice-in-wonderland-project.md",
+                "file": "2023-01-06-i-added-my-past-retail-sales-and-management-experience-back-to-my-linkedin.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3deda49bd5a9c069",
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-05-learn-github-workflows-and-open-source-the-fun-way-the-alice-in-wonderland-project.md",
+                "file": "2023-01-06-i-added-my-past-retail-sales-and-management-experience-back-to-my-linkedin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-11-05-learn-github-workflows-and-open-source-the-fun-way-the-alice-in-wonderland-project.md",
+                "file": "2023-01-06-i-added-my-past-retail-sales-and-management-experience-back-to-my-linkedin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11-05-learn-github-workflows-and-open-source-the-fun-way-the-alice-in-wonderland-project.md"
+                "file": "2023-01-06-i-added-my-past-retail-sales-and-management-experience-back-to-my-linkedin.md"
               }
             }
           }
@@ -208,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34a5b14379145a35",
+  "active": "fd2cf624e2e379eb",
   "lastOpenFiles": [
     "2023-01-03-happy-new-year.md",
+    "2023-01-06-i-added-my-past-retail-sales-and-management-experience-back-to-my-linkedin.md",
+    "2022-11-05-learn-github-workflows-and-open-source-the-fun-way-the-alice-in-wonderland-project.md",
     "2022-11-03-the-gingerkiwi-blog-is-under-renovation.md",
     "2022-11-07-introducing-bitesized-accessibility.md",
     "2022-10-14-third-article.md",
     "2022-10-19-first-article.md",
-    "2022-11-05-learn-github-workflows-and-open-source-the-fun-way-the-alice-in-wonderland-project.md",
     "2020-09-10-five-free-and-cheap-ways-to-improve-your-geospatial-technology-skills-and-learn-gis.md",
     "2022-11-17-accessibility-isnt-optional.md",
-    "2022.11.04-down-the-rabbit-hole-for-hacktoberfest.md",
-    "2022-10-20-second-post.md"
+    "2022.11.04-down-the-rabbit-hole-for-hacktoberfest.md"
   ]
 }
