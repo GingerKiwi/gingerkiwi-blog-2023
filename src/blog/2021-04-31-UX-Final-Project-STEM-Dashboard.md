@@ -11,4 +11,4 @@ description: >
 
 A major highlight was my UX course. I was part of a 5 person team working remotely across three countries, three time zones, during a pandemic with two natural disasters, an international move, and one major hospitalization. We collaborated on on weekly tutorial assignments and a major design project. Using We achieved an A on our major UX design project - a bilingual English/Te Reo Māori indigenous STEM student and teacher learning system. My major contribution was teaching myself Adobe Xd to bring our wire frame designs to life. I found that my degree in Social Anthropology, especially the urban fieldwork and research are directly applicable to UX and product management.
 
-[download a pdf of the project file here](link)
+[download a pdf of the project file here](https://github.com/GingerKiwi/gingerkiwi-blog-2023/blob/main/src/assets/2021.04.31_FINAL-LOW-FI-PROTOTYPE-MasseyUni-158.359UX-Group07-Xd-DesignWk-by-LizMcCready.pdf)
