@@ -57,21 +57,29 @@ img {
 Typography
 ================= */
 
-h1 {
+.h1-brand {
     font-family: var(--font-family-serif-1);
     font-weight: 600;
     color: var(--accent-1);
     margin-top: 0;
-}
-
-h1 {
     font-size: 3rem;
     margin: 0;
 }
 
+h1 {
+    font-family: var(--font-family-sans-2);
+    font-weight: 500;
+    color: var(--accent-1);
+    margin-top: 0;
+    font-size: 2rem;
+    align-content: center;
+}
+
+
 h2 {
     font-family: var(--font-family-sans-2);
     color: var(--accent-1);
+    margin-top: 0;
 }
 
 h3 {
@@ -243,6 +251,10 @@ footer {
     
     .container-flex {
         flex-direction: row;
+    }
+
+    h1 {
+        margin: 0 0 0 2rem;
     }
     
     main {

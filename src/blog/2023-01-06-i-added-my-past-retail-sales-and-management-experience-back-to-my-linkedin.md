@@ -3,9 +3,9 @@ title: I Just Added My Past Retail Sales and Management Experience Back to My Li
 date: 2023-01-06
 tags: ["post", "featured", "career"]
 image: '/assets/blog/heidi-fin-2TLREZi7BUg-unsplash.jpg'
-imageAlt: 'Inside a shopping mall looking down an aisle of shops. The stores are decorated for Christmas. There's a Christmas tree on a raised stand in the middle of the photo.'
-imageCaption: 'ADD CAPTION'
-description: This past November 2022, I did a major refresh of my LinkedIn profile. One of the biggest issues was that I started working in grade 7 and had many different part-time and seasonal positions. So based on my work experience it looked like I'm almost at retirement age! 
+imageAlt: 'Inside a shopping mall looking down an aisle of shops. The stores are decorated for Christmas. There is a Christmas tree on a raised stand in the middle of the photo.'
+description: >
+ This past November 2022, I did a major refresh of my LinkedIn profile. One of the biggest issues was that I started working in grade 7. So based on my work experience it looked like I'm almost at retirement age! However, I've realized that leaving my retail experience out is leaving out many of the skills I've used and built on since then.
 ---
 
 This past November 2022, I did a major refresh of my LinkedIn profile. One of the biggest issues was that I started working in grade 6 as a Toronto Star paper girl, in retail in grade 7, and had many different part-time and seasonal positions. So based on my work experience it looked like I'm almost at retirement age!
@@ -27,7 +27,11 @@ So I've put my experience back in. However, I've grouped it under a single exper
 Retail is part of my career journey. It's where I learned so many of the skills I still use, and where I met so many amazing people. It's the inspiration for a non-fiction book. I just need to include it in my LinkedIn in a way that doesn't make me look 15-20 years older than I actually am.
 
 ___
+
 ### Photo Credit
+
 Heidi Fin. Unsplash https://unsplash.com/photos/2TLREZi7BUg
 
 Filename: heidi-fin-2TLREZi7BUg-unsplash.jpg
+
+---
