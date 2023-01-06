@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d964f2caa637417f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-04-31-UX-Final-Project-STEM-Dashboard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-01-06-i-added-my-past-retail-sales-and-management-experience-back-to-my-linkedin.md",
+                "file": "2021-04-31-UX-Final-Project-STEM-Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-01-06-i-added-my-past-retail-sales-and-management-experience-back-to-my-linkedin.md",
+                "file": "2021-04-31-UX-Final-Project-STEM-Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-01-06-i-added-my-past-retail-sales-and-management-experience-back-to-my-linkedin.md"
+                "file": "2021-04-31-UX-Final-Project-STEM-Dashboard.md"
               }
             }
           }
@@ -147,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd2cf624e2e379eb",
+  "active": "d964f2caa637417f",
   "lastOpenFiles": [
-    "2023-01-03-happy-new-year.md",
     "2023-01-06-i-added-my-past-retail-sales-and-management-experience-back-to-my-linkedin.md",
+    "2021-04-31-UX-Final-Project-STEM-Dashboard.md",
+    "2023-01-03-happy-new-year.md",
     "2022-11-17-accessibility-isnt-optional.md",
     "2022-11-05-learn-github-workflows-and-open-source-the-fun-way-the-alice-in-wonderland-project.md",
     "2022-11-03-the-gingerkiwi-blog-is-under-renovation.md",
     "2022-11-07-introducing-bitesized-accessibility.md",
     "2022-10-14-third-article.md",
     "2022-10-19-first-article.md",
-    "2020-09-10-five-free-and-cheap-ways-to-improve-your-geospatial-technology-skills-and-learn-gis.md",
-    "2022.11.04-down-the-rabbit-hole-for-hacktoberfest.md"
+    "2020-09-10-five-free-and-cheap-ways-to-improve-your-geospatial-technology-skills-and-learn-gis.md"
   ]
 }
