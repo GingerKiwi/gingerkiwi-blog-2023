@@ -22,9 +22,9 @@ I was taught the warning signs of retinal detachment, including auras, flashes o
 
 We moved to New Zealand the year after my mom’s surgery. My father was from there, and the climate and pace of life would be much better for my mom’s eye health. Lifting heavy things — like shovelling snow — can be bad for people who have had detached retinas because heavy lifting causes increased eye pressure. Also the focus on a balanced lifestyle and cleaner food supply are much better for overall health. My mom still had her sight, but lost her night vision and was very sensitive to bright light. She could still drive, but only during daylight hours.
 
-PHOTO
+![The author riding a pony at Discovery School in Whitby, Wellington Region, New Zealand. She appears about 9 years old with long wavy hair. She is wearing a light blue cardigan, a skirt, and socks. A woman is leading the pony](/assets/blog/me-on-pony-discovery-school-nz.jpg)
 
-photo caption: The author riding a pony at Discovery School in Whitby, Wellington Region, New Zealand in the 1980s. I’d hid my glasses for the photo. I’m wearing a hand knit wool cardigan my Nana made me. She taught me to knit when I moved to Aotearoa New Zealand. She was my first “art and design teacher”.
+_photo caption: The author riding a pony at Discovery School in Whitby, Wellington Region, New Zealand in the 1980s. I’d hid my glasses for the photo. I’m wearing a hand knit wool cardigan my Nana made me. She taught me to knit when I moved to Aotearoa New Zealand. She was my first “art and design teacher”._
 
 Soon after moving to Wellington, New Zealand I saw a wonderful ophthalmologist who gave me my first pair of glasses. He was extremely British, had been knighted, and his office was so posh, interesting, and comfortable — less like a doctor’s office and more like a barrister’s. He was also very kind and good with kids. So even though I wasn’t completely happy with needing glasses, he helped me feel better and a bit less scared.
 
