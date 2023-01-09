@@ -24,7 +24,7 @@ We moved to New Zealand the year after my mom’s surgery. My father was from th
 
 ![The author riding a pony at Discovery School in Whitby, Wellington Region, New Zealand. She appears about 9 years old with long wavy hair. She is wearing a light blue cardigan, a skirt, and socks. A woman is leading the pony](/assets/blog/me-on-pony-discovery-school-nz.jpg)
 
-_photo caption: The author riding a pony at Discovery School in Whitby, Wellington Region, New Zealand in the 1980s. I’d hid my glasses for the photo. I’m wearing a hand knit wool cardigan my Nana made me. She taught me to knit when I moved to Aotearoa New Zealand. She was my first “art and design teacher”._
+_photo caption: The author riding a pony at Discovery School in Whitby, Wellington Region, New Zealand. I’d hid my glasses for the photo. I’m wearing a hand knit wool cardigan my Nana made me. She taught me to knit when I moved to Aotearoa New Zealand. She was my first “art and design teacher”._
 
 Soon after moving to Wellington, New Zealand I saw a wonderful ophthalmologist who gave me my first pair of glasses. He was extremely British, had been knighted, and his office was so posh, interesting, and comfortable — less like a doctor’s office and more like a barrister’s. He was also very kind and good with kids. So even though I wasn’t completely happy with needing glasses, he helped me feel better and a bit less scared.
 
@@ -37,7 +37,10 @@ We moved back to Canada at the start of middle school. I had a new eye surgeon t
 There was no way I was going to let that happen again! I was on the executive of the Outdoors club, and on the xc ski team. I was looking forward to five years of trips — including more winter ones, as well as xc ski races and marathons. As soon as I got back from that winter trip, I got my mom to make a contact lenses appointment. My ophthalmologist gave the green light to my getting contacts as long as I also took breaks. Given how active I was, the added peripheral vision might even help me avoid getting injured. Yeah!! No more glasses! He also didn’t see any retinal changes. Also very awesome — but being 14, I was a bit more thrilled about ditching the glasses.
 
 PHOTO
-PHOTO CAPTION: Me at the trailhead in Killarney Provincial Park in grade 10. It was a great Outer’s Club trip, and because I had contact lenses the 24 hour huge rain storm wasn’t an issue.
+
+![The author at the trailhead in Killarney Provincial Park in grade 10. She has a large backpack on, kaki hiking pants, and a red bandana on her head.](/assets/blog/esm-highschool-killarney-trailhead.jpg)
+
+_Photo caption: The author at the trailhead in Killarney Provincial Park in grade 10. It was a great Outer’s Club trip, and because I had contact lenses the 24 hour huge rain storm wasn’t an issue._
 
 Near the end of high school my mom’s retinas partially detached again. This time even with surgery again, she was legally blind in her left eye and visually impaired in her right. My mom now needed a white cane, and couldn’t drive. She had a 25 year perfect driving record. So when she went in to turn in her licence, the clerk looked at my mom’s record on her computer screen, looked back at my mom (with her white cane), looked at her screen again, and said “Are you sure you need to do this?”. She did, but had the feeling that the clerk would rather my mom be driving than others who’d had to surrender their license.
 
@@ -47,11 +50,11 @@ I was concerned about my mom because despite her sense of direction she loved to
 
 Then during my second year of university, my new ophthalmologist in Calgary saw some changes in my retina. I started having to have checkups more frequently. At the start of my fourth year there was a tiny new hole in my right retina. By the end of that year it had gotten a little bigger. I’d also developed migraines.
 
-On a Saturday in November 1997, I had an aura with flashing lights and a bad headache. There was no way to tell if this was my retina detaching or the start of a really bad migraine with my first visual migraine aura. My partner rushed to me my family doctor’s office because it was only a five minute drive — closer than the nearest hospital. I was lucky. My retina wasn’t detaching. It was “just” a severe migraine.
+On a Saturday in November of my final year at the University of Calgary, I had an aura with flashing lights and a bad headache. There was no way to tell if this was my retina detaching or the start of a really bad migraine with my first visual migraine aura. My partner rushed to me my family doctor’s office because it was only a five minute drive — closer than the nearest hospital. I was lucky. My retina wasn’t detaching. It was “just” a severe migraine.
 
-My ophthalmologist had me come in for a checkup soon after. That’s when I heard the sentence I’d been both dreading and expecting since I was four. “You need retinal surgery.” Since my retina had been weakening, and I couldn’t rely on typical signs of retinal detachment surgery needed to be asap. There was no waiting until I graduated from my double degree program in April 1998.
+My ophthalmologist had me come in for a checkup soon after. That’s when I heard the sentence I’d been both dreading and expecting since I was four. “You need retinal surgery.” Since my retina had been weakening, and I couldn’t rely on typical signs of retinal detachment surgery needed to be asap. There was no waiting until I graduated from my double degree program in April.
 
-My surgery was scheduled for the start of my last term in January 1998. I had to reduce my course load to the absolute minimum. In a meeting with my academic advisor we worked out a plan so I could graduate with both four year degrees: a BA in Geography and a BA in Social Anthropology. I wouldn’t be allowed to carry more than five pounds for 10–12 weeks afterwards — even in a backpack. This was before digital journal articles, eBooks, and scanned archival materials were standard. I had to reduce eye strain — so needed to limit using microfiche readers. Sadly, I dropped my senior year-long geography independent research course — “Irish immigration to Canada as a result of the 1846/47 potato famine.”, along with Visual Anthropology, and two other courses.
+My surgery was scheduled for the start of my last term in January. I had to reduce my course load to the absolute minimum. In a meeting with my academic advisor we worked out a plan so I could graduate with both four year degrees: a BA in Geography and a BA in Social Anthropology. I wouldn’t be allowed to carry more than five pounds for 10–12 weeks afterwards — even in a backpack. This was before digital journal articles, eBooks, and scanned archival materials were standard. I had to reduce eye strain — so needed to limit using microfiche readers. Sadly, I dropped my senior year-long geography independent research course — “Irish immigration to Canada as a result of the 1846/47 potato famine.”, along with Visual Anthropology, and two other courses.
 
 The surgery was a success (though really, really scary, and done when I was awake!). Though I still had severe near-sightedness, and have extra “floaties” in my vision from scar tissue, I didn’t loose my sight, and just have to wear contacts or glasses when I drive. I finished my courses, managed to deal with not being able to be active for three months, and moved back to Thunder Bay to finish the science degree I started at Lakehead University in my first year of university, and to continue on to a career in teaching.
 
@@ -61,35 +64,36 @@ I was supposed to receive my two parchments from U Calgary in the mail that fall
 
 The Social Anthropology course would be tricky though. At the time the University of Calgary had many different specialized degrees including: social anthropology, cultural anthropology, physical anthropology, a couple different degrees in the Archeology department, Museum Studies, and a Linguistics department with even more programs. The Social Anthropology program at UC was rigorous (and awesome!). Upper year courses almost always required primary archival and/or “real world” research. (If you’re in UX research you likely have an idea of it.) The course I was missing was from a specific group of upper year social anthropology ethnography courses — not material culture, physical anthropology or archeology. Lakehead had a small anthropology department with limited course offerings, some only scheduled in alternating years.
 
-In spring/summer term of 2000, an upper year ethnography course was being offered. It was the full 12 week-term, while most other courses were either the first or the last six weeks of term. To be eligible for student funding I had to be full-time with a minimum of three courses. I’d need two other six week courses. The few science courses were all off campus fieldwork ones, so I looked for electives. One of the art professors had little pictures she’d drawn of her goldfish posted around campus advertising her coloured pencil drawing art course. I love drawing, but had never taken a visual arts credit, so I chose that for the last six weeks of spring term. While registering for the drawing course, I saw a “Computer Art I” listed for the first six weeks of spring term. I’d done web and printed graphics design (in MS Paint, and Word) while working in the education computer lab, so that sounded interesting. Awesome! I’d be doing art while finishing the last course for my Social Anthropology degree, and enjoying the very long summer days up North. Yeah!
+In spring/summer term of my second year at Lakehead, an upper year ethnography course was being offered. It was the full 12 week-term, while most other courses were either the first or the last six weeks of term. To be eligible for student funding I had to be full-time with a minimum of three courses. I’d need two other six week courses. The few science courses were all off campus fieldwork ones, so I looked for electives. One of the art professors had little pictures she’d drawn of her goldfish posted around campus advertising her coloured pencil drawing art course. I love drawing, but had never taken a visual arts credit, so I chose that for the last six weeks of spring term. While registering for the drawing course, I saw a “Computer Art I” listed for the first six weeks of spring term. I’d done web and printed graphics design (in MS Paint, and Word) while working in the education computer lab, so that sounded interesting. Awesome! I’d be doing art while finishing the last course for my Social Anthropology degree, and enjoying the very long summer days up North. Yeah!
 
 Then, two weeks before spring term, the ethnography course was cancelled. I didn’t have a summer job, and was already approved for student funding for spring term. I needed three courses. So I picked up Computer Art II — still not having a precise idea of what either computer art course would actually involve. Little did I know how useful those “because I just needed credits in spring/summer term” would be.
 
-Computer Art I was held in the brand new Pentium II lab in the engineering building. The instructor was a professional graphic artist who shared her experience and knowledge. The course was focused on learning how to use Adobe Photoshop 5.0 from a more technical side to produce graphic design work. We learned about dpi for printed work vs the web, layers, pixels, fonts, white space, filters, … basically a combination of Photoshop 101 and graphic design 101.
+Computer Art I was held in the brand new computer lab in the engineering building. The instructor was a professional graphic artist who shared her experience and knowledge. The course was focused on learning how to use Adobe Photoshop from a more technical side to produce graphic design work. We learned about dpi for printed work vs the web, layers, pixels, fonts, white space, filters, … basically a combination of Photoshop 101 and graphic design 101.
 
 I loved it — even all the hours getting something in the exact pixel — and earned an A in the course. After all, I’d been the girl in primary school who needed her coloured pencils to go back in the exact same place in the box so the marks on the inside of the lid would match. There’s also something about growing up with a parent with vision loss that makes you appreciate putting things in a precise exact right place (and never, ever, switching the cayenne pepper and cinnamon on the spice rack!).
 
-Computer Art II was more focused on creating art works, and applying the principals of art with Adobe Photoshop. We also got to use the new Photoshop 5.5. Well, new for Lakehead. Version 5.5 was released in February 1999. The course was more geared to second and third year visual arts majors with art history coursework. But even without that experience, I loved the course and still was able to get a B. I also got a B in the coloured pencil drawing course — even through that was the first studio drawing course I’d ever taken.
+Computer Art II was more focused on creating art works, and applying the principals of art with Adobe Photoshop. We also got to use the newest version of Photoshop. Well, new for Lakehead. It had been released in February the year before. The course was more geared to second and third year visual arts majors with art history coursework. But even without that experience, I loved the course and still was able to get a B. I also got a B in the coloured pencil drawing course — even through that was the first studio drawing course I’d ever taken.
 
 Regrettably, I no longer have the files from my computer art courses, but I do have a few of the sketches from the coloured pencil drawing course.
 
-IMAGE: WATERCOLOUR PENCIL
-CAPTION: Watercolour pencil sketch of the beach by the fire bunkhouse in Red Lake Ontario. Drawn in summer 2000 for coloured pencil drawing, from a photo taken in summer 1993. A big black Labrador dog was keeping a little girl from running into the lake.
+![Watercolour pencil sketch of a beach on a lake with the sun setting. A big black Labrador dog was keeping a little girl from running into the lake.](/assets/blog/watercolour-pencil-drawing-redlake-beach.jpg)
 
-IMAGE: MARBLE PENCIL CRAYON
+_Caption: Watercolour pencil sketch of the beach by the fire bunkhouse in Red Lake Ontario. Drawn as an exercise for the coloured pencil drawing course, from a photo taken several years earlier. A big black Labrador dog was keeping a little girl from running into the lake.__
 
-CAPTION: Blue marble on tissue paper and glass square. One of the techniques exercises from my coloured pencil course. This blue marble took about 12 hours, and multiple sittings to do. The technique is “burnishing” where the artist uses a white pencil or special burnishing pencil to go over a layer of coloured pencil. Then the next layer of coloured pencil is added on top of the burnishing. The process is repeated to get a very deep colour with almost a 3D effect, and can be used to show reflections. The studio had rectangular lamps overhead.
+![Pencil crayon drawing of a blue marble on tissue paper and glass square.](/assets/blog/blue-marble-pencil-crayon-drawing.jpg)
+
+_Caption: Blue marble on tissue paper and glass square. One of the techniques exercises from my coloured pencil course. This blue marble took about 12 hours, and multiple sittings to do. The technique is “burnishing” where the artist uses a white pencil or special burnishing pencil to go over a layer of coloured pencil. Then the next layer of coloured pencil is added on top of the burnishing. The process is repeated to get a very deep colour with almost a 3D effect, and can be used to show reflections. The studio had rectangular lamps overhead._
 
 ---
 
-Over the years since summer 2000, I kept on using the skills I learned in those two computer art courses. When I started privately tutoring special ed and maths and sciences students in spring 2001, I was able to put together a quick professional looking brochure for parents. That was the start of my first and now former career as a special education academic coach and eventually also an adaptive educational technology specialist.
+Over the years since summer I first learned Adobe Photoshop, I kept on using the skills I learned in those two computer art courses. When I started privately tutoring special ed and maths and sciences students in spring 2001, (I was still in university) I was able to put together a quick professional looking brochure for parents. That was the start of my first and now former career as a special education academic coach and eventually also an adaptive educational technology specialist.
 
-I was part-time self employed from 2001 until I moved my practice to Toronto in fall 2012. This meant that I also had various contract jobs to pay the bills. Those computer art courses came in handy many times -like the time I got an interview for one job because the hiring manager wanted to know how I did that “box design thing” in my resume header. It was an interview for a contract position teaching computer and career skills to adults with physical disabilities from workplace injuries. I got the job.
+I was part-time self employed from 2001 until I moved my practice to Toronto in fall 2012. This meant that I also had various contract jobs to pay the bills. Those computer art courses came in handy many times - like the time I got an interview for one job because the hiring manager wanted to know how I did that “box design thing” in my resume header. It was an interview for a contract position teaching computer and career skills to adults with physical disabilities from workplace injuries. I got the job.
 
 Along the way, I created my own marketing materials for my private practice, and special summer programs including websites, brochures, and even calendar magnets for family’s fridges in 2017. Sometimes I’d use Wordpress or other hosting sites built in templates, then tweak the design/html/css. Other times — especially with printed materials — I’d start from scratch. The business side of running a business wasn’t always fun — Quickbooks was useful, but not pretty (and for whatever reason I hadn’t discovered [Xero](https://www.xero.com)) — but I always enjoyed graphic and web design, and doing it myself saved me tons of money.
 
-PHOTO: POSTCARD MAGNET
-Caption: Postcard sized magnetic calendar for 2017.
+![Postcard sized magnetic calendar for 2017. The style is a blackboard with the text and months in white chalk.](/assets/blog/postcard-calendar-magnet-pt2001-2017.jpg)
+_Caption: Postcard sized magnetic calendar for 2017_
 
 Using the skills my computer art instructors taught me, particularly the graphic designer, I picked up Adobe Spark, used Adobe Stock photos for marketing, and taught myself a bit of Adobe Illustrator, Final Cut, and iMovie. But it was all not my career main focus. I really liked helping teens and young adults with anxiety, depression, dyslexia and other learning disabilities, giftedness, adhd, concussions, those recovering from major illnesses, and high level student athletes. As more students had their own phones and mobile devices I became an adaptive technology specialist — recommending, setting up, and teaching students how to use their devices to support their learning styles and needs.
 
@@ -129,14 +133,17 @@ I had so much fun! It was a complete state of flow — something I’ve only hit
 
 The more I dove into it, the more I’m excited about learning to use Adobe Xd really well. My group is excited about the potential to have an interactive prototype for our assignment video. (We need a video demonstration and a very long report.) I really liked that it was easy to switch between a dark mode theme that closely matches the STEM Academy’s brand and a high contrast light mode that’s more accessible. Yes, I’m the team member constantly bringing up accessibility. So making creating a user controlled option for a high contrast theme quick and easy is so helpful.
 
-PHOTO: SCREENSHOT OF TEACHER DASHBOARD - COLOUR
-Initial prototype of teacher site — main dashboard for lesson planning. Branded/dark mode colour scheme. All the places that say “Te reo” need to be translated into Te Reo Māori.
+![Dark mode dark blue and bright crimson teacher computer web dashboard . There's two rows of 3 icons for options](/assets/blog/maori-stem-teacher-dashboard-colour.jpg)
+_Caption: Initial prototype of teacher site — main dashboard for lesson planning. Branded/dark mode colour scheme. All the places that say “Te reo” need to be translated into Te Reo Māori_
 
-PHOTO: HIGH CONTRAST TEACHER DASHBOARD
-Initial prototype of teacher site — main dashboard for lesson planning. High contrast light colour scheme. All the places that say “Te reo” need to be translated into Te Reo Māori.
 
-PHOTO: TEACHER ACTIVITY PLANNING PAGE
-Initial prototype of the planning an activity page (teacher site). All the places that say “Te reo” need to be translated into Te Reo Māori. All pdfs will be accessible OCR format.
+![white and dark blue high contrast teacher computer web dashboard . There's two rows of 3 icons for options](/assets/blog/maori-stem-teacher-dashboard-high-contrast.jpg)
+_Caption: Initial prototype of teacher site — main dashboard for lesson planning. High contrast light colour scheme. All the places that say “Te reo” need to be translated into Te Reo Māori.__
+
+![Initial prototype of teacher planning page.](/assets/blog/maori-stem-teacher-planning-page.jpg)
+_Caption: Initial prototype of the planning an activity page (teacher site). All the places that say “Te reo” need to be translated into Te Reo Māori. All pdfs will be accessible OCR format._
+
+[download a pdf of the project file here](https://github.com/GingerKiwi/gingerkiwi-blog-2023/blob/main/src/assets/2021.04.31_FINAL-LOW-FI-PROTOTYPE-MasseyUni-158.359UX-Group07-Xd-DesignWk-by-LizMcCready.pdf)
 
 Having the positive feedback from my teammates and having an awesome flow day designing something has led to my being sure that I going the design career path in tech is right for me — even more so if I can work with a diverse, fun team like in my UX course. Then this morning (during morning coffee) I found the [YouTube channel](https://www.youtube.com/channel/UCWUGGwfTfJ0-2jUS3dZqOJA) of another Kiwi woman — Femke — also living in Toronto and working in product design for Uber Eats. Her video [_“How much does a UX designer earn? Real numbers and my salary history“_](https://youtu.be/P5QcZ3CtzGc) just underscored that design side of tech can definitely lead to financial stability. (Her other videos also look awesome.)
 
@@ -163,14 +170,20 @@ Here’s a few of my knitting projects. Knitting and drawing were my start to th
 > ~Kim Salazar on Knit List on LISTSERV circa late 1990s
 
 
-PHOTO: TEAL SWEATER YOKE DETAIL
-Yoke detail on my most recent (almost finished) pullover sweater. The design is adapted from Vintersol by [Jennifer Steingass](https://www.ravelry.com/designers/jennifer-steingass)
+![close up of a knitted sweater yoke. the yoke is light beige with brown trees. the sweater is medium teal blue colour](/assets/blog/knitting-land-and-sky-percentage-system-sweater-yoke-detail.jpg)
+_Caption: Yoke detail on my most recent (almost finished) pullover sweater. The design is adapted from Vintersol by [Jennifer Steingass](https://www.ravelry.com/designers/jennifer-steingass)_
 
-PHOTO: CELTIC MOONRISE MITTENS
-My first interlaced Celtic cables project finished in November 2016. The pattern is Celtic Moonrise Mittens by [Rhiannon Don.](https://www.ravelry.com/designers/rhiannon-don)
+![grey marle knitted mittens with a complex interlocking Celtic cable design](/assets/blog/knitting-celtic-moonrise-mittens.jpg)
+_Caption: My first interlaced Celtic cables project finished in November 2016. The pattern is Celtic Moonrise Mittens by [Rhiannon Don.](https://www.ravelry.com/designers/rhiannon-don)_
 
 PHOTO: CABLED CARDIGAN DETAIL
-Detail of the back cable panel of my long cabled cardigan. My own design.
+![Closeup of a light cream knitted cardigan cable panel detail. There's a paper Ikea measuring tape to provide scale. The panel is about 13 cm wide.](/assets/blog/knitting-cabled-cardigan-jacket-back-panel-detail.jpg)
+_Caption: Detail of the back cable panel of my long cabled cardigan. My own design.__
 
 PHOTO: CABLED CARDIGAIN, KITTEN, CROCHETED PINK THROW
-Completed cabled cardigan. My cable designs. The maths of the style is based off of [Elizabeth Zimmermann’s percentage system](https://knitty.com/ISSUEwinter04/FEATknitbynumbers.html) (sweater math) for pullovers. I designed the arms and torso longer because I’m tall, and the extra room in the shoulders so it’s easy to layer in winter. Also showing a pink crocheted throw I whipped up in 2019 and the biggest of my three recuse cats — Kitten, my Norwegian Forest Cat cross. He’s included here because cats + yarn + working at home + this is posted online.
+![Cream knitted cabled cardigan jacket laying on a bed with a large white cat, and a pink crocheted granny square throw blanket](/assets/blog/knitting-cabled-cardigan-jacket-with-Kitten-and-pink-crocheted-throw.jpg)
+_Caption: Completed cabled cardigan. My cable designs. The maths of the style is based off of [Elizabeth Zimmermann’s percentage system](https://knitty.com/ISSUEwinter04/FEATknitbynumbers.html) (sweater math) for pullovers. I designed the arms and torso longer because I’m tall, and the extra room in the shoulders so it’s easy to layer in winter. Also showing a pink crocheted throw I whipped up in 2019 and the biggest of my three recuse cats — Kitten, my Norwegian Forest Cat cross. He’s included here because cats + yarn + working at home + this is posted online.__
+
+---
+
+Note: Originally published on Medium.com. Edited and added to gingerkiwi.blog on January 09, 2023.
