@@ -15,4 +15,4 @@ A major highlight was my UX course. I was part of a 5 person team working remote
 
 [download a pdf of the project file here](https://github.com/GingerKiwi/gingerkiwi-blog-2023/blob/main/src/assets/2021.04.31_FINAL-LOW-FI-PROTOTYPE-MasseyUni-158.359UX-Group07-Xd-DesignWk-by-LizMcCready.pdf)
 
-[A long format blog post about my experience learning Adobe Xd for this project is published on Medium.com here](https://gingerkiwi-dev.medium.com/how-having-surgery-for-a-hole-in-my-retina-led-to-teaching-myself-adobe-xp-yesterday-52926fa199a9)
+[A long format blog post about my experience learning Adobe Xd for this project is here](https://gingerkiwi.blog/blog/2021-05-27-how-having-surgery-for-a-hole-in-my-retina-led-to-teaching-myself-adobe-xd-yesterday/)
