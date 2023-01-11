@@ -62,5 +62,7 @@ LinkedIn is a powerful platform for SaaS marketing. By implementing these five t
 ### Photo and Image Credits
 Cover Photo: Alexander Shatov on Unsplash https://unsplash.com/photos/9Zjd7PE_FRM
 
+First article image: Screenshot taken from Directive Consulting website
+
 Other images created by the author using a design kit provided by Directive Consulting
 
