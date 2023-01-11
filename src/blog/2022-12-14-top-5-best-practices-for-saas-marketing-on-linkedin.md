@@ -7,7 +7,8 @@ imageAlt: >
  'linkedin logo in a stylized rounded 3d form'
 imageCaption: 'ADD CAPTION'
 description: >
- LinkedIn is the best B2B marketing platform because of its 800 million members and professional networking focus. But it’s also one of the priciest. To get the highest ROI for your SaaS marketing budget use these top five best practices for SaaS marketing on LinkedIn. (Written as part of final stage of a job application/interviewing process in 2022.)
+ LinkedIn is the best B2B marketing platform because of its 800 million members and professional networking focus. But it’s also one of the priciest. To get the highest ROI for your SaaS marketing budget use these top five best practices for SaaS marketing on LinkedIn.
+ This was written as part of final stage of a job application and interviewing process in 2022.
 ---
 
 LinkedIn is the best B2B marketing platform because of its 800 million members and professional networking focus [https://blog.hubspot.com/marketing/linkedin-pixel]. But it’s also one of the priciest. To get the highest ROI for your SaaS marketing budget use these top five best practices for SaaS marketing on LinkedIn.
@@ -30,24 +31,22 @@ When Directive employed a long-tailed keyword stratgey for ActivePDF their lead 
 
 ## 2. Try Multiple Single Persona Campaigns
 
-Directive’s Josh Nelson and former X Brian Bui found that running multiple specific individualized customer persona campaigns resulted in higher engagement and conversion rates.
+Directive’s Josh Nelson and former director of marketing Brian Bui found that running multiple specific individualized customer persona campaigns resulted in higher engagement and conversion rates.
 Sponsored content has a frequency of once every four days per ad, so it’s best practice to have four different sponsored content variants within one campaign. 
 
-{% embed https://youtu.be/yko7C-298Vw %}
+[Single Persona Campaigns: Account Structure for LinkedIn Ads - Directive R&D](https://youtu.be/yko7C-298Vw)
 
 ## 3. Use Square Images for Direct Sponsored Content
 
 In a 2021 A/B test Sr. Paid Media Strategist at Directive, Tim Davidson found that square images had a much higher click through rate (1.18% vs 0.69%) and lower cost per result ($145.45 vs $212.35) than LinkedIn’s recommended 1200 x 627 pixels rectangular ad size. Square images take up more screen space on mobile devices than rectangular ones and provide users with a larger area to click/tap through on.
 
 [LinkedIn Sp Content Ads Square vs Rectangle Format - Directive R&D]( https://youtu.be/XSUaIYEUtQ8)
-{% embed https://youtu.be/XSUaIYEUtQ8 %}
 
 ## 4. Use Warm Messaging Ads
 
 Message ads sent to LinkedIn members who have seen sponsored content ads from the same advertiser improves engagement. The results include both a higher open rate and a higher click rate compared to “cold” messaging ads.
 
 [Mixing Ad Formats in LinkedIn Ads - Does it work? - Directive R&D]( https://youtu.be/35p1dNZfDEM)
-{% embed https://youtu.be/35p1dNZfDEM %}
 
 ## 5. Implement an Account Based Marketing Strategy with Quality Content
 
@@ -60,8 +59,8 @@ https://directiveconsulting.com/wp-content/uploads/2021/04/Case_Study_TigerConne
 LinkedIn is a powerful platform for SaaS marketing. By implementing these five top best practices along with good market research and promptly replying to leads you will have the best return on your marketing budget.
 
 ---
-### Photo Credit
+### Photo and Image Credits
 Cover Photo: Alexander Shatov on Unsplash https://unsplash.com/photos/9Zjd7PE_FRM
 
-Other images created using design kit provided by Directive Consulting
+Other images created by the author using a design kit provided by Directive Consulting
 
