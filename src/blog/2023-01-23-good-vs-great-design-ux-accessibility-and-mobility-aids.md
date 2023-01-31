@@ -113,8 +113,9 @@ Cons:
 - The metal stick is cold and can be hard to fold while wearing gloves or mittens.
 - The metal can chip over time, especially if you have to fold and unfold it a lot. 
 
-![ALT!](/assets/blog/switchsticks-walkingcane-viking-purple-folded.png)
-
+<img class="img-smaller"
+     src="/assets/blog/switchsticks-walkingcane-viking-purple-folded.png"
+     alt="ALT">
 ---
 ### Crutches
 
@@ -122,17 +123,25 @@ Here in Canada we tend to use underarm crutches. But in the UK,  Europe, South A
 
 #### Smart Crutches
 
-![ALT!](/assets/blog/smartcrutch-insta-2021-08-05-pinkzebra.png)
 
+<img class="img-smaller"
+     src="/assets/blog/smartcrutch-insta-2021-08-05-pinkzebra.png"
+     alt="ALT">
 Smart crutches are adjustable forearm crutches that take the users' weight off of their hands, wrists, and underarms.
 
 Smart Crutches were invented by Colin Albertyn  https://www.linkedin.com/in/colin-albertyn-84200242/?originalSubdomain=za after he ruptured his Achilles tendon. (Patent issued Feb 7, 2013) The company Smart Mobility is run by X, Y, and Z 
 
+There's also a folding travel version.
+
+<img class="img-smaller"
+     src="/assets/blog/smartcrutch-foldingtravel-allcolours.png"
+     alt="ALT">
+     
 #### Cool Crutches
 
-![ALT!](/assets/blog/coolcrutches-2022.07.23-companyowner-on-cell-pinkblazer.png)
-
-
+<img class="img-smaller"
+     src="/assets/blog/coolcrutches-2022.07.23-companyowner-on-cell-pinkblazer.png"
+     alt="ALT">
 
 ---
 ### Active User Manual Wheelchairs
