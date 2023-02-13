@@ -13,13 +13,17 @@ This past weekend I volunteered at #A11yTOCamp at Microsoft here in Toronto. One
 
 This led to many conversations about design and mobility aids. A couple of the guide dogs, such as Louise's GD Charlie, had the new CNIB harness with a guiding handle that detaches for when the dogs are laying down (like during a talk), then clips back on for guiding. Instead of the more common upside down u-shaped guide handle that attaches on either side of the guide harness, the new CNIB ones are a single pole that clips into the centre of the dogs harness on their back. What a revolutionary design! It's a solid example of good design. But what separates good design and UX from great design?
 
-**Great design and user experience isn't just about a product being functional and usable, it should be aesthetically pleasing and bring joy to users**. It should make people want to use the product because it's fun, is enjoyable, makes them smile, and makes their day better - not only because it works well. So how does this apply to mobility aids? 
+**Great design and user experience isn't just about a product being functional and usable, it should be aesthetically pleasing and bring joy to users**. It should make people want to use the product because it's fun, is enjoyable, makes them smile, and makes their day better - not only because it works well. Think about when you viewed a website, app, or software that had good content and functioned well, but the design was poor. How long did you stay on the site or continue using the software? Did you go looking for another site, app, or software that was more enjoyable? How would you feel if that site, app, or software was the only one you could use to get a major work task done, and you had to spend the majority of your workweek using it?
+
+Now think about some of your favourite apps, websites, and software. Are there ones that make you smile and you enjoy using and do what you need them to? 
+
+So how do these concepts for digital design apply to physical products such as mobility aids? 
 
 ### What Are Mobility Aids?
 
 First, let's start with what a mobility aid is. **A mobility aid is anything that helps someone with a disability, chronic illness, or injury be mobile.** There are hundreds of types of mobility aids. The most commonly thought of ones are canes, crutches, wheelchairs, and scooters, but there's so many more. If you've used a bandaid to pad a bad blister to help you walk, you've used a mobility aid. Guide dogs (seeing eye dogs) and mobility service dogs and their harnesses are mobility aids - really cute and high maintenance mobility aids. People who use mobility aids don't always need the same mobility aid(s) every day or even use them the same way. Disability, chronic illness, and injury are dynamic. 
 
-**Too often mobility aids are medicalized and/or are promoted as only for elderly people such as in the screenshot of the [Shopper's Drugmart Wellwise landing page for canes shown below.](https://shop.wellwise.ca/pages/canes?)** The latter reinforces the stereotype that disability only affects older people. The former is boring, joyless, and can be soul crushing. For braces and bandages, the beige "skin colour" of many of them isn't anyone's skin colour, and it gets dirty and even uglier with use. While boring canes and crutches may be well designed for function, they're not great designs. They don't inspire people to use them, especially fashionable and younger users. 
+**Too often mobility aids are medicalized and/or are promoted as only for elderly people such as in the screenshot of the [Shopper's Drugmart Wellwise landing page for canes shown below.](https://shop.wellwise.ca/pages/canes?)** The latter reinforces the stereotype that disability only affects older people. The former is boring, joyless, and can be soul crushing. For braces and bandages, the beige "skin colour" of many of them isn't anyone's skin colour, and it gets dirty and even uglier with use. While boring canes and crutches may be well designed for function, they're not great designs. They don't inspire people to use them, especially fashionable and younger users. They're the physical equivalent to good functioning, but ugly apps, websites, or software. If they're the only option, you might use them, but you won't be your best self when you are. This leads to our next point about great design - it can support mental health, and happiness.
 
 ![Screenshot of the "hero" section for Shoppers Drugmart Wellwise landing page for canes](/assets/blog/screenshot-canes-shoppersdrugmart-wellwise-website.png "image on right side shows a senior woman and man walking outside on a trail with trees in the background. The man is using a plain brown walking cane. The couple are smiling. They appear Asian. Left side is a medium blue area with white text. The text says: Canes. Stand Firm. Canes are a popular solution when you need extra mobility support to remain active in your daily life. While a cane might seem like a simple product, the number of models, adjustments, and accessories can seem overwhelming in the beginning. That’s why we’re here to help you find the right fit for your needs. There's a button to 'shop canes' and one labled cane resources ")
 
@@ -30,44 +34,11 @@ I spoke to a UX professional at the after party who's sibling has a chronic illn
 
 I've had similar experiences being an active outdoors person and former dancer who's sprained my ankles way too many times.  There's been times, such as last summer/fall when I sprained one twice and the other once, when it would have been better for my ankles to use the ugly, clunky "air cast" walking ankle brace and grey ugly underarm crutches, but I opted to use my Nordic walking poles (or my purple and pink canes on transit) and pink zebra print KT Tape instead, because doing so made me happier. (And resulted in less people asking *"What's wrong with you?"* and more comments like *"Those are really cool canes!"*.)
 
-From the Instagram Post of this Article's Title Image:
+Lindsay Watterson, inventor and founder of Neo Walk walking sticks:
 
-> Neo-Walk founder Lindsay Watterson: 
-> I’ve spoken to many people who use fashion and style as a creative tool to cope with chronic pain and illness. I know I do. I always feel much more ’ human’ when I’ve made the effort, even when it’s a struggle.   
-Today our gorgeous [@bumpandhustle](https://www.instagram.com/bumpandhustle/) speaks about her day.   
-🥰🥰🥰🥰  
->[@bumpandhustle](https://www.instagram.com/bumpandhustle/) Today, instead of hiding my pain and not posting, I went from pjs to yellow heels, a white tulle skirt, a tie-dye top and did my hair and make up just so I could.⁣  
-⁣  
-Because in that moment, that’s what my chronic pain needed as a creative outlet. ⁣  
-⁣  
-I’ve written about this before- recently even. That sometimes I lean into my pain or my anxiety by dressing her up.⁣  
-⁣  
-Letting my body feel with flourish.⁣  
-⁣  
-It doesn’t work all the time and that’s ok. ⁣  
-⁣  
-But sometimes when I feel that particular tremulous voltage, whether it’s a flare or swirling anxious thoughts -or today my connective tissue disease causing severe joint pain - I know it’s time to plug in and show up this way.⁣  
-⁣  
-And my whole family shows up with me. ⁣  
-⁣  
-That’s all for today.⁣  
-⁣  
-I just wanted to show you what showing up looked like.⁣  
-⁣  
-I wanted to show you how we got my mind off my pain, while celebrating my body for a good 30 mins.⁣  
-⁣  
-Thank you Heath for taking this pic. For being there with me.⁣  
-I love you so much.⁣  
-⁣  
-There were a few times today I didn’t know how to get through but we did it, as always, one breath at a time.⁣  
-⁣  
-If you are navigating through a hard day please know that I see you. ⁣  
-⁣  
-You are not alone.⁣  
-⁣  
-I am so glad you are here, showing up however you feel is right for you.⁣  
-⁣  
-🖤⁣
+> "I was so disappointed with the lack of choice, style, and inclusion in the fashion and disability aids world. I felt old, I felt left out and devastated that nobody expected anything better for me. So, I made myself a walking stick. People started asking me where I got this stick and so Neo Walk was born."
+> 
+[http://splinx.co.uk/Empowering-the-Difference-Lyndsay-Watterson.html](http://splinx.co.uk/Empowering-the-Difference-Lyndsay-Watterson.html)
 
 ### Questions
 
@@ -85,9 +56,6 @@ Well there are fashionable, cool, and functionally well designed mobility aids. 
 
 Some of, if not *the* most fashionable walking sticks out there are from Neo Walk in the UK. Neo Walk walking sticks are made of beautiful tactile acrylic, come in so many colours including clear translucent and glitter, a choice of handle shapes, and can even light up. [Lindsay Watterson](https://www.linkedin.com/in/lyndsay-watterson-a146b97a/?originalSubdomain=uk) created neo-walk in 2013 after becoming an amputee in 2010.
 
-> "I was so disappointed with the lack of choice, style, and inclusion in the fashion and disability aids world. I felt old, I felt left out and devastated that nobody expected anything better for me. So, I made myself a walking stick. People started asking me where I got this stick and so Neo Walk was born."
-> 
-[http://splinx.co.uk/Empowering-the-Difference-Lyndsay-Watterson.html](http://splinx.co.uk/Empowering-the-Difference-Lyndsay-Watterson.html)
 
 Three cool Neo Walk walking cane options:
 
@@ -191,6 +159,48 @@ https://www.cbc.ca/news/canada/newfoundland-labrador/pov-sorting-out-the-service
      alt="ALT">
 
 Louise (works with X ) and her guide dog Charles. 
+
+---
+### A Final Quote
+From the Instagram Post of this Article's Title Image:
+
+> Neo-Walk founder Lindsay Watterson: 
+> I’ve spoken to many people who use fashion and style as a creative tool to cope with chronic pain and illness. I know I do. I always feel much more ’ human’ when I’ve made the effort, even when it’s a struggle.   
+Today our gorgeous [@bumpandhustle](https://www.instagram.com/bumpandhustle/) speaks about her day.   
+🥰🥰🥰🥰  
+>[@bumpandhustle](https://www.instagram.com/bumpandhustle/) Today, instead of hiding my pain and not posting, I went from pjs to yellow heels, a white tulle skirt, a tie-dye top and did my hair and make up just so I could.⁣  
+⁣  
+Because in that moment, that’s what my chronic pain needed as a creative outlet. ⁣  
+⁣  
+I’ve written about this before- recently even. That sometimes I lean into my pain or my anxiety by dressing her up.⁣  
+⁣  
+Letting my body feel with flourish.⁣  
+⁣  
+It doesn’t work all the time and that’s ok. ⁣  
+⁣  
+But sometimes when I feel that particular tremulous voltage, whether it’s a flare or swirling anxious thoughts -or today my connective tissue disease causing severe joint pain - I know it’s time to plug in and show up this way.⁣  
+⁣  
+And my whole family shows up with me. ⁣  
+⁣  
+That’s all for today.⁣  
+⁣  
+I just wanted to show you what showing up looked like.⁣  
+⁣  
+I wanted to show you how we got my mind off my pain, while celebrating my body for a good 30 mins.⁣  
+⁣  
+Thank you Heath for taking this pic. For being there with me.⁣  
+I love you so much.⁣  
+⁣  
+There were a few times today I didn’t know how to get through but we did it, as always, one breath at a time.⁣  
+⁣  
+If you are navigating through a hard day please know that I see you. ⁣  
+⁣  
+You are not alone.⁣  
+⁣  
+I am so glad you are here, showing up however you feel is right for you.⁣  
+⁣  
+🖤⁣
+
 
 ---
 ### References
