@@ -71,7 +71,7 @@ h1 {
     font-weight: 500;
     color: var(--accent-1);
     margin-top: 0;
-    font-size: 2rem;
+    font-size: 2.25rem;
     align-content: center;
 }
 
@@ -80,11 +80,20 @@ h2 {
     font-family: var(--font-family-sans-2);
     color: var(--accent-1);
     margin-top: 0;
+    font-size: 2rem;
 }
 
 h3 {
-    font-family: var(--font-family-sans-2);
     color: var(--accent-2);
+    font-size: 1.75rem;
+}
+h3, h4 {
+    font-family: var(--font-family-sans-2);
+}
+
+h4 {
+    color: var(--accent-1);
+    text-transform: uppercase;
 }
 
 a {

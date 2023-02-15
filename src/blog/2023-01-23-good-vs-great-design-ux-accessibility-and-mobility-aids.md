@@ -6,7 +6,7 @@ image: '/assets/blog/screenshot-neowalk-insta-bumpandhustle-2021-01-10.png'
 imageAlt: 'yyy'
 imageCaption: 'ADD CAPTION'
 description: >
- This past weekend, I volunteered at #A11yTOCamp at Microsoft here in Toronto. With the event's focus on accessibility there were many people with visible mobility aids. This led to many conversations about design and mobility aids. Great design and user experience isn't just about a product being functional and usable, it should be aesthetically pleasing and bring joy to users. This is true for both digital and physical products.
+ This past weekend, I volunteered at #A11yTOCamp at Microsoft here in Toronto. With the event's focus on accessibility there were many people with visible mobility aids. This led to many conversations about design and mobility aids. Great design and user experience isn't just about a product being functional and usable, it should be aesthetically pleasing and bring joy to users. This is true for both digital and physical products. The two goals of this article are to discuss the links between great design in both digital and physical products and  to share a list of mobility aids with great designs - because anyone can become disabled and 20-25% of people are. There's no need to deal with ugly websites, apps - or mobility aids.
 ---
 
 This past weekend I volunteered at #A11yTOCamp at Microsoft here in Toronto. One of the best parts was meeting new awesome people and seeing ones I've met at events in the past again. With the event's focus on accessibility there were many people with visible mobility aids including walking canes, wheelchairs, rollators (walkers), white canes, and service dogs. 
@@ -30,7 +30,7 @@ First, let's start with what a mobility aid is. **A mobility aid is anything tha
 
 ### Great Design Can Support Mental Health & Happiness 
 
-I spoke to a UX professional at the after party who's sibling has a chronic illness that causes pain and fatigue. She's avoided using mobility aids that would make her life easier because they're ugly, and she's very into fashion. They're also very medical in design. Like many with chronic illness she also has medical ptsd*. This isn't vanity. It's prioritizing mental health over physical.  The only mobility aids she's seen are the boring, ugly, medical ones that don't reflex who she is. That's part of the inspiration for this article - having one place to share some of the great designed, beautiful and/or cool mobility aids with others.
+I spoke to a UX professional at the after party who's sibling has a chronic illness that causes pain and fatigue. She's avoided using mobility aids that would make her life easier because they're ugly, and she's very into fashion. They're also very medical in design. Like many with chronic illness she also has medical ptsd*. This isn't vanity. It's prioritizing mental health over physical.  The only mobility aids she's seen are the boring, ugly, medical ones that don't reflect who she is. That's part of the inspiration for this article - having one place to share some of the great designed, beautiful and/or cool mobility aids with others.
 
 I've had similar experiences being an active outdoors person and former dancer who's sprained my ankles way too many times.  There's been times, such as last summer/fall when I sprained one twice and the other once, when it would have been better for my ankles to use the ugly, clunky "air cast" walking ankle brace and grey ugly underarm crutches, but I opted to use my Nordic walking poles (or my purple and pink canes on transit) and pink zebra print KT Tape instead, because doing so made me happier. (And resulted in less people asking *"What's wrong with you?"* and more comments like *"Those are really cool canes!"*.)
 
@@ -44,15 +44,19 @@ Lindsay Watterson, inventor and founder of Neo Walk walking sticks:
 
 Some things to think about as you read:
 
-1. **Why can't mobility aids be fashionable as well as functional?** 
-2. **Why don't web designers and developers make more of an effort to use images with people of a variety of ages and ethnicities using mobility aids that look awesome?** 
+1. Why can't mobility aids be fashionable as well as functional?
+2. What links can you see between great designs for physical products such as mobility aids and digital products like websites, apps, and software?
+3. **Why don't web designers and developers make more of an effort to use images with people of a variety of ages and ethnicities using mobility aids that look awesome?** 
 
-Well there are fashionable, cool, and functionally well designed mobility aids. Here's a few. A few are from my own experience and/or wish list. Others are from my hours of watching YouTube while I knit, or conversations with people about their mobility aids. Not surprisingly many of the best designed mobility aids have been designed by people who actually use mobility aids. This is not a comprehensive list of types of mobility aids nor brands, but an overview of examples of great design - aids that are beautiful, cool, *and* functional.
+### List of Mobility Aids with Great Designs
+
+There are fashionable, cool, and functionally well designed mobility aids. Here's a few. A few are from my own experience and/or wish list. Others are from my hours of watching YouTube while I knit, or conversations with people about their mobility aids. Not surprisingly, many of the best designed mobility aids have been designed by people who actually use mobility aids. This is not a comprehensive list of types of mobility aids nor brands, but an overview of examples of great design - aids that are beautiful, cool, *and* functional.
 
 ---
-### Walking Sticks/Canes
 
-#### Neo Walk [www.neo-walk.com](www.neo-walk.com)
+#### Walking Sticks/Canes
+
+##### Neo Walk [www.neo-walk.com](www.neo-walk.com)
 
 Some of, if not *the* most fashionable walking sticks out there are from Neo Walk in the UK. Neo Walk walking sticks are made of beautiful tactile acrylic, come in so many colours including clear translucent and glitter, a choice of handle shapes, and can even light up. [Lindsay Watterson](https://www.linkedin.com/in/lyndsay-watterson-a146b97a/?originalSubdomain=uk) created neo-walk in 2013 after becoming an amputee in 2010.
 
@@ -65,7 +69,7 @@ Three cool Neo Walk walking cane options:
 
 [Beetlejuice themed walking stick with t-handle](https://www.neo-walk.com/wp-content/uploads/2022/10/Beetlejuice-1-Close-Up-1-scaled.jpg)  ![ALT](https://www.neo-walk.com/wp-content/uploads/2022/10/Beetlejuice-1-Close-Up-1-scaled.jpg)
 
-#### Switch Sticks
+#### Switch Sticks [https://switchsticks.com/](https://switchsticks.com/)
 
 A more affordable option for those of us in Canada (or the USA) is a folding walking stick by Switch Sticks. They are sturdy metal folding canes with a variety of colours and patterns. There's only one handle style - derby. I have two of these, both purchased on Amazon. My newest one is the "Viking" purple after I sprained my ankle again in summer 2022. 
 
@@ -139,24 +143,7 @@ Jessica Kellegren-Fozard
 
 
 ---
-### A Few Quick Notes About Service Dogs
 
-Service dogs (definition here) deserve their own article series. 
-
-Service dogs are dogs that are trained to do tasks that specifically help with their handler's disability. Guide dogs/seeing eye dogs are the superheros of service dogs. However, service dogs have a wide variety of jobs for the entire spectrum of disability including mobility, hearing, medical alert and response, psychiatric, and neurodiversity such as autism.
-
-They have public access training and advanced obedience training. Not all service dogs are quiet. Some are trained to bark and/or jump up to alert their handler of a medical event such as change in heart rate, blood pressure, blood sugar, a severe migraine or, a seizure.
-
-While Labradors, Golden Retrievers, Standard Poodles, and German Sheppards are the most common service dogs, service dogs can be any breed. For example, Pomeranians have a talent for medical alert, and some handlers carry them on chest harnesses so they can better smell changes in blood sugar or other medical events.
-
-Emotional support dogs are dogs that provide emotional support to their owners. They don't have any specific training and do not have public access rights.
-
-Therapy dogs are pets who volunteer their time with their owners to go into schools, hospitals, or other settings to provide comfort to people. They usually have temperament testing to make sure that they're calm, friendly, and not easily startled.
-
-"They're the equivalent of any other accessibility aid, like a wheelchair or a white cane, and they shouldn't be separated from their handler." 
-https://www.cbc.ca/news/canada/newfoundland-labrador/pov-sorting-out-the-service-dog-confusion-ainsley-hawthorn-1.5471013
-<img class="img-smaller" src="https://i.cbc.ca/1.4625567.1524086313!/cpImage/httpImage/veterans-dogs-20180313.jpg"
-     alt="ALT">
 
 Louise (works with X ) and her guide dog Charles. 
 
