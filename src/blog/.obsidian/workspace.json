@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-01-23-good-vs-great-design-ux-accessibility-and-mobility-aids.md",
+                "file": "2023-02-12-100-days-of-code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-01-23-good-vs-great-design-ux-accessibility-and-mobility-aids.md",
+                "file": "2023-02-12-100-days-of-code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-01-23-good-vs-great-design-ux-accessibility-and-mobility-aids.md"
+                "file": "2023-02-12-100-days-of-code.md"
               }
             }
           },
@@ -167,10 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e1bbb4aba4c1e51",
+  "active": "5cab1fcbaa8ea4cb",
   "lastOpenFiles": [
-    "2023-02-12-100-days-of-code.md",
     "2023-01-23-good-vs-great-design-ux-accessibility-and-mobility-aids.md",
+    "2023-02-12-100-days-of-code.md",
     "100-days-of-technical-seo.md",
     "2021-05-27-how-having-surgery-for-a-hole-in-my-retina-led-to-teaching-myself-adobe-xd-yesterday.md",
     "screenshot-canes-shoppersdrugmart-wellwise-website.png.md",
