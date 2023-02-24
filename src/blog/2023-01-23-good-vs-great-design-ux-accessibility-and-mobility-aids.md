@@ -3,7 +3,7 @@ title: Good vs Great Design, UX, Accessibility, and Mobility Aids
 date: 2023-01-23
 tags: ["post", "featured", "a11y", "ux", "mobility-aids"]
 image: '/assets/blog/screenshot-neowalk-insta-bumpandhustle-2021-01-10.png'
-imageAlt: 'yyy'
+imageAlt: 'Young woman wearing a high fashion, light greyish purple off the shoulder short sleeved dress and a very wide brimbed matching hat. She has straight black shoulder length hair, and appears to be Asian. She has a translucent bright purple curved handle walking cane with bubbles inside it and a light pink ribbon strap hanging from the handle. She's also wearing a very wide leather black goth type belt and platform boots. One leg has tatoos and the other might be a prostetic'
 imageCaption: 'ADD CAPTION'
 description: >
  This past weekend, I volunteered at #A11yTOCamp at Microsoft here in Toronto. With the event's focus on accessibility there were many people with visible mobility aids. This led to many conversations about design and mobility aids. Great design and user experience isn't just about a product being functional and usable, it should be aesthetically pleasing and bring joy to users. This is true for both digital and physical products. The two goals of this article are to discuss the links between great design in both digital and physical products and  to share a list of mobility aids with great designs - because anyone can become disabled and 20-25% of people are. There's no need to deal with ugly websites, apps - or mobility aids.
@@ -23,7 +23,9 @@ So how do these concepts for digital design apply to physical products such as m
 
 First, let's start with what a mobility aid is. **A mobility aid is anything that helps someone with a disability, chronic illness, or injury be mobile.** There are hundreds of types of mobility aids. The most commonly thought of ones are canes, crutches, wheelchairs, and scooters, but there's so many more. If you've used a bandaid to pad a bad blister to help you walk, you've used a mobility aid. Guide dogs (seeing eye dogs) and mobility service dogs and their harnesses are mobility aids - really cute and high maintenance mobility aids. People who use mobility aids don't always need the same mobility aid(s) every day or even use them the same way. Disability, chronic illness, and injury are dynamic. 
 
-**Too often mobility aids are medicalized and/or are promoted as only for elderly people such as in the screenshot of the [Shopper's Drugmart Wellwise landing page for canes shown below.](https://shop.wellwise.ca/pages/canes?)** The latter reinforces the stereotype that disability only affects older people. The former is boring, joyless, and can be soul crushing. For braces and bandages, the beige "skin colour" of many of them isn't anyone's skin colour, and it gets dirty and even uglier with use. While boring canes and crutches may be well designed for function, they're not great designs. They don't inspire people to use them, especially fashionable and younger users. They're the physical equivalent to good functioning, but ugly apps, websites, or software. If they're the only option, you might use them, but you won't be your best self when you are. This leads to our next point about great design - it can support mental health, and happiness.
+**Too often mobility aids are medicalized and/or are promoted as only for elderly people such as in the screenshot of the [Shopper's Drugmart Wellwise landing page for canes shown below.](https://shop.wellwise.ca/pages/canes?)** The latter reinforces the stereotype that disability only affects older people. The former is boring, joyless, and can be soul crushing. For braces and bandages, the beige "skin colour" of many of them isn't anyone's skin colour, and it gets dirty and even uglier with use. 
+
+While boring canes and crutches may be well designed for function, they're not great designs. They don't inspire people to use them, especially fashionable and younger users. They're the physical equivalent to good functioning, but ugly apps, websites, or software. If they're the only option, you might use them, but you won't be your best self when you are. This leads to our next point about great design - it can support mental health, and happiness.
 
 ![Screenshot of the "hero" section for Shoppers Drugmart Wellwise landing page for canes](/assets/blog/screenshot-canes-shoppersdrugmart-wellwise-website.png "image on right side shows a senior woman and man walking outside on a trail with trees in the background. The man is using a plain brown walking cane. The couple are smiling. They appear Asian. Left side is a medium blue area with white text. The text says: Canes. Stand Firm. Canes are a popular solution when you need extra mobility support to remain active in your daily life. While a cane might seem like a simple product, the number of models, adjustments, and accessories can seem overwhelming in the beginning. That’s why we’re here to help you find the right fit for your needs. There's a button to 'shop canes' and one labled cane resources ")
 
@@ -48,33 +50,47 @@ Some things to think about as you read:
 2. What links can you see between great designs for physical products such as mobility aids and digital products like websites, apps, and software?
 3. **Why don't web designers and developers make more of an effort to use images with people of a variety of ages and ethnicities using mobility aids that look awesome?** 
 
-### List of Mobility Aids with Great Designs
+### Mobility Aids with Great Designs
 
 There are fashionable, cool, and functionally well designed mobility aids. Here's a few. A few are from my own experience and/or wish list. Others are from my hours of watching YouTube while I knit, or conversations with people about their mobility aids. Not surprisingly, many of the best designed mobility aids have been designed by people who actually use mobility aids. This is not a comprehensive list of types of mobility aids nor brands, but an overview of examples of great design - aids that are beautiful, cool, *and* functional.
 
 ---
 
-#### Walking Sticks/Canes
+### Walking Sticks/Canes
 
-##### Neo Walk [www.neo-walk.com](www.neo-walk.com)
+#### [Neo Walk](www.neo-walk.com)
 
-Some of, if not *the* most fashionable walking sticks out there are from Neo Walk in the UK. Neo Walk walking sticks are made of beautiful tactile acrylic, come in so many colours including clear translucent and glitter, a choice of handle shapes, and can even light up. [Lindsay Watterson](https://www.linkedin.com/in/lyndsay-watterson-a146b97a/?originalSubdomain=uk) created neo-walk in 2013 after becoming an amputee in 2010.
-
+Some of, if not *the* most fashionable walking sticks out there are from Neo Walk in the UK. Neo Walk walking sticks are made of beautiful tactile acrylic, come in so many colours including clear translucent and glitter, a choice of handle shapes, and can even light up. [Lindsay Watterson](https://www.linkedin.com/in/lyndsay-watterson-a146b97a/?originalSubdomain=uk) created Neo-walk in 2013 after becoming an amputee in 2010.
 
 Three cool Neo Walk walking cane options:
+1. Gatsby themed clear with gold glitter inside
 
- ["The Gatsby" - clear with gold glitter](https://www.neo-walk.com/wp-content/uploads/2022/02/Neo-Gatsby-7-scaled.jpg "clear walking cane with rounded handle with gold gitter inside it laying down on a cream satin fabric. The fabric has flakes of gold leaf scattered on it and a red feather and ribbon ordament in the upper right corner. There are two red heart ordaments in the lower left corner.") ![ALT!!!](https://www.neo-walk.com/wp-content/uploads/2022/02/Neo-Gatsby-7-scaled.jpg) 
+<img class="img-smaller"
+     src="https://www.neo-walk.com/wp-content/uploads/2022/02/Neo-Gatsby-7-scaled.jpg"
+     alt="clear walking cane with rounded handle with gold glitter inside it laying down on a cream satin fabric. The fabric has flakes of gold leaf scattered on it and a red feather and ribbon ornament in the upper right corner. There are two red heart ornaments in the lower left corner.">
 
-["Bubblegum Blush" - pink translucent with bubbles](https://www.neo-walk.com/wp-content/uploads/2019/08/IMG_6067-scaled.jpg "Closeup of a neon pink translucent cane with a rounded handle on a plain white background. The cane has bubbles inside it. ") ![ALT!!](https://www.neo-walk.com/wp-content/uploads/2019/08/IMG_6067-scaled.jpg)
+2. Bubblegum Blush bright translucent pink with bubbles
 
-[Beetlejuice themed walking stick with t-handle](https://www.neo-walk.com/wp-content/uploads/2022/10/Beetlejuice-1-Close-Up-1-scaled.jpg "Closeup of t-handle walking cane on a plain white background. The handle is clear with a purple fishscale patterned padded cover. The stick part of the cane is black with evenly spaced stripes of tactile, white purl bumps about 2cm wide. There is a wrist strap clipped onto the cane with a light purple clip. The wrist strap is white and black plastic looking chain with a small Beetlejuice figurine charm.")  ![ALT](https://www.neo-walk.com/wp-content/uploads/2022/10/Beetlejuice-1-Close-Up-1-scaled.jpg)
+<img class="img-smaller"
+     src="https://www.neo-walk.com/wp-content/uploads/2019/08/IMG_6067-scaled.jpg"
+     alt="translucent bright pink walking cane with rounded handle with bubbles inside it laying down on a plain white background.">
+3. Beetlejuice themed walking stick with t-handle
 
-#### Switch Sticks [https://switchsticks.com/](https://switchsticks.com/)
+<img class="img-smaller"
+     src="https://www.neo-walk.com/wp-content/uploads/2022/10/Beetlejuice-1-Close-Up-1-scaled.jpg"
+     alt="Closeup of t-handle walking cane on a plain white background. The handle is clear with a purple fish scale patterned padded cover. The stick part of the cane is black with evenly spaced stripes of tactile, white purl bumps about 2cm wide. There is a wrist strap clipped onto the cane with a light purple clip. The wrist strap is white and black plastic looking chain with a small Beetlejuice figurine charm.">
 
-A more affordable option for those of us in Canada (or the USA) is a folding walking stick by Switch Sticks. They are sturdy metal folding canes with a variety of colours and patterns. There's only one handle style - derby. I have two of these, both purchased on Amazon. My newest one is the "Viking" purple after I sprained my ankle again in summer 2022. 
+
+#### [Switch Sticks](https://switchsticks.com)
+
+<img class="img-smaller"
+     src="/assets/blog/switchsticks-walkingcane-viking-purple-folded.png"
+     alt="purple metal cane folded up into four sections. It has a darker purple slightly curved t-shaped handle, the same colour rubber tip, and rope wrist strap. The folded cane is wrapped with a purple ribbon or fabric that says Switch Sticks in white letters">
+     
+A more affordable option for those of us in Canada (or the USA) is a folding walking stick by Switch Sticks. They are sturdy metal folding canes with a variety of colours and patterns. There's only one handle style - derby. I have two of these, both purchased on Amazon. My newest one is the "Viking" purple after I sprained my ankle again in summer 2022. As I've used these personally here's my pros and cons for Switch Sticks.
 
 Pros include
-- the designs, 
+- the designs. I get compliments on the colours
 - a wood handle that stays warm in cold weather, 
 - they fold so can easily be tucked into a bag or even a coat, 
 - they're adjustable, so can be worn with a variety of footwear/heel heights
@@ -85,15 +101,13 @@ Cons:
 - The metal stick is cold and can be hard to fold while wearing gloves or mittens.
 - The metal can chip over time, especially if you have to fold and unfold it a lot. 
 
-<img class="img-smaller"
-     src="/assets/blog/switchsticks-walkingcane-viking-purple-folded.png"
-     alt="purple metal cane folded up into four sections. It has a darker purple slightly curved t-shaped handle, the same colour rubber tip, and rope wrist strap. The folded cane is wrapped with a purple ribbon or fabric that says Switch Sticks in white letters">
+
 ---
 ### Crutches
 
 Here in Canada we tend to use underarm crutches. But in the UK,  Europe, South Africa, New Zealand, and Australia forearm crutches are more common. While some people and small companies sew covers for underarm crutches, the coolest crutch designs are all forearm style. (Please let me know if you've seen any great designs for underarm crutches.)
 
-#### Smart Crutches
+#### [Smart Crutches](https://smartcrutch-usa.com)
 
 
 <img class="img-smaller"
@@ -109,17 +123,17 @@ There's also a folding travel version.
      src="/assets/blog/smartcrutch-foldingtravel-allcolours.png"
      alt="On the left is a pair of forearm crutches with black and wood print on the arm cuffs and about 20cm below the handles. The first crutch is unfolded, the second is folded up into four sections three smaller sections below the handle and arm cuff and a bigger one that includes the handle and arm cuff. A person's hand is holding the folded crutch. On the right is a grid of colours and patterns four rows tall and three columns wide. From top left to bottom right the colours and patterns are ocean surf, wood grain, pink and blue mermaid scales, solid black, orange and red swirl, black and white zebra, grey and black metallic dots,   light, medium and dark blue stripes with a bit of apple green, rainbow and black zebra, birch bark, purple and blue milky way space, black and white Maori graphic design.">
      
-#### Cool Crutches
+#### [Cool Crutches](https://www.coolcrutches.com)
 
 <img class="img-smaller"
      src="/assets/blog/coolcrutches-screenshot.png"
-     alt="ALT!">
+     alt="Five forearm crutches on a plain white background. The crutches have sturdy looking black forearm rings and handles. From left to right the designs on the crutch poles are: black leopard, rainbow, pink, camo, and orange flame on bright blue background. ">
 
-Just like Neo Walk, Cool Crutches was started by a woman who wasn't happy with the options available in the UK. When her daughter Amelia had a life changing injury the NHS crutches *"were very uncomfortable on her hands and unstable; they clicked so everyone could hear her coming, and most importantly, made her look and feel disabled.".* (from: https://www.coolcrutches.com/pages/about-us) After researching, designing, and sourcing Cool Crutches were developed. They are moulded to left and right hand, sturdy, don't make a clicking noise, and have a wide variety of designs. The crutches can even be made with custom colours, pictures, and patterns provided by customers. They are both functional and fashionable supporting both physical and mental health.  
+Just like Neo Walk, Cool Crutches was started by Clare and Amelia Packham. Clare Packham wasn't happy with the crutches options available in the UK. When her daughter Amelia had a life changing injury the NHS crutches *"were very uncomfortable on her hands and unstable; they clicked so everyone could hear her coming, and most importantly, made her look and feel disabled.".* (from: https://www.coolcrutches.com/pages/about-us) After researching, designing, and sourcing Cool Crutches were developed. They are moulded to left and right hand, sturdy, don't make a clicking noise, and have a wide variety of designs. The crutches can even be made with custom colours, pictures, and patterns provided by customers. They are both functional and fashionable supporting both physical and mental health.  
 
+I discovered Cool Crutches on Stela Sulzdorf's YouTube Video [Fashionable Crutches ‘Cool Crutches’ Review // Testing Beautiful Crutches](https://www.youtube.com/watch?v=LpMblZRcQ44)
 
-
-
+Amelia Packham using a red glitter Cool Crutches crutch.
 <img class="img-smaller"
      src="/assets/blog/coolcrutches-2022.07.23-companyowner-on-cell-pinkblazer.png"
      alt="Younger middle aged white woman with shoulder length blonde hair tucked behind her ears. She's smiling while looking at her animal print covered phone held in her right hand which is the left side of the photo. She is wearing a bright pink blazer and blue jeans.  She is using a forearm crutch with her left hand and arm. The crutch has black forearm cuff and handle. The stick part is white with a green leaf design.">
@@ -127,42 +141,49 @@ Just like Neo Walk, Cool Crutches was started by a woman who wasn't happy with t
 ---
 ### Electric Mobility Aids
 
-#### Batec e-Handbikes for Active User Manual Wheelchairs [https://batec-mobility.com/en/](https://batec-mobility.com/en/)
+#### [Batec e-Handbikes for Active User Manual Wheelchairs](https://batec-mobility.com/en/)
 
 <img class="img-smaller"
      src="/assets/blog/batec-insta-2022-12-14-family-with-2batec-kid-with-bike.png"
-     alt="ALT">
----
-#### Mobility Scooters
+     alt="two adults and a child outdoors at a park with trees and dirt trail. Both the woman and the man are using wheelchairs that have an electric handbike attached and a large black bag on the front of each handbike. The child, is using a bike with a blue triangular flag on the back, and is wearing a blue helmet and a Super Mario t-shirt. They are all smiling. The woman has medium toned skin and shoulder length dark brown wavy hair. The man has lighter skin, short medium brown hair and beard. The child appears to be about 8 to 11 years old.">
 
-https://www.mobilitypower.co.uk/product/bz500/
+I first discovered Batec on Gem Hubbards' YouTube Channel "Wheelsnoheels" [I test drive the Batec Mini2 Wheelchair Bike](https://youtu.be/fjLZPaCmlIc) A Batec is an electric attachment for a manual wheelchair that turns it into an electric bike. Not only do Batecs allow wheelchair users to go on bike rides and rough terrain with friends and family, and have longer days out when they're having a lower energy or high pain day, but they look really cool and fun. I had a nice chat at a local park last year with a wheelchair user using another brand of electric handbike while she walked her dog. She said it was really useful for going across grassy and muddy areas and giving her (very cute) dog a good run.
+
+*"It's so good to get out into the woods like this. It's really good for your mental health. But the key here is that it's also enjoyable. It's a piece of equipment, but it's enjoyable and fun to use."* Gem Hubbard.
+
+---
+#### [Greenpower Retro Style Mobility Scooter](https://www.mobilitypower.co.uk/product/bz500/)
 
 <img class="img-smaller"
      src="/assets/blog/greenpower-mobilityscooter-red.png"
-     alt="ALT">
+     alt="red three wheeled electric mobility scooter with headlamp, backrest, and streamlined mid-century modern style design. The scooter looks more like a three wheeled motor bike than a mobility scooter">
+     
+I'm a big fan of Jessica Kellegren-Fozard and followed her journey in getting powered mobility aids. The [mobility scooter](https://youtu.be/pnUJc8vSIns?t=475) Jessica ended up getting fit with her lifestyle and style. Instead of just being functional, the Greenpower BZ500 has a cool sleek retro style. This retro style ends up having the added function of storage under the seat, unlike most scooters that have no or limited on device storage. 
 
-#### Electric Tricycles
-
-Jessica Kellegren-Fozard 
-
-https://jorviktricycles.com/jorvik-elite-low-step-through-electric-folding-tricycle-jet-e
-
-https://etrikescanada.com/products/commuter-electric-trike
+#### [Electric Tricycles by Jorvik](https://jorviktricycles.com/tricycles/electric-tricycles)
 
 <img class="img-smaller"
      src="/assets/blog/etricycle-jorvik-jet-e-20_purple_1.jpg"
-     alt="ALT">
+     alt="Bright purple step through adult tricycle with large metal basket between the two rear wheels. All three wheels have black fenders. There is a light on the handlebars.">
 
+Again it's through Jessica Kellegren-Fozard's channel that I first discovered that [electric tricycles can be used as mobility aids](https://youtu.be/pnUJc8vSIns?t=854). They allow disabled people to get out and about and be active while providing assistance for balance and propulsion. Adult tricycles can also carry quite a bit in the rear basket making them really handy for running errands like grocery shopping - or even taking a cat in a carrier to the vet.
 
+In her video [I found my unicorn!](https://youtu.be/pnUJc8vSIns?t=854) Jessica Kellegren-Fozard says: *"I'm really proud of myself. I feel quite accomplished. It's the first time I've ever ridden a bike and not fallen off or crashed into something or in some way injured myself. It feels really good. ... When you turn it onto electric you can make it move by twiddling the handle. You don't need to move your legs at all... ."*
+She goes on to say that she got a bit stuck in a ditch and didn't have the strength in her legs to get out and the electric mode got her out of the ditch.
 
----
+Here's the [tricycle in Jessica Kellegren-Fozard's video](
+https://jorviktricycles.com/jorvik-elite-low-step-through-electric-folding-tricycle-jet-e)
 
-
-Louise (works with X ) and her guide dog Charles. 
+____
+**Great design and user experience isn't just about a product being functional and usable, it should be aesthetically pleasing and bring joy to users**. This applies to both digital and physical products. Accessibility and mobility shouldn't be joyless and clunky. Life is short. We need to find and share joy where ever possible.
 
 ---
 ### A Final Quote
-From the Instagram Post of this Article's Title Image:
+From Neo Walk's Instagram
+
+<img class="img-smaller"
+     src="/assets/blog/screenshot-neowalk-insta-bumpandhustle-2021-01-10.png"
+     alt="Young blonde haired woman sitting in a wheelchair at the bottom of a set of stairs in a home. She's wearing a white tulle skirt, a tie-dye top, and is holding a clear acrylic walking cane that is lit up. The upper left of the image has the instagram address @BumpandHustle.">
 
 > Neo-Walk founder Lindsay Watterson: 
 > I’ve spoken to many people who use fashion and style as a creative tool to cope with chronic pain and illness. I know I do. I always feel much more ’ human’ when I’ve made the effort, even when it’s a struggle.   
@@ -201,38 +222,69 @@ I am so glad you are here, showing up however you feel is right for you.⁣
 ⁣  
 🖤⁣
 
-
 ---
-### References
+### References and Resources
 
- https://themighty.com/topic/ehlers-danlos-syndrome/medical-ptsd-ehlers-danlos-syndrome/ 
+[Himansu Bharadwaj. Can Design Be More Joyful.](https://uxdesign.cc/can-design-be-more-joyful-540f28f6e1a6)
 
-https://www.linkedin.com/pulse/what-good-design-andrea-bregoli/
+[Andrea Bregoli. What is Good Design?](https://www.linkedin.com/pulse/what-good-design-andrea-bregoli/)
 
-https://uxdesign.cc/can-design-be-more-joyful-540f28f6e1a6
+[Charlotte Hiller. When Medical PTSD Stops Me From Seeking Treatment](https://themighty.com/topic/ehlers-danlos-syndrome/medical-ptsd-ehlers-danlos-syndrome) 
 
-Cool crutches review: https://www.youtube.com/watch?v=LpMblZRcQ44
+[Gem Hubbard. Pimp Your Wheelchair from £1 - £1000](https://www.youtube.com/watch?v=v6-9MIBdGgA)
 
-https://www.coolcrutches.com
+[Jessica Kellgren-Fozard Mobility Aids Hunt Playlist](https://youtube.com/playlist?list=PLhADVL2AiGX-gwr9ekt_SJC-UcURkXCOP)
 
-Mobility Aids Hunt Jessica Kellgren-Fozard https://youtube.com/playlist?list=PLhADVL2AiGX-gwr9ekt_SJC-UcURkXCOP
+[Stela Sulzdorf. Fashionable Crutches ‘Cool Crutches’ Review // Testing Beautiful Crutches](https://www.youtube.com/watch?v=LpMblZRcQ44)
 
-https://www.youtube.com/watch?v=v6-9MIBdGgA
+Product Sites:
+
+[Neo Walk](https://www.neo-walk.com)
+
+[Switch Sticks walking canes](https://switchsticks.com)
+
+[Smart Crutches](https://smartcrutch-usa.com)
+
+[Cool Crutches](https://www.coolcrutches.com)
+
+[Batec Handbike](https://batec-mobility.com/en)
+
+[Greenpower Electric Scooters](https://www.mobilitypower.co.uk)
+
+[Jorvik Electric Tricycles](https://jorviktricycles.com/tricycles/electric-tricycles)
+
+## Photo Credits
+
+In the order that they appear in this article:
+
+1. Cover Image: Neo Walk's Instagram Feb 22, 2022 https://www.instagram.com/p/CaRitA5sr_i/?hl=en
+2. Shopper's Drugmart Home Health Care canes (landing page) https://shop.wellwise.ca/pages/canes?
+3. Gatsby themed cane by Neo Walk https://www.neo-walk.com/wp-content/uploads/2022/02/Neo-Gatsby-7-scaled.jpg
+4. Bubblegum Blush cane by Neo Walk https://www.neo-walk.com/wp-content/uploads/2019/08/IMG_6067-scaled.jpg
+5. Beatlejuice themed walking stick by Neo Walk https://www.neo-walk.com/wp-content/uploads/2022/10/Beetlejuice-1-Close-Up-1-scaled.jpg
+6. Switch Sticks purple cane https://switchsticks.com/products/folding-walking-stick-cane-viking
+7. Pink zebra print forearm crutches by Smart Crutches https://www.instagram.com/p/CSNKsRprI1I/?hl=en
+8. Folding forearm crutches by Smart Crutches https://smartcrutch-usa.com/products/folding-traveler-forearm-crutches-sold-as-a-pair
+9. Five forearm crutches in different designs by Smart Crutches https://www.coolcrutches.com/collections/all-crutches/products/design-your-own-personalised-crutches
+10. Amelia Packham, CEO and Co-founder of Cool Crutches using a red glitter forearm Cool Crutch https://www.instagram.com/p/CojjTQGMm7K/
+11. Batec handbikes https://www.instagram.com/p/CmKNpW6N3pr/?hl=en
+12. Greenpower Retro Mobility Scooter https://www.mobilitypower.co.uk/product/bz500/
+13. Jorvik Electric folding tricycle https://jorviktricycles.com/jorvik-elite-low-step-through-electric-folding-tricycle-jet-e
+14. Final quote - Neo Walk stick "Bump and Hustle's Instagram" https://www.instagram.com/p/CJ3OnbIjWJF/?hl=en
 
 
-### Resources
 
-neo-walk
-Switch sticks
 
-### Pictures
 
-- cover: https://www.instagram.com/p/CmetXGLt4nw/
-- https://www.instagram.com/p/ChxPg9LMj7V/
-- purple pink purple on zebra hooks: https://www.instagram.com/p/Cfv7MP8rmyL/
-- Insta to follow: https://www.instagram.com/bumpandhustle/
-- Beatles inspired: https://www.instagram.com/p/CbIrnaPs8cs/
-- Switch sticks viking: https://switchsticks.com/products/folding-walking-stick-cane-viking
-- 
+
+
+
+
+
+
+
+
+
+
 
 
