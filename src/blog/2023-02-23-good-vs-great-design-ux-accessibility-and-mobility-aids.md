@@ -22,6 +22,10 @@ How do these concepts for digital design apply to physical products such as mobi
 
 ### What Are Mobility Aids?
 
+<img class="img-smaller"
+     src="/assets/blog/neo-walk-instagram-2022-10-06.png"
+     alt="young women sitting down at a formal party or wedding reception. She's laughing, her blonde hair is in an updo and she's wearing a long lace trimmed light pink v-neck dress. She's holding a clear walking cane in her right hand. The cane has a twisted rope design and a curved handle.">
+
 First, let's start with what a mobility aid is. **A mobility aid is anything that helps someone with a disability, chronic illness, or injury be mobile.** There are hundreds of types of mobility aids. The most commonly thought of ones are canes, crutches, wheelchairs, and scooters, but there's so many more. If you've used a bandaid to pad a bad blister to help you walk, you've used a mobility aid. Guide dogs (seeing eye dogs) and mobility service dogs and their harnesses are mobility aids - really cute and high maintenance mobility aids (that you shouldn't distract!). People who use mobility aids don't always need the same mobility aid(s) every day or even use them the same way. Disability, chronic illness, and injury are dynamic. 
 
 **Too often mobility aids are medicalized and/or are promoted as only for elderly people such as in the screenshot of the [Shopper's Drugmart Wellwise landing page for canes shown below.](https://shop.wellwise.ca/pages/canes?)** The latter reinforces the stereotype that disability only affects older people. The former is boring, joyless, and can be soul crushing. For braces and bandages, the beige "skin colour" of many of them isn't anyone's skin colour, and it gets dirty and even uglier with use. 
@@ -278,19 +282,20 @@ Stela Sulzdorf. [Fashionable Crutches ‘Cool Crutches’ Review // Testing Beau
 In the order that they appear in this article:
 
 1. **Cover Image: Neo Walk's Instagram Feb 22, 2022** [(https://www.instagram.com/p/CaRitA5sr_i/?hl=en](https://www.instagram.com/p/CaRitA5sr_i/?hl=en)
-2. **Shopper's Drugmart Home Health Care canes (landing page)**[ https://shop.wellwise.ca/pages/canes](https://shop.wellwise.ca/pages/canes?)
-3. **Gatsby themed cane by Neo Walk** [https://www.neo-walk.com/wp-content/uploads/2022/02/Neo-Gatsby-7-scaled.jpg](https://www.neo-walk.com/wp-content/uploads/2022/02/Neo-Gatsby-7-scaled.jpg)
-4. **Bubblegum Blush cane by Neo Walk** [ https://www.neo-walk.com/wp-content/uploads/2019/08/IMG_6067-scaled.jpg](https://www.neo-walk.com/wp-content/uploads/2019/08/IMG_6067-scaled.jpg)
-5. **Beatlejuice themed walking stick by Neo Walk**  [https://www.neo-walk.com/wp-content/uploads/2022/10/Beetlejuice-1-Close-Up-1-scaled.jpg](https://www.neo-walk.com/wp-content/uploads/2022/10/Beetlejuice-1-Close-Up-1-scaled.jpg)
-6. **Switch Sticks purple cane**  [https://switchsticks.com/products/folding-walking-stick-cane-viking](https://switchsticks.com/products/folding-walking-stick-cane-viking)
-7. **Pink zebra print forearm crutches by Smart Crutches**  [https://www.instagram.com/p/CSNKsRprI1I/?hl=en](https://www.instagram.com/p/CSNKsRprI1I/?hl=en)
-8. **Folding forearm crutches by Smart Crutches** [ https://smartcrutch-usa.com/products/folding-traveler-forearm-crutches-sold-as-a-pair]( https://smartcrutch-usa.com/products/folding-traveler-forearm-crutches-sold-as-a-pair)
-9. **Five forearm crutches in different designs by Smart Crutches** [https://www.coolcrutches.com/collections/all-crutches/products/design-your-own-personalised-crutches](https://www.coolcrutches.com/collections/all-crutches/products/design-your-own-personalised-crutches)
-10. **Amelia Packham, CEO and Co-founder of Cool Crutches using a red glitter forearm Cool Crutch** [ https://www.instagram.com/p/CojjTQGMm7K/](https://www.instagram.com/p/CojjTQGMm7K/)
-11. **Batec Mobility handbikes**  [https://www.instagram.com/p/CmKNpW6N3pr/?hl=en](https://www.instagram.com/p/CmKNpW6N3pr/?hl=en)
-12. **Greenpower Retro Mobility Scooter** [ https://www.mobilitypower.co.uk/product/bz500/](https://www.mobilitypower.co.uk/product/bz500/)
-13. **Jorvik Electric folding tricycle**  [https://jorviktricycles.com/jorvik-elite-low-step-through-electric-folding-tricycle-jet-e](https://jorviktricycles.com/jorvik-elite-low-step-through-electric-folding-tricycle-jet-e)
-14. **Final quote - Neo Walk stick "Bump and Hustle's Instagram"** [https://www.instagram.com/p/CJ3OnbIjWJF/?hl=en](https://www.instagram.com/p/CJ3OnbIjWJF/?hl=en)
+2. Neo Walk cane at formal party or wedding reception [https://www.instagram.com/p/CiK4BLJqPGr/?hl=en](https://www.instagram.com/p/CiK4BLJqPGr/?hl=en)
+3. **Shopper's Drugmart Home Health Care canes (landing page)**[ https://shop.wellwise.ca/pages/canes](https://shop.wellwise.ca/pages/canes?)
+4. **Gatsby themed cane by Neo Walk** [https://www.neo-walk.com/wp-content/uploads/2022/02/Neo-Gatsby-7-scaled.jpg](https://www.neo-walk.com/wp-content/uploads/2022/02/Neo-Gatsby-7-scaled.jpg)
+5. **Bubblegum Blush cane by Neo Walk** [ https://www.neo-walk.com/wp-content/uploads/2019/08/IMG_6067-scaled.jpg](https://www.neo-walk.com/wp-content/uploads/2019/08/IMG_6067-scaled.jpg)
+6. **Beatlejuice themed walking stick by Neo Walk**  [https://www.neo-walk.com/wp-content/uploads/2022/10/Beetlejuice-1-Close-Up-1-scaled.jpg](https://www.neo-walk.com/wp-content/uploads/2022/10/Beetlejuice-1-Close-Up-1-scaled.jpg)
+7. **Switch Sticks purple cane**  [https://switchsticks.com/products/folding-walking-stick-cane-viking](https://switchsticks.com/products/folding-walking-stick-cane-viking)
+8. **Pink zebra print forearm crutches by Smart Crutches**  [https://www.instagram.com/p/CSNKsRprI1I/?hl=en](https://www.instagram.com/p/CSNKsRprI1I/?hl=en)
+9. **Folding forearm crutches by Smart Crutches** [ https://smartcrutch-usa.com/products/folding-traveler-forearm-crutches-sold-as-a-pair]( https://smartcrutch-usa.com/products/folding-traveler-forearm-crutches-sold-as-a-pair)
+10. **Five forearm crutches in different designs by Smart Crutches** [https://www.coolcrutches.com/collections/all-crutches/products/design-your-own-personalised-crutches](https://www.coolcrutches.com/collections/all-crutches/products/design-your-own-personalised-crutches)
+11. **Amelia Packham, CEO and Co-founder of Cool Crutches using a red glitter forearm Cool Crutch** [ https://www.instagram.com/p/CojjTQGMm7K/](https://www.instagram.com/p/CojjTQGMm7K/)
+12. **Batec Mobility handbikes**  [https://www.instagram.com/p/CmKNpW6N3pr/?hl=en](https://www.instagram.com/p/CmKNpW6N3pr/?hl=en)
+13. **Greenpower Retro Mobility Scooter** [ https://www.mobilitypower.co.uk/product/bz500/](https://www.mobilitypower.co.uk/product/bz500/)
+14. **Jorvik Electric folding tricycle**  [https://jorviktricycles.com/jorvik-elite-low-step-through-electric-folding-tricycle-jet-e](https://jorviktricycles.com/jorvik-elite-low-step-through-electric-folding-tricycle-jet-e)
+15. **Final quote - Neo Walk stick "Bump and Hustle's Instagram"** [https://www.instagram.com/p/CJ3OnbIjWJF/?hl=en](https://www.instagram.com/p/CJ3OnbIjWJF/?hl=en)
 
 
 
