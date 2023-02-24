@@ -239,6 +239,7 @@ I am so glad you are here, showing up however you feel is right for you.⁣*
 ---
 ## References and Resources
 
+Elinor Brown. [1 Year with a Wheelchair for Chronic Illness. What I’ve learned and how I’ve gained confidence!](https://youtu.be/6Y6R04erLOY)
 Himansu Bharadwaj. [Can Design Be More Joyful.](https://uxdesign.cc/can-design-be-more-joyful-540f28f6e1a6)
 
 Andrea Bregoli. [What is Good Design?](https://www.linkedin.com/pulse/what-good-design-andrea-bregoli/)
