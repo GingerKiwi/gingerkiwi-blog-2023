@@ -241,7 +241,7 @@ I am so glad you are here, showing up however you feel is right for you.⁣*
 
 Elinor Brown. [1 Year with a Wheelchair for Chronic Illness. What I’ve learned and how I’ve gained confidence!](https://youtu.be/6Y6R04erLOY)
 
-Elinor Brown. [# My experience using a FASHIONABLE WALKING STICK for 6 months. Mobility Aids when young and NeoWalk](https://youtu.be/sI2OCQlb0-Q)
+Elinor Brown. [My experience using a FASHIONABLE WALKING STICK for 6 months. Mobility Aids when young and NeoWalk](https://youtu.be/sI2OCQlb0-Q)
 
 Himansu Bharadwaj. [Can Design Be More Joyful.](https://uxdesign.cc/can-design-be-more-joyful-540f28f6e1a6)
 
