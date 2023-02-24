@@ -2,14 +2,15 @@
 title: Good vs Great Design, UX, Accessibility, and Mobility Aids
 date: 2023-01-23
 tags: ["post", "featured", "a11y", "ux", "mobility-aids"]
-image: '/assets/blog/screenshot-neowalk-insta-bumpandhustle-2021-01-10.png'
-imageAlt: 'Young woman wearing a high fashion, light greyish purple off the shoulder short sleeved dress and a very wide brimbed matching hat. She has straight black shoulder length hair, and appears to be Asian. She has a translucent bright purple curved handle walking cane with bubbles inside it and a light pink ribbon strap hanging from the handle. She's also wearing a very wide leather black goth type belt and platform boots. One leg has tatoos and the other might be a prostetic'
+image: '/assets/blog/neo-walk-instagram-2022.02.22.png'
+imageAlt: >
+ 'Young woman wearing a high fashion, light greyish purple off the shoulder short sleeved dress and a very wide brimbed matching hat. She has straight black shoulder length hair, and appears to be Asian. She has a translucent bright purple curved handle walking cane with bubbles inside it and a light pink ribbon strap hanging from the handle. She's also wearing a very wide leather black goth type belt and platform boots. One leg has tatoos and the other might be a prostetic'
 imageCaption: 'ADD CAPTION'
 description: >
- This past weekend, I volunteered at #A11yTOCamp at Microsoft here in Toronto. With the event's focus on accessibility there were many people with visible mobility aids. This led to many conversations about design and mobility aids. Great design and user experience isn't just about a product being functional and usable, it should be aesthetically pleasing and bring joy to users. This is true for both digital and physical products. The two goals of this article are to discuss the links between great design in both digital and physical products and  to share a list of mobility aids with great designs - because anyone can become disabled and 20-25% of people are. There's no need to deal with ugly websites, apps - or mobility aids.
+ On January 21, 2023 I volunteered at #A11yTOCamp at Microsoft here in Toronto. With the event's focus on accessibility there were many people with visible mobility aids. This led to many conversations about design and mobility aids. Great design and user experience isn't just about a product being functional and usable, it should be aesthetically pleasing and bring joy to users. This is true for both digital and physical products.
 ---
 
-On January 21, 2023, I volunteered at #A11yTOCamp at Microsoft here in Toronto. One of the best parts was meeting new awesome people and seeing ones I've met at events in the past again. With the event's focus on accessibility there were many people with visible mobility aids including walking canes, wheelchairs, rollators (walkers), white canes, and service dogs. 
+**On January 21, 2023 I volunteered at #A11yTOCamp at Microsoft here in Toronto.** One of the best parts was meeting new awesome people and seeing ones I've met at events in the past again. With the event's focus on accessibility there were many people with visible mobility aids including walking canes, wheelchairs, rollators (walkers), white canes, and service dogs. 
 
 This led to many conversations about design and mobility aids. A couple of the guide dogs, such as Louise's GD Charlie, had the new CNIB harness with a guiding handle that detaches for when the dogs are laying down (like during a talk), then clips back on for guiding. Instead of the more common upside down u-shaped guide handle that attaches on either side of the guide harness, the new CNIB ones are a single pole that clips into the centre of the dogs harness on their back. What a revolutionary design! It's a solid example of good design. But what separates good design and UX from great design?
 
@@ -17,22 +18,22 @@ This led to many conversations about design and mobility aids. A couple of the g
 
 Now think about some of your favourite apps, websites, and software. Are there ones that make you smile and you enjoy using and do what you need them to? 
 
-So how do these concepts for digital design apply to physical products such as mobility aids? 
+How do these concepts for digital design apply to physical products such as mobility aids? 
 
 ### What Are Mobility Aids?
 
-First, let's start with what a mobility aid is. **A mobility aid is anything that helps someone with a disability, chronic illness, or injury be mobile.** There are hundreds of types of mobility aids. The most commonly thought of ones are canes, crutches, wheelchairs, and scooters, but there's so many more. If you've used a bandaid to pad a bad blister to help you walk, you've used a mobility aid. Guide dogs (seeing eye dogs) and mobility service dogs and their harnesses are mobility aids - really cute and high maintenance mobility aids. People who use mobility aids don't always need the same mobility aid(s) every day or even use them the same way. Disability, chronic illness, and injury are dynamic. 
+First, let's start with what a mobility aid is. **A mobility aid is anything that helps someone with a disability, chronic illness, or injury be mobile.** There are hundreds of types of mobility aids. The most commonly thought of ones are canes, crutches, wheelchairs, and scooters, but there's so many more. If you've used a bandaid to pad a bad blister to help you walk, you've used a mobility aid. Guide dogs (seeing eye dogs) and mobility service dogs and their harnesses are mobility aids - really cute and high maintenance mobility aids (that you shouldn't distract!). People who use mobility aids don't always need the same mobility aid(s) every day or even use them the same way. Disability, chronic illness, and injury are dynamic. 
 
 **Too often mobility aids are medicalized and/or are promoted as only for elderly people such as in the screenshot of the [Shopper's Drugmart Wellwise landing page for canes shown below.](https://shop.wellwise.ca/pages/canes?)** The latter reinforces the stereotype that disability only affects older people. The former is boring, joyless, and can be soul crushing. For braces and bandages, the beige "skin colour" of many of them isn't anyone's skin colour, and it gets dirty and even uglier with use. 
 
-While boring canes and crutches may be well designed for function, they're not great designs. They don't inspire people to use them, especially fashionable and younger users. They're the physical equivalent to good functioning, but ugly apps, websites, or software. If they're the only option, you might use them, but you won't be your best self when you are. This leads to our next point about great design - it can support mental health, and happiness.
+While boring canes and crutches may be well designed for function, they're not great designs. They don't inspire people to use them, especially fashionable and younger users. They're the physical equivalent to good functioning, but ugly apps, websites, or software. If they're the only option, you might use them, but you won't be your best self when you are. This leads to the next point about great design. **Great design can support mental health and happiness.**
 
 ![Screenshot of the "hero" section for Shoppers Drugmart Wellwise landing page for canes](/assets/blog/screenshot-canes-shoppersdrugmart-wellwise-website.png "image on right side shows a senior woman and man walking outside on a trail with trees in the background. The man is using a plain brown walking cane. The couple are smiling. They appear Asian. Left side is a medium blue area with white text. The text says: Canes. Stand Firm. Canes are a popular solution when you need extra mobility support to remain active in your daily life. While a cane might seem like a simple product, the number of models, adjustments, and accessories can seem overwhelming in the beginning. That’s why we’re here to help you find the right fit for your needs. There's a button to 'shop canes' and one labled cane resources ")
 
 
 ### Great Design Can Support Mental Health & Happiness 
 
-I spoke to a UX professional at the after party who's sibling has a chronic illness that causes pain and fatigue. She's avoided using mobility aids that would make her life easier because they're ugly, and she's very into fashion. They're also very medical in design. Like many with chronic illness she also has medical ptsd*. This isn't vanity. It's prioritizing mental health over physical.  The only mobility aids she's seen are the boring, ugly, medical ones that don't reflect who she is. That's part of the inspiration for this article - having one place to share some of the great designed, beautiful and/or cool mobility aids with others.
+I spoke to a UX professional at the after party who's sibling has a chronic illness that causes pain and fatigue. She's avoided using mobility aids that would make her life easier because they're ugly, and she's very into fashion. They're also very medical in design. Like many with chronic illness she also has [medical ptsd]((https://themighty.com/topic/ehlers-danlos-syndrome/medical-ptsd-ehlers-danlos-syndrome). Avoiding using medically designed mobility aids isn't vanity. It's prioritizing mental health over physical.  The only mobility aids she's seen are the boring, ugly, medical ones that don't reflect who she is. That lead to **the main inspiration for this article - having one place to share some of the great designed, beautiful and/or cool mobility aids with others.**
 
 I've had similar experiences being an active outdoors person and former dancer who's sprained my ankles way too many times.  There's been times, such as last summer/fall when I sprained one twice and the other once, when it would have been better for my ankles to use the ugly, clunky "air cast" walking ankle brace and grey ugly underarm crutches, but I opted to use my Nordic walking poles (or my purple and pink canes on transit) and pink zebra print KT Tape instead, because doing so made me happier. (And resulted in less people asking *"What's wrong with you?"* and more comments like *"Those are really cool canes!"*.)
 
@@ -223,21 +224,33 @@ I am so glad you are here, showing up however you feel is right for you.⁣
 🖤⁣
 
 ---
-### References and Resources
+## References and Resources
 
-[Himansu Bharadwaj. Can Design Be More Joyful.](https://uxdesign.cc/can-design-be-more-joyful-540f28f6e1a6)
+Himansu Bharadwaj. [Can Design Be More Joyful.](https://uxdesign.cc/can-design-be-more-joyful-540f28f6e1a6)
 
-[Andrea Bregoli. What is Good Design?](https://www.linkedin.com/pulse/what-good-design-andrea-bregoli/)
+Andrea Bregoli. [What is Good Design?](https://www.linkedin.com/pulse/what-good-design-andrea-bregoli/)
 
-[Charlotte Hiller. When Medical PTSD Stops Me From Seeking Treatment](https://themighty.com/topic/ehlers-danlos-syndrome/medical-ptsd-ehlers-danlos-syndrome) 
+Charlotte Hiller. [When Medical PTSD Stops Me From Seeking Treatment](https://themighty.com/topic/ehlers-danlos-syndrome/medical-ptsd-ehlers-danlos-syndrome) 
 
-[Gem Hubbard. Pimp Your Wheelchair from £1 - £1000](https://www.youtube.com/watch?v=v6-9MIBdGgA)
+CNIB Canadian National Institute for the Blind. [Guide Dog Etiquette]( https://www.cnib.ca/en/guide-dog-etiquette?region=on)
 
-[Jessica Kellgren-Fozard Mobility Aids Hunt Playlist](https://youtube.com/playlist?list=PLhADVL2AiGX-gwr9ekt_SJC-UcURkXCOP)
+Richard Corbett  WheelstoWalking [interview with adaptive athlete Amy Sams](https://youtu.be/K4GbwkhFNi4) Check out her racing wheelchair!
 
-[Stela Sulzdorf. Fashionable Crutches ‘Cool Crutches’ Review // Testing Beautiful Crutches](https://www.youtube.com/watch?v=LpMblZRcQ44)
+Richard Corbett  WheelstoWalking [Taking Off Road Wheelchairs to the Limit](https://youtu.be/hjfRIGvWTM8)
 
-Product Sites:
+Gem Hubbard. [Pimp Your Wheelchair from £1 - £1000](https://www.youtube.com/watch?v=v6-9MIBdGgA)
+
+Gem Hubbard. [Wheelsnoheels. Wheelchair Etiquette playlist](https://youtube.com/playlist?list=PLtbcZsZIvZdLT4wjiHyMW0vdM99EZe41w)
+
+Jen from Momming With Migraine. [Here's Why It's Not OK to Pet Service Dogs and What You Should Do Instead](https://youtu.be/Ov9YUE1kRUs)
+
+Jessica Kellgren-Fozard [Mobility Aids Hunt Playlist](https://youtube.com/playlist?list=PLhADVL2AiGX-gwr9ekt_SJC-UcURkXCOP)
+
+April Saylor. [Here's Why It's Not OK to Pet Service Dogs and What You Should Do Instead]( https://www.dailypaws.com/dogs-puppies/meeting-service-dog)
+
+Stela Sulzdorf. [Fashionable Crutches ‘Cool Crutches’ Review // Testing Beautiful Crutches](https://www.youtube.com/watch?v=LpMblZRcQ44)
+
+#### Product Sites:
 
 [Neo Walk](https://www.neo-walk.com)
 
@@ -253,15 +266,15 @@ Product Sites:
 
 [Jorvik Electric Tricycles](https://jorviktricycles.com/tricycles/electric-tricycles)
 
-## Photo Credits
+### Photo Credits
 
 In the order that they appear in this article:
 
-1. Cover Image: Neo Walk's Instagram Feb 22, 2022 https://www.instagram.com/p/CaRitA5sr_i/?hl=en
-2. Shopper's Drugmart Home Health Care canes (landing page) https://shop.wellwise.ca/pages/canes?
-3. Gatsby themed cane by Neo Walk https://www.neo-walk.com/wp-content/uploads/2022/02/Neo-Gatsby-7-scaled.jpg
-4. Bubblegum Blush cane by Neo Walk https://www.neo-walk.com/wp-content/uploads/2019/08/IMG_6067-scaled.jpg
-5. Beatlejuice themed walking stick by Neo Walk https://www.neo-walk.com/wp-content/uploads/2022/10/Beetlejuice-1-Close-Up-1-scaled.jpg
+1. Cover Image: Neo Walk's Instagram Feb 22, 2022 [(https://www.instagram.com/p/CaRitA5sr_i/?hl=en](https://www.instagram.com/p/CaRitA5sr_i/?hl=en)
+2. Shopper's Drugmart Home Health Care canes (landing page)[ https://shop.wellwise.ca/pages/canes](https://shop.wellwise.ca/pages/canes?)
+3. Gatsby themed cane by Neo Walk[https://www.neo-walk.com/wp-content/uploads/2022/02/Neo-Gatsby-7-scaled.jpg](https://www.neo-walk.com/wp-content/uploads/2022/02/Neo-Gatsby-7-scaled.jpg)
+4. Bubblegum Blush cane by Neo Walk [ https://www.neo-walk.com/wp-content/uploads/2019/08/IMG_6067-scaled.jpg](https://www.neo-walk.com/wp-content/uploads/2019/08/IMG_6067-scaled.jpg)
+5. Beatlejuice themed walking stick by Neo Walk [https://www.neo-walk.com/wp-content/uploads/2022/10/Beetlejuice-1-Close-Up-1-scaled.jpg](https://www.neo-walk.com/wp-content/uploads/2022/10/Beetlejuice-1-Close-Up-1-scaled.jpg)
 6. Switch Sticks purple cane https://switchsticks.com/products/folding-walking-stick-cane-viking
 7. Pink zebra print forearm crutches by Smart Crutches https://www.instagram.com/p/CSNKsRprI1I/?hl=en
 8. Folding forearm crutches by Smart Crutches https://smartcrutch-usa.com/products/folding-traveler-forearm-crutches-sold-as-a-pair
