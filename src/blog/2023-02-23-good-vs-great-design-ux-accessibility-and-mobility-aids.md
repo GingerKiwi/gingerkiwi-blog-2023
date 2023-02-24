@@ -32,8 +32,9 @@ First, let's start with what a mobility aid is. **A mobility aid is anything tha
 
 While boring canes and crutches may be well designed for function, they're not great designs. They don't inspire people to use them, especially fashionable and younger users. They're the physical equivalent to good functioning, but ugly apps, websites, or software. If they're the only option, you might use them, but you won't be your best self when you are. This leads to the next point about great design. **Great design can support mental health and happiness.**
 
-![Screenshot of the "hero" section for Shoppers Drugmart Wellwise landing page for canes](/assets/blog/screenshot-canes-shoppersdrugmart-wellwise-website.png "image on right side shows a senior woman and man walking outside on a trail with trees in the background. The man is using a plain brown walking cane. The couple are smiling. They appear Asian. Left side is a medium blue area with white text. The text says: Canes. Stand Firm. Canes are a popular solution when you need extra mobility support to remain active in your daily life. While a cane might seem like a simple product, the number of models, adjustments, and accessories can seem overwhelming in the beginning. That’s why we’re here to help you find the right fit for your needs. There's a button to 'shop canes' and one labled cane resources ")
-
+<img class="img-smaller"
+     src="/assets/blog/screenshot-canes-shoppersdrugmart-wellwise-website.png"
+     alt="Screenshot of the hero section for Shoppers Drugmart Wellwise landing page for canesimage on right side shows a senior woman and man walking outside on a trail with trees in the background. The man is using a plain brown walking cane. The couple are smiling. They appear Asian. Left side is a medium blue area with white text. The text says: Canes. Stand Firm. Canes are a popular solution when you need extra mobility support to remain active in your daily life. While a cane might seem like a simple product, the number of models, adjustments, and accessories can seem overwhelming in the beginning. That’s why we’re here to help you find the right fit for your needs. There is a button to shop canes and one labeled cane resources">
 
 ### Great Design Can Support Mental Health & Happiness 
 
