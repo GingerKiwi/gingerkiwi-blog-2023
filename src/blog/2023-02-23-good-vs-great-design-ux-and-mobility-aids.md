@@ -1,5 +1,6 @@
 ---
-title: Good vs Great Design, UX, Accessibility, and Mobility Aids
+title: >
+ Good vs Great Design: UX and Mobility Aids
 date: 2023-02-23
 tags: ["post", "featured", "a11y", "ux", "mobility-aids"]
 image: '/assets/blog/neo-walk-instagram-2022.02.22.png'
