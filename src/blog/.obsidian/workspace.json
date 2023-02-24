@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e3bc0b91b8cb638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-02-12-100-days-of-code-days-101-200.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-02-23-good-vs-great-design-ux-and-mobility-aids.md",
+                "file": "2023-02-12-100-days-of-code-days-101-200.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-02-23-good-vs-great-design-ux-and-mobility-aids.md",
+                "file": "2023-02-12-100-days-of-code-days-101-200.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-02-23-good-vs-great-design-ux-and-mobility-aids.md"
+                "file": "2023-02-12-100-days-of-code-days-101-200.md"
               }
             }
           },
@@ -142,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,10 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e1bbb4aba4c1e51",
+  "active": "0e3bc0b91b8cb638",
   "lastOpenFiles": [
-    "2023-02-12-100-days-of-code.md",
     "2023-02-23-good-vs-great-design-ux-and-mobility-aids.md",
+    "2023-02-12-100-days-of-code.md",
     "100-days-of-technical-seo.md",
     "2021-05-27-how-having-surgery-for-a-hole-in-my-retina-led-to-teaching-myself-adobe-xd-yesterday.md",
     "screenshot-canes-shoppersdrugmart-wellwise-website.png.md",
