@@ -20,4 +20,4 @@ It’s a competitive job market, but updating your technology skills can give yo
 
 The five options listed below are either completely free, or require a small monthly membership fee and/or a student or [personal use ESRI ArcGIS licence](https://www.esri.com/en-us/arcgis/products/arcgis-for-personal-use/overview) (currently $100 USD/year). All five options have a flexible schedule. Some are paced online courses where you can plan when you do the assignments and work each week. Other options include self-study online courses and offline self-study where you set your own start and completion dates.
 
-[Read the full article on GoGeomatics Canada:](https://external.ink?to=/gogeomatics.ca/five-free-and-cheap-ways-to-improve-your-geospatial-technology-skills-and-learn-gis/)
+[Read the full article on GoGeomatics Canada:](https://gogeomatics.ca/five-free-and-cheap-ways-to-improve-your-geospatial-technology-skills-and-learn-gis/)
