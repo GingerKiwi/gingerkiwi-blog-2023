@@ -25,8 +25,6 @@ For example:
 - [e.Motion power assist wheels](https://www.alber.de/en/products/active-drives/e-motion/) are activated by the user touching the rims. The power hubs in the wheels provide additional propulsion to allow active manual wheelchair users to go longer distances and tackle steeper hills and obstacles.  The plus version of the app even has cruise control and remote driving with an on phone screen joystick: 
   [e.Motion app specs](https://www.alber.de/en/products/active-drives/e-motion/#app)
 
-(Google "e.Motion power assist" , "motion composites carbon fibre" , "wheelchair smart drive" , and/or "Baytec hand bike" to geek out on the specs and docs.) 
-
 ### A Handful of Facts About Wheelchair Users
 
 #### 1) Wheelchairs give wheelchair users freedom and mobility.
