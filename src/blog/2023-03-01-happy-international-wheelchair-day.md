@@ -1,7 +1,7 @@
 ---
 title: > 
  Happy International Wheelchair Day 2023! 
-date: 2023-03-02
+date: 2023-03-01
 tags: ["post", "a11y", "disability-awareness", "featured"]
 image: '/assets/blog/elevate-_BR7kwbILH0-unsplash.jpg'
 imageAlt: >
@@ -67,5 +67,5 @@ Gem Hubbard of Wheelsnoheels on YouTube:  [What is International Wheelchair Day?
 
 #### Photo Credits
 
-Cover Image: Elevate Beer on Unsplash https://unsplash.com/photos/_BR7kwbILH0
+Cover Image: [Elevate Beer on Unsplash](https://unsplash.com/photos/_BR7kwbILH0)
   
