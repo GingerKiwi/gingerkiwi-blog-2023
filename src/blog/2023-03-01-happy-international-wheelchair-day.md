@@ -11,7 +11,7 @@ description: >
  International Wheelchair Day is an annual global event that started in 2008 to celebrate the positive impacts that wheelchairs have had on wheelchair users' lives. For fellow developers, and engineers this may not be a coding article, but it's still relevant for us. Disabled people are our coworkers and peers as well as users of our apps, websites, and software. Also, wheelchairs are a huge awesome technical feat of engineering and design. Did you know that electric wheelchairs and power assist add ons for active user manual wheelchairs often have connected software and apps? Plus, I included a free dev resource at the end of the article!
 ---
 
-International Wheelchair Day is an annual global event that started in 2008 to celebrate the positive impacts that wheelchairs have had on wheelchair users' lives.  As Gem Hubbard of her WheelsNoHeels channel on YouTube explains her short video  International Wheelchair Day also celebrates occupational therapists, mobility seating professionals, funding organizations and other people who help wheelchair users get and maintain their wheelchairs. 
+International Wheelchair Day is an annual global event that started in 2008 to celebrate the positive impacts that wheelchairs have had on wheelchair users' lives.  As Gem Hubbard of her WheelsNoHeels channel on YouTube explains her short video [What is International Wheelchair Day?](https://www.youtube.com/shorts/80fZ_xmmyJY) International Wheelchair Day also celebrates occupational therapists, mobility seating professionals, funding organizations and other people who help wheelchair users get and maintain their wheelchairs. 
 
 ### This is Relevant for Developers and Engineers!
 
