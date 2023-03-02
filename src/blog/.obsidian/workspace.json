@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e1bbb4aba4c1e51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-02-23-good-vs-great-design-ux-and-mobility-aids.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0e3bc0b91b8cb638",
             "type": "leaf",
             "state": {
@@ -30,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ffd78c59aca08c69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-03-01-happy-international-wheelchair-day.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f93f42a0641c39c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-03-01-happy-international-wheelchair-day.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb63fbe2e4000e94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-03-01-happy-international-wheelchair-day.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-03-01-happy-international-wheelchair-day.md",
+                "file": "2023-02-12-100-days-of-code-days-101-200.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-03-01-happy-international-wheelchair-day.md",
+                "file": "2023-02-12-100-days-of-code-days-101-200.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-03-01-happy-international-wheelchair-day.md"
+                "file": "2023-02-12-100-days-of-code-days-101-200.md"
               }
             }
           },
@@ -205,11 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb63fbe2e4000e94",
+  "active": "0e3bc0b91b8cb638",
   "lastOpenFiles": [
+    "2023-03-01-happy-international-wheelchair-day.md",
     "2023-02-12-100-days-of-code-days-101-200.md",
     "2023-02-23-good-vs-great-design-ux-and-mobility-aids.md",
-    "2023-03-01-happy-international-wheelchair-day.md",
     "2023-01-03-happy-new-year.md",
     "2023-0.md",
     "Untitled 1.md",

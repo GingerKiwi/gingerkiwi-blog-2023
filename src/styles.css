@@ -199,12 +199,24 @@ article > p {
     color: var(--accent-1);
 }
 
-.twitter-feed {
+/* .twitter-feed {
     padding-bottom: 2rem;
-}
+} */
 
 .footer-font {
     font-family: var(--font-family-serif-1);
+}
+
+.footer-link {
+    color: var(--white);
+    text-decoration: underline;
+}
+
+
+footer a:hover, a:focus {
+    background-color:var(--widget-border-1);
+    border-radius: 5px;
+    
 }
 
 /* .linkedin svg {

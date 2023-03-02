@@ -15,7 +15,7 @@ International Wheelchair Day on March 1st, is an annual global event that starte
 
 ### This is Relevant for Developers and Engineers!
 
-For fellow developers, engineers, and** [TorontoJS](https://www.linkedin.com/feed/#) and [#a11yTO - Accessibility Toronto](https://www.linkedin.com/feed/#) members. **This may not be code, but it's still relevant to you too (and there's a free dev resource below)!** Disabled people are our coworkers and peers as well as users of our apps, websites, and software.
+For fellow developers, and engineers. **This may not be code, but it's still relevant to you too (and there's a free dev resource below)!** Disabled people are our coworkers and peers as well as users of our apps, websites, and software.
 
 #### Wheelchairs are Amazing Technology - There's Even Apps and Software
 
