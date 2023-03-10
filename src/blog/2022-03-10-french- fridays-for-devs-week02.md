@@ -1,7 +1,7 @@
 ---
 title: >
  French Fridays for Developers - Week 2
-date: 2023-03-03
+date: 2023-03-10
 tags: ["post", "featured", "french"]
 image: '/assets/blog/dorian-hurst-d-igN2ptyC8-unsplash.jpg'
 imageAlt: >
