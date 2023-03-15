@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "5f57842c8928533d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-03-13-100-days-of-code-week-05-days-120-124.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "54087f118598e601",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#UI-design-ideas:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03-10-french- fridays-for-devs-week02.md",
+                "file": "2023-03-13-100-days-of-code-week-05-days-120-124.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-03-10-french- fridays-for-devs-week02.md",
+                "file": "2023-03-13-100-days-of-code-week-05-days-120-124.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-03-10-french- fridays-for-devs-week02.md"
+                "file": "2023-03-13-100-days-of-code-week-05-days-120-124.md"
               }
             }
           },
@@ -181,17 +194,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce58d368e21242cf",
+  "active": "8ba4ec7d4500ff3a",
   "lastOpenFiles": [
-    "2022-03-03-french- fridays-for-devs-week01.md",
-    "2023-02-12-100-days-of-code-days-101-200.md",
     "2023-02-23-good-vs-great-design-ux-and-mobility-aids.md",
+    "2023-03-13-100-days-of-code-week-05-days-120-124.md",
+    "2023-02-12-100-days-of-code-days-101-200.md",
+    "2022-03-10-french- fridays-for-devs-week02.md",
+    "2022-03-03-french- fridays-for-devs-week01.md",
     "2022-11-07-introducing-bitesized-accessibility.md",
     "2022-12-14-top-5-best-practices-for-saas-marketing-on-linkedin.md",
     "2023-03-01-happy-international-wheelchair-day.md",
     "2023-01-03-happy-new-year.md",
-    "2023-0.md",
-    "Untitled 1.md",
-    "2020-09-10-five-free-and-cheap-ways-to-improve-your-geospatial-technology-skills-and-learn-gis.md"
+    "2023-0.md"
   ]
 }
