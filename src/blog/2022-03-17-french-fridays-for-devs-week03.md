@@ -8,7 +8,7 @@ imageAlt: >
  'adults celebrating at a French street party. There's a large French flag waving in a breeze and confetti thrown up and falling down in the air'
 imageCaption: 'ADD CAPTION'
 description: >
- To celebrate getting to 400 days on Duolingo French this week I'm starting French for Devs Fridays. Here you'll find  useful and/or amusing French phrases for developers. ~ Développeur junior : Comment avez-vous trouvé le bug si facilement? ~ Développeur senior : J'étais là quand le code a été écrit. Read the full post for the translation.
+ To celebrate getting to 400 days on Duolingo French this week I'm starting French for Devs Fridays. Here you'll find  useful and/or amusing French phrases for developers. ~ Mon code NE FONCTIONNE PAS, je ne sais pas pourquoi. Mon code FONCTIONNE, je ne sais pas pourquoi. ~ Read the full post for the translation.
 ---
 
 To celebrate getting to 400 days on Duolingo French this week I'm starting *French Fridays for Developers*. Here you'll find weekly useful and/or amusing French phrases for developers.
