@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Elizabeth McCready" />
+    <link rel="shortcut icon" type="image/png" href="/assets/blog/favicon-2.png" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Marcellus&family=Marcellus+SC&family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css" />
+    <title>Accessible Forms and the &quot;Yarn Help!&quot; Website and PWA Project. https://yarnhelp.app
+</title>
+  </head>
+        
+    <body>
+        
+        <header>
+  <div class="container container-flex">
+    <div class="site-title">
+      <h1 class="h1-brand">Ginger Kiwi</h1>
+      <p class="subtitle">Exploring technology, design, and accessibility</p>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/projects">Projects</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+  <!-- / .container -->
+</header>
+
+  <div class="container container-flex">
+    <main role="main" class="full-article">
+      <article class="article-featured">
+        <h2 class="article-title">Accessible Forms and the &quot;Yarn Help!&quot; Website and PWA Project. https://yarnhelp.app
+</h2>
+        <img
+            src="/assets/blog/yarnhelp-screenshot-square-2023-03-20.png"
+            alt="&#39;Screenshot of a form with a mauve and champange/beige pink theme. There are three areas on the theme. The top one that spans the width of the screen says: yards in each ball, then has the number 216 in the form field. The purple button below says: calculate. There are two long column areas. The one on the right has the title: Pullover Sweaters. Below that it says: Baby Pullover You need 3 balls of this yarn for a baby pullover Toddler Pullover You need 4 balls of this yarn for a toddler pullover Child Pullover You need 6 balls of this yarn for a child Women&#39;s Pullover You need 7 balls of this yarn for a women&#39;s pullover Men&#39;s Pullover You need 9 balls of this yarn for a men&#39;s pullover. The column on the right has the title: Blankets and throws. It says: Coming soon! Baby Blanket Throw Blanket Twin Size Blanket Double/Queen Size Blanket.&#39;
+"
+            class="article-image article-recent-image full-article-image"
+        />
+        <p class="article-info">Mar 19, 2023</p>
+        <p>On Friday, March 17, I finally deployed Yarn Help! to the domain I purchased last October: <a href="https://yarnhelp.app">https://yarnhelp.app</a>. (<em>What is currently deployed is the updates that I got done on Friday.</em>) &quot;Yarn Help!&quot; is a site for knitters and crocheters of all levels who want yarn math help, as well as their friends and family that just want to know <a href="https://yarnhelp.app/howmuchyarn.html">&quot;how much yarn&quot;</a> to give them as a gift. Right now (March, 2023) the focus is on that page. Later on, you'll find yarn math help and tools for:</p>
+<ul>
+<li>Calculating gauge</li>
+<li>How many stitches to cast on for sweaters, socks, hats, and other projects</li>
+<li>Weight equivalents for holding yarn double</li>
+<li>Needle and hook size convertors</li>
+<li>Sweater pattern generator for bottom up yoke pullovers based on <a href="https://tutorials.knitpicks.com/percentage-system/">Elizabeth Zimmerman's percentage system</a>)</li>
+<li>French language versions of some of the pages</li>
+</ul>
+<h2>Version 2.0:  March 2023</h2>
+<p>The idea for this site started in March 2022, and was first published as a one page website with a really basic design in September, 2022. Currently, as of March 2023, development is focusing on a mobile friendly version of the <a href="https://yarnhelp.app/howmuchyarn.html">&quot;How Much Yarn page&quot;</a> followed by a responsive design of the entire site for larger screen sizes. I'll also be collaborating with a friend who's a senior dev to create a progressive web app version (pwa) of The Yarn Gift Helper page so people can install it on their phones and use it offline. (Some yarn shops have basements with spotty cell reception!)</p>
+<ul>
+<li>View the current code and docs here: <a href="https://github.com/GingerKiwi/yarnhelp/tree/Dev-2023.03">GitHub Repo for the Development Branch of YarnHelp.app</a></li>
+</ul>
+<h2>A11y: Accessibility</h2>
+<p>It's best practice to incorporate accessibility at all stages of the development process. For this quick version I've incorporated a colour scheme with good contrast, and that's not too bright.</p>
+<h3>Current UI Design</h3>
+<p>The UI theme is very simple for two reasons:</p>
+<ol>
+<li>It lets me focus on the logic and building out the site, without spending lots of time going down my favourite rabbit hole of design and css.</li>
+<li>It helps with load times, respects users data plans, and works better in spotty cell reception areas.</li>
+</ol>
+<h3>CSS</h3>
+<p>I've also included <em>&quot;prefers reduced motion&quot;</em>, and left a commented section for <em>&quot;skip to main content&quot;</em>.
+What was deployed on Friday is a mobile first design that just has the mobile version code. Media queries have to be added for larger screen sizes.</p>
+<p>Note: If you're using a screenreader to read this post, the code for the screenshot is below the image. I haven't implemented code syntax in this blog yet.</p>
+<img src="/assets/blog/yarnhelp-css-code-a11ysection-2023-03-20.png" alt="code screenshot. Please see the typed code below the image">
+<h3>Screenreader accessible code for image above:</h3>
+<pre><code class="language-css">/* -- A11Y -- */
+
+  
+/* Remove all animations, transitions, and smooth scrolling for people that prefer not to see them */
+@media (prefers-reduced-motion: reduce) {
+	html:focus-within {
+	scroll-behavior: auto;
+}
+  
+*,
+*::before,
+*::after {
+	animation-duration: 0.01ms !important;
+	animation-iteration-count: 1 !important;
+	transition-duration: 0.01ms !important;
+	scroll-behavior: auto !important;
+	}
+}
+  
+
+/* --- Add Skip to Main Content Here --- */
+</code></pre>
+<h2>Rachele DiTullio's &quot;Structuring Accessible Forms Webinar&quot;</h2>
+<p>As part of AxeCon 2023 by Deque Systems, Senior Accessibility Engineer, Rachele DiTullio did a webinar on <a href="https://youtu.be/hc_mWh4T2bE">Structuring Accessible Forms</a></p>
+<p>Rachele DiTullio. Mobile input help on forms. 24:00 in <a href="https://youtu.be/hc_mWh4T2bE?t=1445">Structuring Accessible Forms</a>(link to time in video where this is covered)
+- <a href="https://github.com/racheleditullio/accessible-form-example">Github Repo for this talk</a>
+- <a href="https://codepen.io/racheleditullio/pen/oNwZdOg">Codepen</a>
+- <a href="https://racheleditullio.com/accessible-form-example/">deployed version</a>
+- <a href="https://racheleditullio.com/talks/accessible-forms/">Rachele's blog page for this talk</a>
+- Includes slides and additional resources</p>
+<pre><code class="language-html">&lt;input type=&quot;text&quot; 
+	   pattern=&quot;...&quot;
+	   inputmode=&quot;numeric&quot;
+... &gt;
+
+&lt;!--This causes a number pad to appear on the screen making it easier to input numbers on mobile devices --&gt;
+</code></pre>
+
+        
+     
+      </article>
+    </main>
+  </div>
+  
+</html>
+
+        </div>
+    </body>
+        <footer>
+  <p class="footer-font"><strong>Ginger Kiwi</strong></p>
+  <img
+    src="/assets/avatar.png"
+    alt="a redhead woman with a ponytail behind a laptop computer"
+    class="logo-img"
+  />
+  <p class="footer-font">Copyright &copy;  Elizabeth McCready, 2023</p>
+  
+<nav class="a11y-webring-club" aria-labelledby="a11y-webring-club">
+  <h2 id="a11y-webring-club">a11y-webring.club</h2>
+  <p>This site is a member of the <a rel="external" class="footer-link" href="https://a11y-webring.club/">a11y-webring.club</a>.</p>
+  <ul class="link-white-hover">
+    <li><a rel="external" referrerpolicy="strict-origin" class="footer-link" href="https://a11y-webring.club/prev">Previous website</a></li>
+    <li><a rel="external" referrerpolicy="strict-origin" class="footer-link" href="https://a11y-webring.club/random">Random website</a></li>
+    <li><a rel="external" referrerpolicy="strict-origin" class="footer-link" href="https://a11y-webring.club/next">Next website</a></li>
+  </ul>
+</nav>
+</footer>
+</html>
