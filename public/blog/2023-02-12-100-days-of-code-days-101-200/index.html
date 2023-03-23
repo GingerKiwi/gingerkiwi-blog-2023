@@ -12,6 +12,9 @@
     />
     <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Marcellus&family=Marcellus+SC&family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/styles.css" />
+
+    
+    <link href="https://unpkg.com/prismjs@1.20.0/themes/prism-okaidia.css" rel="stylesheet">
     <title>100 Days of Code - Days 101-200 
 </title>
   </head>
@@ -106,34 +109,17 @@ Also, Finally introduced myself on the Dear Junior Dev discord.</p>
 <li>use gap instead of margins for space between elements</li>
 <li>for display grid,  declare</li>
 </ul>
-<pre><code class="language-css">parent-element {
-	display: grid;
-	grid-template-columns: repeat(3 fr );
-	/* this gives three columns of equal width*/
-}
-/* and the child elements will be put in columns*/
-</code></pre>
+<pre class="language-css"><code class="language-css"><span class="token selector">parent-element</span> <span class="token punctuation">{</span><br>	<span class="token property">display</span><span class="token punctuation">:</span> grid<span class="token punctuation">;</span><br>	<span class="token property">grid-template-columns</span><span class="token punctuation">:</span> <span class="token function">repeat</span><span class="token punctuation">(</span>3 fr <span class="token punctuation">)</span><span class="token punctuation">;</span><br>	<span class="token comment">/* this gives three columns of equal width*/</span><br><span class="token punctuation">}</span><br><span class="token comment">/* and the child elements will be put in columns*/</span></code></pre>
 <p>Also display grid means that items are not block, inline, or inline-block, they are grid elements.</p>
 <ul>
 <li>to get a div that spans across two columns create a class like</li>
 </ul>
-<pre><code class="language-css">.grid-span-2 {
-	grid-column: span 2;
-}
-</code></pre>
+<pre class="language-css"><code class="language-css"><span class="token selector">.grid-span-2</span> <span class="token punctuation">{</span><br>	<span class="token property">grid-column</span><span class="token punctuation">:</span> span 2<span class="token punctuation">;</span><br><span class="token punctuation">}</span></code></pre>
 <p>Don't use line numbers until you need to use line numbers. Keep things as simple as possible. This class &quot; .grid-span-2&quot; can be reused.</p>
 <p>To be specific about where an element should start and end, the short form is:</p>
-<pre><code class="language-css">element-name {
-	grid-column: 1 / 3; /* starts on the very left, ends at the left of column 3*/
-	grid-row: 2 / 5: /* starts at the top of the second row and ends at the top of the 5th row*/
-}
-</code></pre>
+<pre class="language-css"><code class="language-css"><span class="token selector">element-name</span> <span class="token punctuation">{</span><br>	<span class="token property">grid-column</span><span class="token punctuation">:</span> 1 / 3<span class="token punctuation">;</span> <span class="token comment">/* starts on the very left, ends at the left of column 3*/</span><br>	<span class="token property">grid-row</span><span class="token punctuation">:</span> 2 / 5<span class="token punctuation">:</span> <span class="token comment">/* starts at the top of the second row and ends at the top of the 5th row*/</span><br><span class="token punctuation">}</span></code></pre>
 <p>This other way of writing the code has the same result:</p>
-<pre><code class="language-css">element-name {
-	grid-column: 1 / span 2; /* starts on the very left, spans two columns*/
-	grid-row: 2 / span 3: /* starts at the top of the second row spans three rows*/
-}
-</code></pre>
+<pre class="language-css"><code class="language-css"><span class="token selector">element-name</span> <span class="token punctuation">{</span><br>	<span class="token property">grid-column</span><span class="token punctuation">:</span> 1 / span 2<span class="token punctuation">;</span> <span class="token comment">/* starts on the very left, spans two columns*/</span><br>	<span class="token property">grid-row</span><span class="token punctuation">:</span> 2 / span 3<span class="token punctuation">:</span> <span class="token comment">/* starts at the top of the second row spans three rows*/</span><br><span class="token punctuation">}</span></code></pre>
 <h3>Week 03 of 20 - February 27, 2023</h3>
 <h4>Day 111  |  2023-02-27  |  Monday  |  Focus: UI Design - TeaPlace Project |</h4>
 <p>Main Resource: Scrimba UI Design Course: https://scrimba.com/learn/designbootcamp</p>
@@ -176,33 +162,9 @@ Also, Finally introduced myself on the Dear Junior Dev discord.</p>
 <li>Forms Design Challenge 1 and 2 . Styled 1st page of form for mobile, laptop, desktop/tv.</li>
 </ol>
 <p>Refection: I keep forgetting to use the following for styling to put a horizontal line above a heading. How many times has this come up in this course and elsewhere on Scrimba?!</p>
-<pre><code class="language-css">h2:before {
-	content: '';
-	position: absolute;
-	height: 5px;
-	width: 30px;
-	background: #8040FF; /*a purple colour*/
-	left: 0;
-	top: -7px;
-	border-radius: 1em;
-}
-</code></pre>
+<pre class="language-css"><code class="language-css"><span class="token selector">h2:before</span> <span class="token punctuation">{</span><br>	<span class="token property">content</span><span class="token punctuation">:</span> <span class="token string">''</span><span class="token punctuation">;</span><br>	<span class="token property">position</span><span class="token punctuation">:</span> absolute<span class="token punctuation">;</span><br>	<span class="token property">height</span><span class="token punctuation">:</span> 5px<span class="token punctuation">;</span><br>	<span class="token property">width</span><span class="token punctuation">:</span> 30px<span class="token punctuation">;</span><br>	<span class="token property">background</span><span class="token punctuation">:</span> #8040FF<span class="token punctuation">;</span> <span class="token comment">/*a purple colour*/</span><br>	<span class="token property">left</span><span class="token punctuation">:</span> 0<span class="token punctuation">;</span><br>	<span class="token property">top</span><span class="token punctuation">:</span> -7px<span class="token punctuation">;</span><br>	<span class="token property">border-radius</span><span class="token punctuation">:</span> 1em<span class="token punctuation">;</span><br><span class="token punctuation">}</span></code></pre>
 <p>To style an error field so that the error message has a solid background that slightly overlaps the bottom of the field it's attached to:</p>
-<pre><code class="language-css">.left-col .error-field {
-	border: 3px solid #FFB3B3;
-}
-
-  
-
-.error {
-	background: #FFB3B3;
-	display: inline-block;
-	padding: .3em .5em;
-	font-size: .85em;
-	font-weight: bold;
-	margin-top: -.1em;
-}
-</code></pre>
+<pre class="language-css"><code class="language-css"><span class="token selector">.left-col .error-field</span> <span class="token punctuation">{</span><br>	<span class="token property">border</span><span class="token punctuation">:</span> 3px solid #FFB3B3<span class="token punctuation">;</span><br><span class="token punctuation">}</span><br><br>  <br><br><span class="token selector">.error</span> <span class="token punctuation">{</span><br>	<span class="token property">background</span><span class="token punctuation">:</span> #FFB3B3<span class="token punctuation">;</span><br>	<span class="token property">display</span><span class="token punctuation">:</span> inline-block<span class="token punctuation">;</span><br>	<span class="token property">padding</span><span class="token punctuation">:</span> .3em .5em<span class="token punctuation">;</span><br>	<span class="token property">font-size</span><span class="token punctuation">:</span> .85em<span class="token punctuation">;</span><br>	<span class="token property">font-weight</span><span class="token punctuation">:</span> bold<span class="token punctuation">;</span><br>	<span class="token property">margin-top</span><span class="token punctuation">:</span> -.1em<span class="token punctuation">;</span><br><span class="token punctuation">}</span></code></pre>
 <p>Other random musings for gingerkiwi.dev:</p>
 <ul>
 <li>**I have to get around to styling the code blocks and/or embedding codepens!</li>
@@ -257,22 +219,7 @@ Refection: Need to go back through Josh W. Comeau's article on gradients when de
 <ul>
 <li>It's not so relevant now because there aren't any animations, transitions, or smooth scrolling.</li>
 </ul>
-<pre><code class="language-css">/* Remove all animations, transitions and smooth scroll for people that prefer not to see them */
-
-@media (prefers-reduced-motion: reduce) {
-	html:focus-within {
-	scroll-behavior: auto;
-	}
-		*,
-		*::before,
-		*::after {
-		animation-duration: 0.01ms !important;
-		animation-iteration-count: 1 !important;
-		transition-duration: 0.01ms !important;
-		scroll-behavior: auto !important;
-	}
-}
-</code></pre>
+<pre class="language-css"><code class="language-css"><span class="token comment">/* Remove all animations, transitions and smooth scroll for people that prefer not to see them */</span><br><br><span class="token atrule"><span class="token rule">@media</span> <span class="token punctuation">(</span><span class="token property">prefers-reduced-motion</span><span class="token punctuation">:</span> reduce<span class="token punctuation">)</span></span> <span class="token punctuation">{</span><br>	<span class="token selector">html:focus-within</span> <span class="token punctuation">{</span><br>	<span class="token property">scroll-behavior</span><span class="token punctuation">:</span> auto<span class="token punctuation">;</span><br>	<span class="token punctuation">}</span><br>		<span class="token selector">*,<br>		*::before,<br>		*::after</span> <span class="token punctuation">{</span><br>		<span class="token property">animation-duration</span><span class="token punctuation">:</span> 0.01ms <span class="token important">!important</span><span class="token punctuation">;</span><br>		<span class="token property">animation-iteration-count</span><span class="token punctuation">:</span> 1 <span class="token important">!important</span><span class="token punctuation">;</span><br>		<span class="token property">transition-duration</span><span class="token punctuation">:</span> 0.01ms <span class="token important">!important</span><span class="token punctuation">;</span><br>		<span class="token property">scroll-behavior</span><span class="token punctuation">:</span> auto <span class="token important">!important</span><span class="token punctuation">;</span><br>	<span class="token punctuation">}</span><br><span class="token punctuation">}</span></code></pre>
 <h4>Day 117  |  2023-03-07  |  Tuesday  |  Exploring CSS Layouts |</h4>
 <p>Main Resources:</p>
 <ol>
@@ -310,53 +257,7 @@ No code today. Attended the first couple of hours of Microsoft Ability Summit.</
 <li>Remember tab index!</li>
 <li>Also love Stephanie Eckles' design for <a href="https://moderncss.dev/">moderncss.dev</a> The charcoal grey background is easy on the eyes, and love the multi-colour gradient and &quot;on click&quot; activation of cards.</li>
 </ol>
-<pre><code class="language-css">select {
-
-	appearance:none;
-	-webkit-appearance:none;
-	-moz-appearance:none;
-	-ms-appearance:none;
-	background:url('http://www.free-icons-download.net/images/small-down-arrow-icon-15593.png');
-	background-repeat: no-repeat;
-	background-size:16px 17px;
-	background-position: right;
-	background-origin: content-box;
-}
-
-input[type=&quot;radio&quot;] {
-	appearance: none;
-	-webkit-appearance: none;
-	-moz-appearance: none;
-	display: inline-block;
-	position: relative;
-	border: 2px solid #C6C6C6;
-	color: #666;
-	top: 10px;
-	height: 30px;
-	width: 30px;
-	border-radius: 50px;
-	cursor: pointer;
-	margin-right: 7px;
-	outline: none;
-} 
-
-input[type=&quot;radio&quot;]:checked::before {
-	content: '';
-	position: absolute;
-	top: 5px;
-	left: 5px;
-	background: #8040FF;
-	width: 16px;
-	height: 16px;
-	border-radius: 50%;
-}
-
-.left-label {
-	display: unset;
-	font-weight: normal;
-	margin-right: 2em;
-}
-</code></pre>
+<pre class="language-css"><code class="language-css"><span class="token selector">select</span> <span class="token punctuation">{</span><br><br>	<span class="token property">appearance</span><span class="token punctuation">:</span>none<span class="token punctuation">;</span><br>	<span class="token property">-webkit-appearance</span><span class="token punctuation">:</span>none<span class="token punctuation">;</span><br>	<span class="token property">-moz-appearance</span><span class="token punctuation">:</span>none<span class="token punctuation">;</span><br>	<span class="token property">-ms-appearance</span><span class="token punctuation">:</span>none<span class="token punctuation">;</span><br>	<span class="token property">background</span><span class="token punctuation">:</span><span class="token url"><span class="token function">url</span><span class="token punctuation">(</span><span class="token string url">'http://www.free-icons-download.net/images/small-down-arrow-icon-15593.png'</span><span class="token punctuation">)</span></span><span class="token punctuation">;</span><br>	<span class="token property">background-repeat</span><span class="token punctuation">:</span> no-repeat<span class="token punctuation">;</span><br>	<span class="token property">background-size</span><span class="token punctuation">:</span>16px 17px<span class="token punctuation">;</span><br>	<span class="token property">background-position</span><span class="token punctuation">:</span> right<span class="token punctuation">;</span><br>	<span class="token property">background-origin</span><span class="token punctuation">:</span> content-box<span class="token punctuation">;</span><br><span class="token punctuation">}</span><br><br><span class="token selector">input[type="radio"]</span> <span class="token punctuation">{</span><br>	<span class="token property">appearance</span><span class="token punctuation">:</span> none<span class="token punctuation">;</span><br>	<span class="token property">-webkit-appearance</span><span class="token punctuation">:</span> none<span class="token punctuation">;</span><br>	<span class="token property">-moz-appearance</span><span class="token punctuation">:</span> none<span class="token punctuation">;</span><br>	<span class="token property">display</span><span class="token punctuation">:</span> inline-block<span class="token punctuation">;</span><br>	<span class="token property">position</span><span class="token punctuation">:</span> relative<span class="token punctuation">;</span><br>	<span class="token property">border</span><span class="token punctuation">:</span> 2px solid #C6C6C6<span class="token punctuation">;</span><br>	<span class="token property">color</span><span class="token punctuation">:</span> #666<span class="token punctuation">;</span><br>	<span class="token property">top</span><span class="token punctuation">:</span> 10px<span class="token punctuation">;</span><br>	<span class="token property">height</span><span class="token punctuation">:</span> 30px<span class="token punctuation">;</span><br>	<span class="token property">width</span><span class="token punctuation">:</span> 30px<span class="token punctuation">;</span><br>	<span class="token property">border-radius</span><span class="token punctuation">:</span> 50px<span class="token punctuation">;</span><br>	<span class="token property">cursor</span><span class="token punctuation">:</span> pointer<span class="token punctuation">;</span><br>	<span class="token property">margin-right</span><span class="token punctuation">:</span> 7px<span class="token punctuation">;</span><br>	<span class="token property">outline</span><span class="token punctuation">:</span> none<span class="token punctuation">;</span><br><span class="token punctuation">}</span> <br><br><span class="token selector">input[type="radio"]:checked::before</span> <span class="token punctuation">{</span><br>	<span class="token property">content</span><span class="token punctuation">:</span> <span class="token string">''</span><span class="token punctuation">;</span><br>	<span class="token property">position</span><span class="token punctuation">:</span> absolute<span class="token punctuation">;</span><br>	<span class="token property">top</span><span class="token punctuation">:</span> 5px<span class="token punctuation">;</span><br>	<span class="token property">left</span><span class="token punctuation">:</span> 5px<span class="token punctuation">;</span><br>	<span class="token property">background</span><span class="token punctuation">:</span> #8040FF<span class="token punctuation">;</span><br>	<span class="token property">width</span><span class="token punctuation">:</span> 16px<span class="token punctuation">;</span><br>	<span class="token property">height</span><span class="token punctuation">:</span> 16px<span class="token punctuation">;</span><br>	<span class="token property">border-radius</span><span class="token punctuation">:</span> 50%<span class="token punctuation">;</span><br><span class="token punctuation">}</span><br><br><span class="token selector">.left-label</span> <span class="token punctuation">{</span><br>	<span class="token property">display</span><span class="token punctuation">:</span> unset<span class="token punctuation">;</span><br>	<span class="token property">font-weight</span><span class="token punctuation">:</span> normal<span class="token punctuation">;</span><br>	<span class="token property">margin-right</span><span class="token punctuation">:</span> 2em<span class="token punctuation">;</span><br><span class="token punctuation">}</span></code></pre>
 <p>Note: Also found this! <a href="https://stylestage.dev">Style Stage - a la CSSZenGarden</a></p>
 <h4>Day 119  |  2023-03-10  |  Friday  |  UI Design - CSS Animations |</h4>
 <p>Main Resource: <a href="https://scrimba.com/playlist/p7wVDAg">UI Animations Module for Scrimba UI Design course</a></p>

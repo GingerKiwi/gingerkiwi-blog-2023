@@ -12,6 +12,9 @@
     />
     <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Marcellus&family=Marcellus+SC&family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/styles.css" />
+
+    
+    <link href="https://unpkg.com/prismjs@1.20.0/themes/prism-okaidia.css" rel="stylesheet">
     <title>100 Days of Code - Week 05: Days 120-125 (6 Days this week!) 
 </title>
   </head>
@@ -80,43 +83,12 @@ I really want to apply all this and upskill my Javascript for yarnhelp.app</p>
 <p>UI Design Course Certificate
 <img src="/assets/blog/2023.03-14_UI-Design-Cert_Scrimba.png" alt="ALT!" class="img-smaller"></p>
 <p>Refections and Notes for UI Design: Can do css descendent selectors 3 deep not just two deep like this:</p>
-<pre><code class="language-css">/* to target a image(s) inside of an li inside of a list */
-ul.features li img {
-	width: 40px;
-}
-</code></pre>
+<pre class="language-css"><code class="language-css"><span class="token comment">/* to target a image(s) inside of an li inside of a list */</span><br><span class="token selector">ul.features li img</span> <span class="token punctuation">{</span><br>	<span class="token property">width</span><span class="token punctuation">:</span> 40px<span class="token punctuation">;</span><br><span class="token punctuation">}</span></code></pre>
 <p>To make an svg into a watermark:</p>
-<pre><code class="language-css">.fern {
-	position: absolute;
-	bottom: 0;
-	left: 0;
-	z-index: 1;
-	width: 80%;
-	opacity: .1;
-}
-</code></pre>
+<pre class="language-css"><code class="language-css"><span class="token selector">.fern</span> <span class="token punctuation">{</span><br>	<span class="token property">position</span><span class="token punctuation">:</span> absolute<span class="token punctuation">;</span><br>	<span class="token property">bottom</span><span class="token punctuation">:</span> 0<span class="token punctuation">;</span><br>	<span class="token property">left</span><span class="token punctuation">:</span> 0<span class="token punctuation">;</span><br>	<span class="token property">z-index</span><span class="token punctuation">:</span> 1<span class="token punctuation">;</span><br>	<span class="token property">width</span><span class="token punctuation">:</span> 80%<span class="token punctuation">;</span><br>	<span class="token property">opacity</span><span class="token punctuation">:</span> .1<span class="token punctuation">;</span><br><span class="token punctuation">}</span></code></pre>
 <p>To have three items in a media query (eg small tablet) align with two on top and one centred below:
 <img src="/assets/blog/Screen Shot 2023-03-14 at 11.38.39 AM.png" alt="screenshot of a section of a web page showing two items on top with one on the bottom. Each item has a medium green icon with a small paragraph of lorem ipsum placeholder text below in white sans-serif font. all items are centred." class="img-smaller"></p>
-<pre><code class="language-css">.featured-cabins, 
-.features, 
-.testimonials /* testimonials fits well three items across so there's no need to apply the li:last-child rules below */
-				{
-	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(min(120px, 100%), 1fr));
-	grid-gap: 1rem;
-	justify-content: space-evenly;
-}
-
-/* Just using .features:last-child doesn't work because we're looking for the last li not the last .features */
-.featured-cabins li:last-child,
-.features li:last-child
-{
-	grid-column: 1 / span 2;
-	max-width: 50%;
-	justify-self: center;
-}
-/* Note: .testimonials fits well three items across so there's no need to apply the li:last-child rules above */
-</code></pre>
+<pre class="language-css"><code class="language-css">.featured-cabins<span class="token punctuation">,</span> <br>.features<span class="token punctuation">,</span> <br>.testimonials <span class="token comment">/* testimonials fits well three items across so there's no need to apply the li:last-child rules below */</span><br>				<span class="token punctuation">{</span><br>	<span class="token property">display</span><span class="token punctuation">:</span> grid<span class="token punctuation">;</span><br>	<span class="token property">grid-template-columns</span><span class="token punctuation">:</span> <span class="token function">repeat</span><span class="token punctuation">(</span>auto-fit<span class="token punctuation">,</span> <span class="token function">minmax</span><span class="token punctuation">(</span><span class="token function">min</span><span class="token punctuation">(</span>120px<span class="token punctuation">,</span> 100%<span class="token punctuation">)</span><span class="token punctuation">,</span> 1fr<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span><br>	<span class="token property">grid-gap</span><span class="token punctuation">:</span> 1rem<span class="token punctuation">;</span><br>	<span class="token property">justify-content</span><span class="token punctuation">:</span> space-evenly<span class="token punctuation">;</span><br><span class="token punctuation">}</span><br><br><span class="token comment">/* Just using .features:last-child doesn't work because we're looking for the last li not the last .features */</span><br><span class="token selector">.featured-cabins li:last-child,<br>.features li:last-child</span><br><span class="token punctuation">{</span><br>	<span class="token property">grid-column</span><span class="token punctuation">:</span> 1 / span 2<span class="token punctuation">;</span><br>	<span class="token property">max-width</span><span class="token punctuation">:</span> 50%<span class="token punctuation">;</span><br>	<span class="token property">justify-self</span><span class="token punctuation">:</span> center<span class="token punctuation">;</span><br><span class="token punctuation">}</span><br><span class="token comment">/* Note: .testimonials fits well three items across so there's no need to apply the li:last-child rules above */</span></code></pre>
 <ul>
 <li>At some point I should review/get more into GSAP GreenSock Animation Platform: https://greensock.com/get-started/</li>
 </ul>
@@ -158,133 +130,13 @@ Could use the grid page as a starting point for yarnhelp.app</p>
 <ul>
 <li>Variable names: This is why I've always used &quot;01&quot; instead of just &quot;1&quot; for numbers. I spent 20minutes trying to see what I was missing/had forgotten about constructor functions with the code below. ... Only to finally figure out that &quot;hotel1&quot; was misspelled &quot;hote1&quot;.</li>
 </ul>
-<pre><code class="language-js">// Code and challenge provided on Scrimba
-const hotel1 = {
-    name: 'Safari View',
-    rooms: 30,
-    stars: '⭐⭐⭐⭐⭐',
-    costPerNightAdult: 240,
-}  
-
-const hotel2 = {
-    name: 'Leopard Mansion',
-    rooms: 96,
-    stars: '⭐⭐⭐',
-    costPerNightAdult: 120,
-}
-
-/*
-
-Challenge:
-1. Create a constructor function called NationalParkHotels.
-2. Have it take in &quot;data&quot; as a parameter
-3. Assign the data to &quot;this&quot;
-4. Log out the result of creating an instance of
-NationalParkHotels for each hotel.
-*/
-</code></pre>
-<pre><code class="language-js">// Code and console output with spelling error:
-function NationalParkHotels(data){
-	this.name = data.name
-	this.rooms = data.rooms
-	this.stars = data.stars
-	this.costPerNightAdult = data.costPerNightAdult
-}  
-
-const safariView = new NationalParkHotels(hote1)
-const leopardMansion = new NationalParkHotels(hotel2)
-    
-
-console.log(safariView)
-// console output 
-ReferenceError: hote1 is not defined (/index.js:22)
-</code></pre>
-<pre><code class="language-js">// Code and console output after fixing spelling error:
-function NationalParkHotels(data){
-	this.name = data.name
-	this.rooms = data.rooms
-	this.stars = data.stars
-	this.costPerNightAdult = data.costPerNightAdult
-}  
-
-const safariView = new NationalParkHotels(hotel1)
-const leopardMansion = new NationalParkHotels(hotel2)
-    
-
-console.log(safariView)
-console.log(leopardMansion)
-
-// console output after fixing spelling error:
-NationalParkHotels {name:&quot;Safari View&quot;, rooms:30, stars:&quot;⭐⭐⭐⭐⭐&quot;, costPerNightAdult:240}
-
-NationalParkHotels {name:&quot;Leopard Mansion&quot;, rooms:96, stars:&quot;⭐⭐⭐&quot;, costPerNightAdult:120}
-
-</code></pre>
+<pre class="language-js"><code class="language-js"><span class="token comment">// Code and challenge provided on Scrimba</span><br><span class="token keyword">const</span> hotel1 <span class="token operator">=</span> <span class="token punctuation">{</span><br>    name<span class="token operator">:</span> <span class="token string">'Safari View'</span><span class="token punctuation">,</span><br>    rooms<span class="token operator">:</span> <span class="token number">30</span><span class="token punctuation">,</span><br>    stars<span class="token operator">:</span> <span class="token string">'⭐⭐⭐⭐⭐'</span><span class="token punctuation">,</span><br>    costPerNightAdult<span class="token operator">:</span> <span class="token number">240</span><span class="token punctuation">,</span><br><span class="token punctuation">}</span>  <br><br><span class="token keyword">const</span> hotel2 <span class="token operator">=</span> <span class="token punctuation">{</span><br>    name<span class="token operator">:</span> <span class="token string">'Leopard Mansion'</span><span class="token punctuation">,</span><br>    rooms<span class="token operator">:</span> <span class="token number">96</span><span class="token punctuation">,</span><br>    stars<span class="token operator">:</span> <span class="token string">'⭐⭐⭐'</span><span class="token punctuation">,</span><br>    costPerNightAdult<span class="token operator">:</span> <span class="token number">120</span><span class="token punctuation">,</span><br><span class="token punctuation">}</span><br><br><span class="token comment">/*<br><br>Challenge:<br>1. Create a constructor function called NationalParkHotels.<br>2. Have it take in "data" as a parameter<br>3. Assign the data to "this"<br>4. Log out the result of creating an instance of<br>NationalParkHotels for each hotel.<br>*/</span></code></pre>
+<pre class="language-js"><code class="language-js"><span class="token comment">// Code and console output with spelling error:</span><br><span class="token keyword">function</span> <span class="token function">NationalParkHotels</span><span class="token punctuation">(</span><span class="token parameter">data</span><span class="token punctuation">)</span><span class="token punctuation">{</span><br>	<span class="token keyword">this</span><span class="token punctuation">.</span>name <span class="token operator">=</span> data<span class="token punctuation">.</span>name<br>	<span class="token keyword">this</span><span class="token punctuation">.</span>rooms <span class="token operator">=</span> data<span class="token punctuation">.</span>rooms<br>	<span class="token keyword">this</span><span class="token punctuation">.</span>stars <span class="token operator">=</span> data<span class="token punctuation">.</span>stars<br>	<span class="token keyword">this</span><span class="token punctuation">.</span>costPerNightAdult <span class="token operator">=</span> data<span class="token punctuation">.</span>costPerNightAdult<br><span class="token punctuation">}</span>  <br><br><span class="token keyword">const</span> safariView <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">NationalParkHotels</span><span class="token punctuation">(</span>hote1<span class="token punctuation">)</span><br><span class="token keyword">const</span> leopardMansion <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">NationalParkHotels</span><span class="token punctuation">(</span>hotel2<span class="token punctuation">)</span><br>    <br><br>console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>safariView<span class="token punctuation">)</span><br><span class="token comment">// console output </span><br><span class="token literal-property property">ReferenceError</span><span class="token operator">:</span> hote1 is not <span class="token function">defined</span> <span class="token punctuation">(</span><span class="token operator">/</span>index<span class="token punctuation">.</span>js<span class="token operator">:</span><span class="token number">22</span><span class="token punctuation">)</span></code></pre>
+<pre class="language-js"><code class="language-js"><span class="token comment">// Code and console output after fixing spelling error:</span><br><span class="token keyword">function</span> <span class="token function">NationalParkHotels</span><span class="token punctuation">(</span><span class="token parameter">data</span><span class="token punctuation">)</span><span class="token punctuation">{</span><br>	<span class="token keyword">this</span><span class="token punctuation">.</span>name <span class="token operator">=</span> data<span class="token punctuation">.</span>name<br>	<span class="token keyword">this</span><span class="token punctuation">.</span>rooms <span class="token operator">=</span> data<span class="token punctuation">.</span>rooms<br>	<span class="token keyword">this</span><span class="token punctuation">.</span>stars <span class="token operator">=</span> data<span class="token punctuation">.</span>stars<br>	<span class="token keyword">this</span><span class="token punctuation">.</span>costPerNightAdult <span class="token operator">=</span> data<span class="token punctuation">.</span>costPerNightAdult<br><span class="token punctuation">}</span>  <br><br><span class="token keyword">const</span> safariView <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">NationalParkHotels</span><span class="token punctuation">(</span>hotel1<span class="token punctuation">)</span><br><span class="token keyword">const</span> leopardMansion <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">NationalParkHotels</span><span class="token punctuation">(</span>hotel2<span class="token punctuation">)</span><br>    <br><br>console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>safariView<span class="token punctuation">)</span><br>console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>leopardMansion<span class="token punctuation">)</span><br><br><span class="token comment">// console output after fixing spelling error:</span><br>NationalParkHotels <span class="token punctuation">{</span><span class="token literal-property property">name</span><span class="token operator">:</span><span class="token string">"Safari View"</span><span class="token punctuation">,</span> <span class="token literal-property property">rooms</span><span class="token operator">:</span><span class="token number">30</span><span class="token punctuation">,</span> <span class="token literal-property property">stars</span><span class="token operator">:</span><span class="token string">"⭐⭐⭐⭐⭐"</span><span class="token punctuation">,</span> <span class="token literal-property property">costPerNightAdult</span><span class="token operator">:</span><span class="token number">240</span><span class="token punctuation">}</span><br><br>NationalParkHotels <span class="token punctuation">{</span><span class="token literal-property property">name</span><span class="token operator">:</span><span class="token string">"Leopard Mansion"</span><span class="token punctuation">,</span> <span class="token literal-property property">rooms</span><span class="token operator">:</span><span class="token number">96</span><span class="token punctuation">,</span> <span class="token literal-property property">stars</span><span class="token operator">:</span><span class="token string">"⭐⭐⭐"</span><span class="token punctuation">,</span> <span class="token literal-property property">costPerNightAdult</span><span class="token operator">:</span><span class="token number">120</span><span class="token punctuation">}</span><br></code></pre>
 <p>Methods on a Constructor Function Example</p>
-<pre><code class="language-js">function NationalParkHotels(data){
-	this.name = data.name
-	this.rooms = data.rooms
-	this.stars = data.stars
-	this.costPerNightAdult = data.costPerNightAdult
-	this.costPerNightChild = data.costPerNightChild
-	this.summariseHotel = function(){
-	        console.log(`A one night stay
-	at the ${this.name}for two adults and two children costs a
-	total of $${2*(this.costPerNightAdult)+2*(this.costPerNightChild)}.`)
-
-    }
-}
-  
-const safariView = new NationalParkHotels(hotel1)
-const lepoardMansion = new NationalParkHotels(hotel2) 
-
-safariView.summariseHotel()
-lepoardMansion.summariseHotel()
-</code></pre>
-<pre><code class="language-js">// Another way of doing this is to use a variable for the totalPrice
-this.summariseHotel = function(){        
-	const totalPrice = this.costPerNightAdult * 2 + this.costPerNightChild * 2        
-	console.log(`A one night stay at the ${this.name} for two adults and two children costs a total of $${totalPrice}.`)
-
-    }
-</code></pre>
-<pre><code class="language-js">// Object.assign(target, source)
-const sandraKayeProfileData = {
-    name: 'Sandra Kaye',
-    portfolio: 'www.sandrasportfolio.com',
-    currentJob: 'Google',
-    currentSalary: '400k'   
-}
-
-function DevProfile(data){
-	Object.assign(this, data)
-	    this.name = data.name
-	    this.portfolio = data.portfolio
-	    this.currentJob = data.currentJob
-	    this.currentSalary = data.currentSalary
-	    this.summariseDev = function(){
-	    console.log(`${this.name}'s porfolio is at ${this.portfolio} and they work at ${this.currentJob}. Their current salary is ${this.currentSalary}.`)
-	}
-}  
-  
-/*
-Challenge
-1. Use Object.assign to cut 4 lines of code from the constructor function.
-*/
-    
-function DevProfile(data){
-	Object.assign(this, data)
-	    this.summariseDev = function(){
-	    console.log(`${this.name}'s porfolio is at ${this.portfolio} and they work at ${this.currentJob}. Their current salary is ${this.currentSalary}.`)
-	}
-}  
-
-const sandraKaye = new DevProfile(sandraKayeProfileData)
-sandraKaye.summariseDev()
-
-// Console output:
-// Sandra Kaye's porfolio is at www.sandrasportfolio.com and they work at Google. Their current salary is 400k.
-</code></pre>
+<pre class="language-js"><code class="language-js"><span class="token keyword">function</span> <span class="token function">NationalParkHotels</span><span class="token punctuation">(</span><span class="token parameter">data</span><span class="token punctuation">)</span><span class="token punctuation">{</span><br>	<span class="token keyword">this</span><span class="token punctuation">.</span>name <span class="token operator">=</span> data<span class="token punctuation">.</span>name<br>	<span class="token keyword">this</span><span class="token punctuation">.</span>rooms <span class="token operator">=</span> data<span class="token punctuation">.</span>rooms<br>	<span class="token keyword">this</span><span class="token punctuation">.</span>stars <span class="token operator">=</span> data<span class="token punctuation">.</span>stars<br>	<span class="token keyword">this</span><span class="token punctuation">.</span>costPerNightAdult <span class="token operator">=</span> data<span class="token punctuation">.</span>costPerNightAdult<br>	<span class="token keyword">this</span><span class="token punctuation">.</span>costPerNightChild <span class="token operator">=</span> data<span class="token punctuation">.</span>costPerNightChild<br>	<span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function-variable function">summariseHotel</span> <span class="token operator">=</span> <span class="token keyword">function</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span><br>	        console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token template-string"><span class="token template-punctuation string">`</span><span class="token string">A one night stay<br>	at the </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span><span class="token keyword">this</span><span class="token punctuation">.</span>name<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">for two adults and two children costs a<br>	total of $</span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span><span class="token number">2</span><span class="token operator">*</span><span class="token punctuation">(</span><span class="token keyword">this</span><span class="token punctuation">.</span>costPerNightAdult<span class="token punctuation">)</span><span class="token operator">+</span><span class="token number">2</span><span class="token operator">*</span><span class="token punctuation">(</span><span class="token keyword">this</span><span class="token punctuation">.</span>costPerNightChild<span class="token punctuation">)</span><span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">.</span><span class="token template-punctuation string">`</span></span><span class="token punctuation">)</span><br><br>    <span class="token punctuation">}</span><br><span class="token punctuation">}</span><br>  <br><span class="token keyword">const</span> safariView <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">NationalParkHotels</span><span class="token punctuation">(</span>hotel1<span class="token punctuation">)</span><br><span class="token keyword">const</span> lepoardMansion <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">NationalParkHotels</span><span class="token punctuation">(</span>hotel2<span class="token punctuation">)</span> <br><br>safariView<span class="token punctuation">.</span><span class="token function">summariseHotel</span><span class="token punctuation">(</span><span class="token punctuation">)</span><br>lepoardMansion<span class="token punctuation">.</span><span class="token function">summariseHotel</span><span class="token punctuation">(</span><span class="token punctuation">)</span></code></pre>
+<pre class="language-js"><code class="language-js"><span class="token comment">// Another way of doing this is to use a variable for the totalPrice</span><br><span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function-variable function">summariseHotel</span> <span class="token operator">=</span> <span class="token keyword">function</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span>        <br>	<span class="token keyword">const</span> totalPrice <span class="token operator">=</span> <span class="token keyword">this</span><span class="token punctuation">.</span>costPerNightAdult <span class="token operator">*</span> <span class="token number">2</span> <span class="token operator">+</span> <span class="token keyword">this</span><span class="token punctuation">.</span>costPerNightChild <span class="token operator">*</span> <span class="token number">2</span>        <br>	console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token template-string"><span class="token template-punctuation string">`</span><span class="token string">A one night stay at the </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span><span class="token keyword">this</span><span class="token punctuation">.</span>name<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string"> for two adults and two children costs a total of $</span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>totalPrice<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">.</span><span class="token template-punctuation string">`</span></span><span class="token punctuation">)</span><br><br>    <span class="token punctuation">}</span></code></pre>
+<pre class="language-js"><code class="language-js"><span class="token comment">// Object.assign(target, source)</span><br><span class="token keyword">const</span> sandraKayeProfileData <span class="token operator">=</span> <span class="token punctuation">{</span><br>    name<span class="token operator">:</span> <span class="token string">'Sandra Kaye'</span><span class="token punctuation">,</span><br>    portfolio<span class="token operator">:</span> <span class="token string">'www.sandrasportfolio.com'</span><span class="token punctuation">,</span><br>    currentJob<span class="token operator">:</span> <span class="token string">'Google'</span><span class="token punctuation">,</span><br>    currentSalary<span class="token operator">:</span> <span class="token string">'400k'</span>   <br><span class="token punctuation">}</span><br><br><span class="token keyword">function</span> <span class="token function">DevProfile</span><span class="token punctuation">(</span><span class="token parameter">data</span><span class="token punctuation">)</span><span class="token punctuation">{</span><br>	Object<span class="token punctuation">.</span><span class="token function">assign</span><span class="token punctuation">(</span><span class="token keyword">this</span><span class="token punctuation">,</span> data<span class="token punctuation">)</span><br>	    <span class="token keyword">this</span><span class="token punctuation">.</span>name <span class="token operator">=</span> data<span class="token punctuation">.</span>name<br>	    <span class="token keyword">this</span><span class="token punctuation">.</span>portfolio <span class="token operator">=</span> data<span class="token punctuation">.</span>portfolio<br>	    <span class="token keyword">this</span><span class="token punctuation">.</span>currentJob <span class="token operator">=</span> data<span class="token punctuation">.</span>currentJob<br>	    <span class="token keyword">this</span><span class="token punctuation">.</span>currentSalary <span class="token operator">=</span> data<span class="token punctuation">.</span>currentSalary<br>	    <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function-variable function">summariseDev</span> <span class="token operator">=</span> <span class="token keyword">function</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span><br>	    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token template-string"><span class="token template-punctuation string">`</span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span><span class="token keyword">this</span><span class="token punctuation">.</span>name<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">'s porfolio is at </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span><span class="token keyword">this</span><span class="token punctuation">.</span>portfolio<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string"> and they work at </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span><span class="token keyword">this</span><span class="token punctuation">.</span>currentJob<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">. Their current salary is </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span><span class="token keyword">this</span><span class="token punctuation">.</span>currentSalary<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">.</span><span class="token template-punctuation string">`</span></span><span class="token punctuation">)</span><br>	<span class="token punctuation">}</span><br><span class="token punctuation">}</span>  <br>  <br><span class="token comment">/*<br>Challenge<br>1. Use Object.assign to cut 4 lines of code from the constructor function.<br>*/</span><br>    <br><span class="token keyword">function</span> <span class="token function">DevProfile</span><span class="token punctuation">(</span><span class="token parameter">data</span><span class="token punctuation">)</span><span class="token punctuation">{</span><br>	Object<span class="token punctuation">.</span><span class="token function">assign</span><span class="token punctuation">(</span><span class="token keyword">this</span><span class="token punctuation">,</span> data<span class="token punctuation">)</span><br>	    <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function-variable function">summariseDev</span> <span class="token operator">=</span> <span class="token keyword">function</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span><br>	    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token template-string"><span class="token template-punctuation string">`</span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span><span class="token keyword">this</span><span class="token punctuation">.</span>name<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">'s porfolio is at </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span><span class="token keyword">this</span><span class="token punctuation">.</span>portfolio<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string"> and they work at </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span><span class="token keyword">this</span><span class="token punctuation">.</span>currentJob<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">. Their current salary is </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span><span class="token keyword">this</span><span class="token punctuation">.</span>currentSalary<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">.</span><span class="token template-punctuation string">`</span></span><span class="token punctuation">)</span><br>	<span class="token punctuation">}</span><br><span class="token punctuation">}</span>  <br><br><span class="token keyword">const</span> sandraKaye <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">DevProfile</span><span class="token punctuation">(</span>sandraKayeProfileData<span class="token punctuation">)</span><br>sandraKaye<span class="token punctuation">.</span><span class="token function">summariseDev</span><span class="token punctuation">(</span><span class="token punctuation">)</span><br><br><span class="token comment">// Console output:</span><br><span class="token comment">// Sandra Kaye's porfolio is at www.sandrasportfolio.com and they work at Google. Their current salary is 400k.</span></code></pre>
 <h4>Day 124  |  2023-03-17  |   Friday  | Focus:  YarnHelp.app - deploying and redesign  |</h4>
 <p>Main Resources:
 n/a</p>
@@ -313,16 +165,9 @@ n/a</p>
 <p>-&gt; Goal is to do the calculations as variables outside of the string literals. The calculations are currently done inside the .innerHTML = statements like below:</p>
 </li>
 </ul>
-<pre><code class="language-js">babyPulloverAnswer.innerHTML =
-
-`You need ${Number(Math.ceil(550 * 1.05/yardsPerBall.value))} balls of this yarn for a baby pullover`
-</code></pre>
+<pre class="language-js"><code class="language-js">babyPulloverAnswer<span class="token punctuation">.</span>innerHTML <span class="token operator">=</span><br><br><span class="token template-string"><span class="token template-punctuation string">`</span><span class="token string">You need </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span><span class="token function">Number</span><span class="token punctuation">(</span>Math<span class="token punctuation">.</span><span class="token function">ceil</span><span class="token punctuation">(</span><span class="token number">550</span> <span class="token operator">*</span> <span class="token number">1.05</span><span class="token operator">/</span>yardsPerBall<span class="token punctuation">.</span>value<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token interpolation-punctuation punctuation">}</span></span><span class="token string"> balls of this yarn for a baby pullover</span><span class="token template-punctuation string">`</span></span></code></pre>
 <p>Instead something like this:</p>
-<pre><code class="language-js">// Worsted Weight (Craft Yarn Council yarn weight 4) for Baby Pullover:
-const babyPulloverW4 = Number(Math.ceil(550 * 1.05/yardsPerBall.value))
-
-babyPulloverAnswer.innerHTML = `${babyPulloverW4} balls of this yarn are needed for a baby pullover`
-</code></pre>
+<pre class="language-js"><code class="language-js"><span class="token comment">// Worsted Weight (Craft Yarn Council yarn weight 4) for Baby Pullover:</span><br><span class="token keyword">const</span> babyPulloverW4 <span class="token operator">=</span> <span class="token function">Number</span><span class="token punctuation">(</span>Math<span class="token punctuation">.</span><span class="token function">ceil</span><span class="token punctuation">(</span><span class="token number">550</span> <span class="token operator">*</span> <span class="token number">1.05</span><span class="token operator">/</span>yardsPerBall<span class="token punctuation">.</span>value<span class="token punctuation">)</span><span class="token punctuation">)</span><br><br>babyPulloverAnswer<span class="token punctuation">.</span>innerHTML <span class="token operator">=</span> <span class="token template-string"><span class="token template-punctuation string">`</span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>babyPulloverW4<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string"> balls of this yarn are needed for a baby pullover</span><span class="token template-punctuation string">`</span></span></code></pre>
 <ul>
 <li>Add PDF-References Folder to YarnHelp-Docs Folder
 <ul>
