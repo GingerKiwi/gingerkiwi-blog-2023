@@ -1,6 +1,6 @@
 ---
 title: > 
- What Happening With The Alice in Wonderland Project?
+ What's Happening With The Alice in Wonderland Project?
 date: 2023-04-03
 tags: ["post", "featured", "a11y", "dev-community", "open-source", "alice", "github", "git", "hacktoberfest"]
 image: '/assets/blog/down-the-rabbit-hole.jpg'
