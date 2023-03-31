@@ -1,6 +1,6 @@
 ---
 title: > 
- Yarn Help! gets a Doctor Who Scarf Page.
+ Yarn Help! Gets a Doctor Who Scarf Page.
 date: 2023-03-28
 tags: ["post", "a11y", "featured", "dev-community", "open-source", "alice", "github", "git", "hacktoberfest"]
 image: '/assets/blog/512px-Dr_Who_WikiMedia-316350537.jpg'
