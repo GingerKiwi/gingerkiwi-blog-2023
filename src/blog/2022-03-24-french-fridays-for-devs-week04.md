@@ -8,7 +8,7 @@ imageAlt: >
  'adults celebrating at a French street party. There's a large French flag waving in a breeze and confetti thrown up and falling down in the air'
 imageCaption: 'ADD CAPTION'
 description: >
- To celebrate getting to 400 days on Duolingo French at the beginning of March, 2023 I've started French for Devs Fridays. Here you'll find  useful and/or amusing French phrases for developers. ~ Mon code NE FONCTIONNE PAS, je ne sais pas pourquoi. Mon code FONCTIONNE, je ne sais pas pourquoi. ~ Read the full post for the translation.
+ To celebrate getting to 400 days on Duolingo French at the beginning of March, 2023 I've started French for Devs Fridays. Here you'll find  useful and/or amusing French phrases for developers. ~ En cas d'incendie: git commit, git push, bâtiment de sortie. ~ Read the full post for the translation.
 ---
 
 To celebrate getting to 400 days on Duolingo French at the beginning of March, 2023 I've started French for Devs Fridays. Here you'll find weekly useful and/or amusing French phrases for developers. (Today is day 422 of French and day 83 of Dutch!)

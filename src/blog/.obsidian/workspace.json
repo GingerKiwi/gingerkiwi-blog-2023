@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-03-17-french-fridays-for-devs-week03.md",
+                "file": "2022-03-24-french-fridays-for-devs-week04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "568c0af2bfc6bf85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-03-31-french-fridays-for-developers-week05.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03-17-french-fridays-for-devs-week03.md",
+                "file": "2023-03-31-french-fridays-for-developers-week05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-03-17-french-fridays-for-devs-week03.md",
+                "file": "2023-03-31-french-fridays-for-developers-week05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-03-17-french-fridays-for-devs-week03.md"
+                "file": "2023-03-31-french-fridays-for-developers-week05.md"
               }
             }
           },
@@ -168,11 +181,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63b2fc3e6f9a149b",
+  "active": "568c0af2bfc6bf85",
   "lastOpenFiles": [
+    "2023-02-23-good-vs-great-design-ux-and-mobility-aids.md",
+    "2023-03-31-french-fridays-for-developers-week05.md",
     "2022-03-24-french-fridays-for-devs-week04.md",
-    "2022-03-03-french-fridays-for-devs-week01.md",
     "2022-03-17-french-fridays-for-devs-week03.md",
+    "2022-03-10-french-fridays-for-devs-week02.md",
+    "2022-03-03-french-fridays-for-devs-week01.md",
     "2023-03-19-100-days-of-code-week-06-days-126-130.md",
     "2023-03-13-100-days-of-code-week-05-days-120-124.md",
     "2023-03-22-Fifteen-Podcasts-For-Devs-To-Enjoy.md",
@@ -180,13 +196,11 @@
     "themes",
     "2023-03-21-What-Amazing-Leadership-Looks-Like.md",
     "2023-03-19-100-days-of-code-week-06-days-126-130",
-    "2023-02-23-good-vs-great-design-ux-and-mobility-aids.md",
     "2023-03-01-happy-international-wheelchair-day.md",
     "2023-03-20-accessible-forms-and-the-yarnhelp.app-project.md",
     "Drafts/2023-03-20-accessible-forms-and-the-yarnhelp.app-project.md",
     "Untitled.canvas",
     "2022-11-17-accessibility-isnt-optional.md",
-    "2022-03-10-french-fridays-for-devs-week02.md",
     "2023-02-12-100-days-of-code-days-101-200.md",
     "2022-11-07-introducing-bitesized-accessibility.md",
     "2022-12-14-top-5-best-practices-for-saas-marketing-on-linkedin.md"
