@@ -1,4 +1,3 @@
-
 ---
 title: >
  French Fridays for Developers - Week 06
