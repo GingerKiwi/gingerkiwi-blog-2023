@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-03-24-french-fridays-for-devs-week04.md",
+                "file": "2023-05-05-french-fridays-for-developers-week06.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "french",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-04-03-whats-happening-with-the-alice-in-wonderland-project.md",
+                "file": "2023-05-05-french-fridays-for-developers-week06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-04-03-whats-happening-with-the-alice-in-wonderland-project.md",
+                "file": "2023-05-05-french-fridays-for-developers-week06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-04-03-whats-happening-with-the-alice-in-wonderland-project.md"
+                "file": "2023-05-05-french-fridays-for-developers-week06.md"
               }
             }
           },
@@ -205,18 +204,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6664bdbf9a38b0e",
+  "active": "63b2fc3e6f9a149b",
   "lastOpenFiles": [
+    "2023-04-21-french-fridays-for-developers-week06.md",
+    "2023-03-19-100-days-of-code-week-06-days-126-128.md",
+    "2023-05-05-french-fridays-for-developers-week06.md",
+    "2023-02-12-100-days-of-code-days-101-200.md",
+    "2023-03-31-french-fridays-for-developers-week05.md",
+    "2022-03-24-french-fridays-for-devs-week04.md",
     "2023-03-28-yarnhelp-gets-doctor-who-scarf-page.md",
     "2023-04-03-whats-happening-with-the-alice-in-wonderland-project.md",
-    "2023-03-31-french-fridays-for-developers-week05.md",
     "2022-11-05-learn-github-workflows-and-open-source-the-fun-way-the-alice-in-wonderland-project.md",
     "2023-02-23-good-vs-great-design-ux-and-mobility-aids.md",
-    "2022-03-24-french-fridays-for-devs-week04.md",
     "2022-03-17-french-fridays-for-devs-week03.md",
     "2022-03-10-french-fridays-for-devs-week02.md",
     "2022-03-03-french-fridays-for-devs-week01.md",
-    "2023-03-19-100-days-of-code-week-06-days-126-130.md",
     "2023-03-13-100-days-of-code-week-05-days-120-124.md",
     "2023-03-22-Fifteen-Podcasts-For-Devs-To-Enjoy.md",
     "2023-03-13-100-days-of-code-week-05-days-120-125.md",
@@ -228,7 +230,6 @@
     "Drafts/2023-03-20-accessible-forms-and-the-yarnhelp.app-project.md",
     "Untitled.canvas",
     "2022-11-17-accessibility-isnt-optional.md",
-    "2023-02-12-100-days-of-code-days-101-200.md",
     "2022-11-07-introducing-bitesized-accessibility.md",
     "2022-12-14-top-5-best-practices-for-saas-marketing-on-linkedin.md"
   ]
