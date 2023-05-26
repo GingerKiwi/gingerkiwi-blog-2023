@@ -12,7 +12,7 @@ description: >
 ---
 
 To celebrate getting to 400 days on Duolingo French at the beginning of March, 2023 I've started French for Devs Fridays. Here you'll find weekly useful and/or amusing French phrases for developers. 
-Today is my 486th day of French, 136th day of Dutch, and 21st Day of ASL (American Sign Language)!
+Today is my 486th day of French, 146th day of Dutch, and 21st Day of ASL (American Sign Language)!
 
 Week 05 - March 30, 2023:
 
