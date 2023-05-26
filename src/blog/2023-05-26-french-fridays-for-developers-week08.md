@@ -8,7 +8,7 @@ imageAlt: >
  'adults celebrating at a French street party. There's a large French flag waving in a breeze and confetti thrown up and falling down in the air'
 imageCaption: 'ADD CAPTION'
 description: >
- To celebrate getting to 400 days on Duolingo French at the beginning of March, 2023 I've started French for Devs Fridays. Here you'll find  useful and/or amusing French phrases for developers. ~ Mesurer les progrès de la programmation par lignes de code, c'est comme mesurer les progrès de la construction d'un avion en poids. ~ Read the full post for the translation.
+ To celebrate getting to 400 days on Duolingo French at the beginning of March, 2023 I've started French for Devs Fridays. Here you'll find  useful and/or amusing French phrases for developers. ~ L'écriture des 90 premiers pour cent d'un programme informatique prend 90 pour cent du temps. Les dix pour cent restants prennent également 90 pour cent du temps et les touches finales prennent également 90 pour cent du temps. ~ Read the full post for the translation.
 ---
 
 To celebrate getting to 400 days on Duolingo French at the beginning of March, 2023 I've started French for Devs Fridays. Here you'll find weekly useful and/or amusing French phrases for developers. 
@@ -21,7 +21,7 @@ Week 05 - March 30, 2023:
 
 English:  
 
-““Writing the first 90 percent of a computer program takes 90 percent of the time. The remaining ten percent also takes 90 percent of the time and the final touches also take 90 percent of the time.”
+“Writing the first 90 percent of a computer program takes 90 percent of the time. The remaining ten percent also takes 90 percent of the time and the final touches also take 90 percent of the time.”
 
 – N.J. Rubenking
 
