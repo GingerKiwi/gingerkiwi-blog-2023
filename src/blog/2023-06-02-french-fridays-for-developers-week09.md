@@ -1,7 +1,7 @@
 ---
 title: >
  French Fridays for Developers - Week 08
-date: 2023-05-26
+date: 2023-06-02
 tags: ["post", "featured", "french", "dutch", "humour"]
 image: '/assets/blog/dorian-hurst-d-igN2ptyC8-unsplash.jpg'
 imageAlt: >
