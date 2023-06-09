@@ -3,9 +3,9 @@ title: >
  French Fridays for Developers - Week 10
 date: 2023-06-09
 tags: ["post", "featured", "french", "dutch", "humour"]
-image: '/assets/blog/Duolingo-500-Days.PNG'
+image: '/assets/blog/duolingo-500-rectangle.PNG'
 imageAlt: >
- 'Orange graphic on a white background. Says in orange text: "I'm on a 500 day language learning streak!" At the bottom in green text "Duolingo". There's a stylized orange and yellow flame on the right.'
+ 'Graphic on light orange background. In the centre there's a yellow a medium to dark orange coloured cartoon owl with sunglasses on and yellow flames coming out the back of it. Below the owl in white text it says: "500 day language learning streak!"'
 imageCaption: 'ADD CAPTION'
 description: >
  In March, 2023  started French for Devs Fridays to celebrate getting to 400 days on Duolingo. Here you'll find weekly useful and/or amusing French phrases for developers.  « Le Règle 90 90: L'écriture des 90 premiers pour cent d'un programme informatique prend 90 pour cent du temps. Les dix pour cent restants prennent également 90 pour cent du temps et les touches finales prennent également 90 pour cent du temps. » Read the full post for the translation.
