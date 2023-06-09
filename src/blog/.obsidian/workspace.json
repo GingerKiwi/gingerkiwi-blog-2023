@@ -52,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ddd17fd0eb266afa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-06-09-french-fridays-for-developers-week10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 200
   },
   "right": {
     "id": "3deda49bd5a9c069",
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-02-french-fridays-for-developers-week09.md",
+                "file": "2023-06-09-french-fridays-for-developers-week10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-02-french-fridays-for-developers-week09.md",
+                "file": "2023-06-09-french-fridays-for-developers-week10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-02-french-fridays-for-developers-week09.md"
+                "file": "2023-06-09-french-fridays-for-developers-week10.md"
               }
             }
           },
@@ -199,10 +211,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "566da704af26aaf1",
+  "active": "ddd17fd0eb266afa",
   "lastOpenFiles": [
-    "2023-06-01-Jumping-Off-A-Dev-Career-Cliff.md",
+    "2023-06-03-learning-to-code-mob-programming-and-self-teaching.md",
+    "2023-06-09-french-fridays-for-developers-week10.md",
     "2023-06-02-french-fridays-for-developers-week09.md",
+    "2023-06-01-Jumping-Off-A-Dev-Career-Cliff.md",
     "2023-05-26-french-fridays-for-developers-week08.md",
     "2023-05-19-french-fridays-for-developers-week07.md",
     "2023-03-19-100-days-of-code-week-06-days-126-128.md",
@@ -227,8 +241,6 @@
     "2023-03-01-happy-international-wheelchair-day.md",
     "2023-03-20-accessible-forms-and-the-yarnhelp.app-project.md",
     "Drafts/2023-03-20-accessible-forms-and-the-yarnhelp.app-project.md",
-    "Untitled.canvas",
-    "2022-11-17-accessibility-isnt-optional.md",
-    "2022-11-07-introducing-bitesized-accessibility.md"
+    "Untitled.canvas"
   ]
 }
