@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-06-09-french-fridays-for-developers-week10.md",
+                "file": "2023-06-13-creating-a-simple-desktop-layout-in-css-with-just-h1-and-one-paragraph.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-09-french-fridays-for-developers-week10.md",
+                "file": "2023-06-13-creating-a-simple-desktop-layout-in-css-with-just-h1-and-one-paragraph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-09-french-fridays-for-developers-week10.md",
+                "file": "2023-06-13-creating-a-simple-desktop-layout-in-css-with-just-h1-and-one-paragraph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-09-french-fridays-for-developers-week10.md"
+                "file": "2023-06-13-creating-a-simple-desktop-layout-in-css-with-just-h1-and-one-paragraph.md"
               }
             }
           },
@@ -213,8 +213,9 @@
   },
   "active": "ddd17fd0eb266afa",
   "lastOpenFiles": [
-    "2023-06-03-learning-to-code-mob-programming-and-self-teaching.md",
     "2023-06-09-french-fridays-for-developers-week10.md",
+    "2023-06-13-creating-a-simple-desktop-layout-in-css-with-just-h1-and-one-paragraph.md",
+    "2023-06-03-learning-to-code-mob-programming-and-self-teaching.md",
     "2023-06-02-french-fridays-for-developers-week09.md",
     "2023-06-01-Jumping-Off-A-Dev-Career-Cliff.md",
     "2023-05-26-french-fridays-for-developers-week08.md",
@@ -240,7 +241,6 @@
     "2023-03-19-100-days-of-code-week-06-days-126-130",
     "2023-03-01-happy-international-wheelchair-day.md",
     "2023-03-20-accessible-forms-and-the-yarnhelp.app-project.md",
-    "Drafts/2023-03-20-accessible-forms-and-the-yarnhelp.app-project.md",
     "Untitled.canvas"
   ]
 }

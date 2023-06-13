@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Elizabeth McCready" />
+    <link rel="shortcut icon" type="image/png" href="/assets/blog/favicon-2.png" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Marcellus&family=Marcellus+SC&family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css" />
+
+    
+    <link href="https://unpkg.com/prismjs@1.20.0/themes/prism-okaidia.css" rel="stylesheet">
+    <title>Creating a Simple Desktop Layout in CSS with Just an H1 and One Paragraph</title>
+  </head>
+        
+    <body>
+        
+        <header>
+  <div class="container container-flex">
+    <div class="site-title">
+      <h1 class="h1-brand">Ginger Kiwi</h1>
+      <p class="subtitle">Exploring technology, design, and accessibility</p>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/projects">Projects</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+  <!-- / .container -->
+</header>
+
+  <div class="container container-flex">
+    <main role="main" class="full-article">
+      <article class="article-featured">
+        <h2 class="article-title">Creating a Simple Desktop Layout in CSS with Just an H1 and One Paragraph</h2>
+        <img
+            src="/assets/blog/ui-design-stop-drop-roll.png"
+            alt="&#39;Webpage with a greyscale background of a woman smiling while rollerskaing at a skate park wearing a light pink helmet, pink t-shirt, and wrist guards. Text reads &quot;Stop, Drop, Roll. Take the new challenge, starting today.&quot; There is a light pink rounded border on the top left and bottom right of the text&#39;
+"
+            class="article-image article-recent-image full-article-image"
+        />
+        <p class="article-info">Jun 12, 2023</p>
+        <p>Note: I have a backlog of draft articles from before I added prism.js code block syntax highlighting to my blog. This one is from the Scrimba UI Design course by Gary Simon in January 2023.</p>
+<hr>
+<p>January 06, 2023</p>
+<p>Lately, I've been focusing on improving my web development skills with smaller, shorter term goals. For the past couple of weeks that focus has been on css and design, specifically on completing the css parts of the Scrimba Frontend Developer Career Path and continuing to finish Gary Simon's <a href="https://scrimba.com/learn/designbootcamp">UI Design course</a>. There's some overlap between the two, but the UI Design course is signficantly longer and goes much deeper into design concepts and and further by covering gradients, form design, and UI animations.</p>
+<h2>The Starter Code</h2>
+<p>Today, I finished the &quot;build a simple layout&quot; section. The starting webpage and code had just one h1 and a single sentence paragraph (see below).</p>
+<pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>html</span><span class="token punctuation">></span></span><br>	<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>head</span><span class="token punctuation">></span></span><br>		<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>link</span> <span class="token attr-name">rel</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>stylesheet<span class="token punctuation">"</span></span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>index.css<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><br>	<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>head</span><span class="token punctuation">></span></span><br>	<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>body</span><span class="token punctuation">></span></span><br>		<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>container<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><br>			<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>h1</span><span class="token punctuation">></span></span>Stop, Drop &amp; Roll<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>h1</span><span class="token punctuation">></span></span><br>			<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>p</span><span class="token punctuation">></span></span>Take the new challenge, starting today.<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>p</span><span class="token punctuation">></span></span><br>		<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span><br>	<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>body</span><span class="token punctuation">></span></span><br><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>html</span><span class="token punctuation">></span></span><br></code></pre>
+<pre class="language-css"><code class="language-css"><span class="token atrule"><span class="token rule">@import</span> <span class="token url"><span class="token function">url</span><span class="token punctuation">(</span><span class="token string url">'https://fonts.googleapis.com/css?family=Montserrat:400,700&amp;display=swap'</span><span class="token punctuation">)</span></span><span class="token punctuation">;</span></span><br><br><span class="token selector">html, body</span> <span class="token punctuation">{</span><br>	<span class="token property">margin</span><span class="token punctuation">:</span> 0<span class="token punctuation">;</span><br>	<span class="token property">padding</span><span class="token punctuation">:</span> 0<span class="token punctuation">;</span><br><span class="token punctuation">}</span></code></pre>
+<p><img src="screen-shot-simple-layout-start.png" alt="The page looked like this:"></p>
+<p><img src="/assets/blog/screen-shot-simple-layout-start.png" alt="The inital webpage looked like this:"></p>
+<p>The task was to use css and one image to create a two column grid layout for desktop while paying attention to the elements of UI Design:</p>
+<ul>
+<li>White Space</li>
+<li>Color</li>
+<li>Contrast</li>
+<li>Scale</li>
+<li>Alignment</li>
+<li>Typography</li>
+<li>Visual Hierarchy</li>
+</ul>
+<h2>Step One: Choose a Background Image</h2>
+<p>The first step was to choose an image. Two images were provided, but I took Gary's suggestion to find one on unsplash.com. I'm into skating, so the word &quot;roll&quot; in the h1 made me think of roller skating. I found a great image by <a href="https://unsplash.com/@lgnwvr">Logan Weaver</a> of a <a href="https://unsplash.com/photos/FvxU8FboUdE">woman roller skating in a a skate park</a>. After trying it out in the project, I realized I wanted to change the colour balance, and did that with the tools in the Photos app on my MacBook.</p>
+<p><strong>To adjust the colour of an image using Apple Photos in MacOS:</strong></p>
+<ul>
+<li>import image to Apple Photos</li>
+<li>double click image - click on &quot;edit&quot; in upper right hand corner</li>
+<li>you're now in the adjust window</li>
+<li>I choose colour, and used the most greyed out option</li>
+</ul>
+<h2>Step Two: Set up the Body and Two Column Grid Layout</h2>
+<p>I chose to use css grid for this mini-project instead of flexbox as it's on my &quot;to get better at&quot; list this month. Adding the image as the background, and setting background-size to cover causes the image to cover the entire screen - no matter what the viewport height or viewport width is.</p>
+<p>For the container class a large margin-left of 4.5rems pushes the container over to the right. Two grid-template-columns of 1.75fr and 1.25fr give the h1 a slightly larger horizontal area than the paragraph. This establishes visual hierarchy - one of the X principals of UI design - between the two text elements. A single row keeps everything aligned.</p>
+<pre class="language-css"><code class="language-css"><span class="token selector">body</span> <span class="token punctuation">{</span><br>	<span class="token property">font-family</span><span class="token punctuation">:</span> <span class="token string">'Montserrat'</span><span class="token punctuation">;</span><br>	<span class="token property">background</span><span class="token punctuation">:</span> #000 <span class="token url"><span class="token function">url</span><span class="token punctuation">(</span><span class="token string url">'logan-weaver-lgnwvr-FvxU8FboUdE-unsplash.png'</span><span class="token punctuation">)</span></span><span class="token punctuation">;</span><br>	<span class="token property">background-size</span><span class="token punctuation">:</span> cover<span class="token punctuation">;</span><br><span class="token punctuation">}</span><br>  <br><span class="token selector">.container</span> <span class="token punctuation">{</span><br>	<span class="token property">margin-left</span><span class="token punctuation">:</span> 4.5rem<span class="token punctuation">;</span><br>	<span class="token property">display</span><span class="token punctuation">:</span> grid<span class="token punctuation">;</span><br>	<span class="token property">grid-template-columns</span><span class="token punctuation">:</span> 1.75fr 1.25fr<span class="token punctuation">;</span> <br>	<span class="token property">grid-template-rows</span><span class="token punctuation">:</span> 1fr<span class="token punctuation">;</span><br><span class="token punctuation">}</span></code></pre>
+<h2>Final Code</h2>
+<p>The only change to the html was putting a break after the comma in the paragraph. This lets the text wrap at the best point for readability.</p>
+<h3>The H1</h3>
+<p>Font size for the h1 was set to 3.5rem, and aligned to the right. This puts it at the top of the visual hierarchy in size, and in position with it being the first thing a user sees when reading from left to right. The dark crimson colour was chosen to standout from the background, while still staying in the pink single colour theme. A grey drop shadow was added to help the header standout, while smoothing the edges into the greyscale background image.</p>
+<p>A border was added to the top and left, again to help the header standout. A large border radius of 25px on the top left corner reflects the &quot;roll&quot; and the curves of the skatepark ramps. The border colour was taken from the actual photo after the image transformation on my MacBook Photos app.</p>
+<h3>Paragraph</h3>
+<p>Much of the css for the paragraph was coded to establish visual hierarchy between the paragraph and the h1.</p>
+<ul>
+<li>text-transform: uppercase - makes the text easier to read and keeps it distinct in style from the h1</li>
+<li>margin-top: 10rem - pushes the paragraph down below the line where the h1 starts (Alignment)</li>
+<li>font-size: 1.2rem - a little bigger than what the body text would be, yet very different in size from the h1 - again maintaining the visual hierarchy</li>
+<li>color: black (#000) - again this keeps the paragraph lower down in the visual hierarchy than the h1. Black and grey are the neutral colours in this pink theme.</li>
+<li>text-shadow: 1px 1px 2px darkgray - this is similar but smaller and darker than what is applied to the h1. (Uses scale to reinforce visual hierarchy)</li>
+<li>padding: 2rem - this gives the text &quot;room to breathe&quot;.</li>
+<li>font-weight: bolder - places visual emphasis on the text, which helps it standout against the grey background.</li>
+</ul>
+<h3>Pink-Border-1 Class</h3>
+<p>A pink border matching the left and top one around the h1 was added to the paragraph. A margin-right of 3rem gives room between the border and the paragraph text. Sufficient white space spacing helps improve readability and keeps the design uncluttered.</p>
+<p>...</p>
+<pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>html</span><span class="token punctuation">></span></span><br>	<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>head</span><span class="token punctuation">></span></span><br>		<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>link</span> <span class="token attr-name">rel</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>stylesheet<span class="token punctuation">"</span></span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>index.css<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><br>	<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>head</span><span class="token punctuation">></span></span><br>		<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>body</span><span class="token punctuation">></span></span><br>			<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>container <span class="token punctuation">"</span></span><span class="token punctuation">></span></span><br>				<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>h1</span><span class="token punctuation">></span></span>Stop, Drop, &amp; Roll<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>h1</span><span class="token punctuation">></span></span><br>				<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>p</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>pink-border-1<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>Take the new challenge, <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>br</span><span class="token punctuation">></span></span>starting today.<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>p</span><span class="token punctuation">></span></span><br>			<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span><br>	<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>body</span><span class="token punctuation">></span></span><br><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>html</span><span class="token punctuation">></span></span></code></pre>
+<pre class="language-css"><code class="language-css"><span class="token atrule"><span class="token rule">@import</span> <span class="token url"><span class="token function">url</span><span class="token punctuation">(</span><span class="token string url">'https://fonts.googleapis.com/css?family=Montserrat:400,700&amp;display=swap'</span><span class="token punctuation">)</span></span><span class="token punctuation">;</span></span><br>  <br><span class="token selector">html, body</span> <span class="token punctuation">{</span><br>	<span class="token property">margin</span><span class="token punctuation">:</span> 0<span class="token punctuation">;</span><br>	<span class="token property">padding</span><span class="token punctuation">:</span> 0<span class="token punctuation">;</span><br><span class="token punctuation">}</span><br>  <br><span class="token selector">body</span> <span class="token punctuation">{</span><br>	<span class="token property">font-family</span><span class="token punctuation">:</span> <span class="token string">'Montserrat'</span><span class="token punctuation">;</span><br>	<span class="token property">background</span><span class="token punctuation">:</span> #000 <span class="token url"><span class="token function">url</span><span class="token punctuation">(</span><span class="token string url">'logan-weaver-lgnwvr-FvxU8FboUdE-unsplash.png'</span><span class="token punctuation">)</span></span><span class="token punctuation">;</span><br>	<span class="token property">background-size</span><span class="token punctuation">:</span> cover<span class="token punctuation">;</span><br><span class="token punctuation">}</span><br>  <br><span class="token selector">.container</span> <span class="token punctuation">{</span><br>	<span class="token property">margin-left</span><span class="token punctuation">:</span> 4.5em<span class="token punctuation">;</span><br>	<span class="token property">height</span><span class="token punctuation">:</span> 100vh<span class="token punctuation">;</span><br>	<span class="token property">display</span><span class="token punctuation">:</span> grid<span class="token punctuation">;</span><br>	<span class="token property">grid-template-columns</span><span class="token punctuation">:</span> 1.75fr 1.25fr<span class="token punctuation">;</span><br>	<span class="token property">grid-template-rows</span><span class="token punctuation">:</span> 1fr<span class="token punctuation">;</span><br><span class="token punctuation">}</span><br>  <br><span class="token selector">h1</span> <span class="token punctuation">{</span><br>	<span class="token property">font-size</span><span class="token punctuation">:</span> 3.5rem<span class="token punctuation">;</span><br>	<span class="token property">text-align</span><span class="token punctuation">:</span> right<span class="token punctuation">;</span><br>	<span class="token property">border-top</span><span class="token punctuation">:</span> 4px solid #e8aeb9<span class="token punctuation">;</span><br>	<span class="token property">border-left</span><span class="token punctuation">:</span> 4px solid #e8aeb9<span class="token punctuation">;</span><br>	<span class="token property">border-top-left-radius</span><span class="token punctuation">:</span> 25px<span class="token punctuation">;</span><br>	<span class="token property">color</span><span class="token punctuation">:</span> #9c0d78<span class="token punctuation">;</span><br>	<span class="token property">padding</span><span class="token punctuation">:</span> 1em<span class="token punctuation">;</span><br>	<span class="token property">text-shadow</span><span class="token punctuation">:</span> 2px 2px 3px grey<span class="token punctuation">;</span><br><span class="token punctuation">}</span>  <br><br><span class="token selector">p</span> <span class="token punctuation">{</span><br>	<span class="token property">text-transform</span><span class="token punctuation">:</span> uppercase<span class="token punctuation">;</span><br>	<span class="token property">font-size</span><span class="token punctuation">:</span> 1.2rem<span class="token punctuation">;</span><br>	<span class="token property">margin-top</span><span class="token punctuation">:</span> 10rem<span class="token punctuation">;</span><br>	<span class="token property">text-align</span><span class="token punctuation">:</span> left<span class="token punctuation">;</span><br>	<span class="token property">color</span><span class="token punctuation">:</span> #000<span class="token punctuation">;</span><br>	<span class="token property">text-shadow</span><span class="token punctuation">:</span> 1px 1px 2px darkgray<span class="token punctuation">;</span><br>	<span class="token property">padding</span><span class="token punctuation">:</span> 2rem<span class="token punctuation">;</span><br>	<span class="token property">font-weight</span><span class="token punctuation">:</span> bolder<span class="token punctuation">;</span><br><span class="token punctuation">}</span><br>  <br><span class="token selector">.pink-border-1</span> <span class="token punctuation">{</span><br>	<span class="token property">border-bottom</span><span class="token punctuation">:</span> 4px solid #e8aeb9<span class="token punctuation">;</span><br>	<span class="token property">border-right</span><span class="token punctuation">:</span> 4px solid #e8aeb9<span class="token punctuation">;</span><br>	<span class="token property">border-bottom-right-radius</span><span class="token punctuation">:</span> 25px<span class="token punctuation">;</span><br>	<span class="token property">margin-right</span><span class="token punctuation">:</span> 3rem<span class="token punctuation">;</span><br><span class="token punctuation">}</span></code></pre>
+<p>Given that the code is simple, I chose to deploy this mini project as a <a href="https://scrimba.com/scrim/cz8dPZSP">public &quot;scrim&quot; on Scrimba.com</a></p>
+
+        
+     
+      </article>
+    </main>
+  </div>
+  
+</html>
+
+        </div>
+    </body>
+        <footer>
+  <p class="footer-font"><strong>Ginger Kiwi</strong></p>
+  <img
+    src="/assets/avatar.png"
+    alt="a redhead woman with a ponytail behind a laptop computer"
+    class="logo-img"
+  />
+  <p class="footer-font">Copyright &copy;  Elizabeth McCready, 2023</p>
+  
+<nav class="a11y-webring-club" aria-labelledby="a11y-webring-club">
+  <h2 id="a11y-webring-club">a11y-webring.club</h2>
+  <p>This site is a member of the <a rel="external" class="footer-link" href="https://a11y-webring.club/">a11y-webring.club</a>.</p>
+  <ul class="link-white-hover">
+    <li><a rel="external" referrerpolicy="strict-origin" class="footer-link" href="https://a11y-webring.club/prev">Previous website</a></li>
+    <li><a rel="external" referrerpolicy="strict-origin" class="footer-link" href="https://a11y-webring.club/random">Random website</a></li>
+    <li><a rel="external" referrerpolicy="strict-origin" class="footer-link" href="https://a11y-webring.club/next">Next website</a></li>
+  </ul>
+</nav>
+</footer>
+</html>
