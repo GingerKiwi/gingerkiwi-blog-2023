@@ -4,7 +4,7 @@ title: >
 date: 2023-03-22
 tags: ["post", "featured", "a11y", "ux", "media", "dev-community"]
 image: '/assets/blog/juja-han-uT55XxQLQGU-unsplash.jpg'
-imageAlt: 'Latte, iPhone with podcast app showing, white earbuds with cables on top of a menu. Everythin is on a light wood tabletop.'
+imageAlt: 'Latte, iPhone with podcast app showing, white earbuds with cables on top of a menu. Everything is on a light wood tabletop.'
 imageCaption: 'ADD CAPTION'
 description: > 
  Andrew Clarkson, cohost of Loonie Engineering with Chris Naismith, admitted this week that he doesn't listen to podcasts and asked for some recommendations. I'm an avid podcast listener and have had this article on the back burner for ages. So Andrew's LinkedIn post is the carrot to get this article out. Here's 15 podcasts for devs to enjoy. Five are tech related, five podcasts with engaging stories and interesting facts for curious dev minds, and five are about other cities and countries - including of course Aotearoa New Zealand. 
