@@ -407,8 +407,10 @@ nav a:focus {
     
     .article-image {
         order: -2;
-        min-height: 250px;
+        min-height: 150px;
+        min-width: 150px;
         object-fit: cover;
+        filter: drop-shadow(1px 2px 4px rgba(13, 13, 13, 0.89));
         /* object-position: left; */
     }
     
