@@ -1,7 +1,7 @@
 ---
 title: >
  French Fridays for Developers - Week 14
-date: 2023-06-30
+date: 2023-07-07
 tags: ["post", "featured", "french", "dutch", "humour", "welsh", "code"]
 image: '/assets/blog/alice-triquet-HUtWTHelH1w-unsplash.jpg'
 imageAlt: >
