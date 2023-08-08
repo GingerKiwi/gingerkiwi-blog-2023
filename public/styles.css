@@ -118,6 +118,10 @@ article > ul {
     line-height: 1.7rem;
 }
 
+article > ol {
+    line-height: 1.7rem;
+}
+
 blockquote {
     border-left: 8px var(--accent-2) solid;
     padding-left: 2em;
