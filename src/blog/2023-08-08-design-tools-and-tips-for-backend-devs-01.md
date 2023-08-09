@@ -15,6 +15,21 @@ Every time I get in a discussion with backend or sometimes full-stack devs that 
 This is the first in a series of articles on tips and tricks for web and app design - both for backend dev, and new developers. Note that because this series is aimed at devs who are uncomfortable with design, a few of the methods, tools, and tips are ones that I wouldn't necessarily recommend to frontend developers or those with experience in other types of art and design  or non-Figma tools like Adobe Xd/Adobe CC or Sketch.
 
 Today we're looking at where to find Figma design files and then how to quickly use them to get started coding. In future articles, colour themes/pallets, Figma to react code plugins, typography (fonts), and accessibility will be covered.
+
+## Overview (If You're Just Skimming!)
+
+1. Find free files in Figma:
+	- Scroll down to see the links to suggested sites and if they're free or have a small fee.
+	- Read the info for the ones you're interested in using - There's tips on how to best find what you're looking for.
+2. Import Figma files into your Figma account
+3. Use Figma's new dev mode to extract the code for each section/component
+4. Keep reading this series for more design tools and tips including 
+	- Fonts/typography, 
+	- Figma plugins (e.g. Figma to react code), 
+	- Colour themes, pallets,
+	- Accessibility,
+	- Layout - Demystifying CSS Grid and Flexbox
+	- Basic design rules and how to follow them
 ## Part 01:  Finding Design Files and Figma 101 for Backend Devs
 
 Does the following sound familiar? You have a great idea for an app, but have no idea where to start with the frontend. But it needs a frontend! So you cobble together some Bootstrap CSS, but it still doesn't look as cool as its functionality, the layout is weird, it's failing accessibility testing, and you're swearing at whoever invented CSS (Håkon Wium Lie).
@@ -50,7 +65,6 @@ While Frontend Mentor has many free challenges, you must be a paid monthly or an
 		- 5x free challenge Figma files
 	-  $96 USD per year
 		- Unlimited challenges with all Figma files
-
 #### iCodeThis
 
 iCodeThis is a newer daily frontend coding challenge site. It's a great option to get design ideas for components and simple pages. A membership is required to have access to the Figma files. But all memberships are a one fee for a lifetime membership, so it's a great option if you're frequently stuck. It's also a great option if you want to improve your css/UI engineering skills a bit at a time and enjoy doing coding challenges. You could even build small backends for some of the challenges where it makes sense like login screens, dashboards, and forms.
@@ -111,7 +125,7 @@ text-transform: uppercase;
 5. Go through the design one element at a time on each page to get the css. 
 6. For measurements that have more than 2 decimal points, just round up or down to the closest. For example letter spacing of 0.54688rem becomes 0.55 rem.
 7. You will still have to figure out the layout with css grid, flexbox, or a combination of the two. Don't worry there will be at least one future article on that.
-## Congratulations You've Your the First Step!
+## Congratulations You've Taken the First Step!
 
 If you've made it this far you're well on your way to quickly finding and using designs so you can focus on coding. This is just a start, but it's a much quicker way to have a great design than muddling through from scratch. Keep reading this series for more design tools and tips for backend developers!
 ### Next in This Series:
@@ -120,6 +134,7 @@ If you've made it this far you're well on your way to quickly finding and using 
 - Typography and Fonts 101
 - 7 Basic Design Rules and How to Apply Them
 - Accessible Design - A11y in App Design
+- Layout - Demystifying CSS Grid and Flexbox
 - Photos, Images, and Videos
 - Quickly Using Figma for Wireframes
 - Figma Plugins - Figma to React code and more.
