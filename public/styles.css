@@ -309,7 +309,7 @@ h4 ~ img {
     }
 
     .full-article {
-        width: 75%;
+        width: 85%;
         min-width: 600px;
     }
 }
@@ -407,6 +407,7 @@ nav a:focus {
     .article-featured {
         display: flex;
         flex-direction: column;
+        min-width: 90%;
     }
     
     .article-image {
