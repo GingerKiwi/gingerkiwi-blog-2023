@@ -8,8 +8,8 @@ tags:
   - dsa
   - javascript
   - technical
-image: /assets/blog/roman-synkevych-eat-sleep-code-repeat-unsplash.jpg
-imageAlt: "'Cell phone with dark screen and neon words saying eat, sleep, code, repeat'"
+image: /assets/blog/JS-DSA-01.png
+imageAlt: "'White text at top with black background says Javascript Data Structures and Algorithms. Below is a photo of an orange Pomeranian dog sitting at a wood table wearing large glasses looking at a dark grey iPad. The dog is wearing a dark red sweater. The entire graphic has a thick dark orange border that matches the heading colours of this blog. '"
 imageCaption: ADD CAPTION
 description: It's time to go down the data structures and algorithms (dsa) rabbit hole. But let's make things more fun - no "foo" and "bar" here! This is a series of pet and Alice in Wonderland themed DSA articles. We're starting with the basics of arrays in Javascript.
 ---
@@ -21,7 +21,7 @@ The focus is also on ES6 Javascript to keep things current and just easier to re
 
 ## Javascript Arrays 101
 
-An arrays is a collection of items with a single name.
+An array is a collection of items with a single name.
 
 For example a list of songs could have the name "playlist". In this array, all the names of songs are strings.
 
