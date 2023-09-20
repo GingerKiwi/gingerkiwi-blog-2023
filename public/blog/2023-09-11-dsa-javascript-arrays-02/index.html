@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Elizabeth McCready" />
+    <link rel="shortcut icon" type="image/png" href="/assets/blog/favicon-2.png" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Marcellus&family=Marcellus+SC&family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css" />
+
+    
+    <link href="https://unpkg.com/prismjs@1.20.0/themes/prism-okaidia.css" rel="stylesheet">
+    <title>Data Structures and Algorithms: Javascript Arrays #02</title>
+  </head>
+        
+    <body>
+        
+        <header>
+  <div class="container container-flex">
+    <div class="site-title">
+      <h1 class="h1-brand">Ginger Kiwi</h1>
+      <p class="subtitle">Exploring technology, design, and accessibility</p>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/projects">Projects</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+  <!-- / .container -->
+</header>
+
+  <div class="container container-flex">
+    <main role="main" class="full-article">
+      <article class="article-featured">
+        <h2 class="article-title">Data Structures and Algorithms: Javascript Arrays #02</h2>
+        <img
+            src="/assets/blog/JS-DSA-01.png"
+            alt="&#39;White text at top with black background says Javascript Data Structures and Algorithms. Below is a photo of an orange Pomeranian dog sitting at a wood table wearing large glasses looking at a dark grey iPad. The dog is wearing a dark red sweater. The entire graphic has a thick dark orange border that matches the heading colours of this blog. &#39;"
+            class="article-image article-recent-image full-article-image"
+        />
+        <p class="article-info">Aug 31, 2023</p>
+        <h2>About This Article Series</h2>
+<p>I've been preparing for technical interviews and DSA challenges lately. But it can be so dry! I mean I love a puzzle, but I've found that I prefer solving puzzles that result in an actual project people can use. To keep things interesting, I've been making my own notes with pet and Alice in Wonderland themes. So here's the first of (likely) many DSA articles in Javascript with no foo or bar.</p>
+<p>The focus is also on ES6 Javascript to keep things current and just easier to read. I'm assuming that readers will have the basics of programming in Javascript or another language, though I do give a quick overview and some definitions. This is intended as a reference for other devs who are practicing for technical interviews, or want a more fun reference for Javascript programming.</p>
+<h2>Javascript Arrays Part 02</h2>
+<h3>Concat</h3>
+<p>Used to merge two or more arrays. It returns a new array. Concat doesn't mutate the original arrays.</p>
+<pre class="language-js"><code class="language-js"><span class="token keyword">const</span> shoppingList <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string">'earl grey tea'</span><span class="token punctuation">,</span> <span class="token string">'cream'</span><span class="token punctuation">,</span> <span class="token string">'whole milk'</span><span class="token punctuation">]</span><br><br><span class="token keyword">const</span> fruits <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string">'apples'</span><span class="token punctuation">,</span> <span class="token string">'oranges'</span><span class="token punctuation">,</span> <span class="token string">'peaches'</span><span class="token punctuation">,</span> <span class="token string">'pears'</span><span class="token punctuation">]</span><br><br><span class="token keyword">const</span> veggies <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string">'carrots'</span><span class="token punctuation">,</span> <span class="token string">'parships'</span><span class="token punctuation">,</span> <span class="token string">'potatoes'</span><span class="token punctuation">]</span><br><br>shoppingList<span class="token punctuation">.</span><span class="token function">concat</span><span class="token punctuation">(</span>fruits<span class="token punctuation">)</span><br><br><span class="token comment">// [ 'earl grey tea', 'cream', 'whole milk', 'apples', 'oranges', 'peaches', 'pears' ]</span><br><br>fruits<span class="token punctuation">.</span><span class="token function">concat</span><span class="token punctuation">(</span>shoppingList<span class="token punctuation">)</span><br><br><span class="token comment">// [ 'apples', 'oranges', 'peaches', 'pears', 'earl grey tea', 'cream', 'whole milk' ]</span><br><br><br><span class="token keyword">const</span> allFood <span class="token operator">=</span> shoppingList<span class="token punctuation">.</span><span class="token function">concat</span><span class="token punctuation">(</span>fruits<span class="token punctuation">,</span> veggies<span class="token punctuation">)</span><br><br>allFood<br><span class="token comment">// [ 'earl grey tea', 'cream', 'whole milk', 'apples', 'oranges', 'peaches', 'pears', 'carrots', 'parships', 'potatoes' ]</span></code></pre>
+<h3>Includes (Boolean)</h3>
+<p>Determines whether an array includes a certain value among its entries, returning true or false as appropriate.</p>
+<pre class="language-js"><code class="language-js"><span class="token keyword">const</span> shoppingList <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string">'earl grey tea'</span><span class="token punctuation">,</span> <span class="token string">'cream'</span><span class="token punctuation">,</span> <span class="token string">'whole milk'</span><span class="token punctuation">]</span><br><br><span class="token keyword">const</span> playlist <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string">'Her Name Is Alice'</span><span class="token punctuation">,</span><span class="token string">'Drink Me'</span><span class="token punctuation">,</span><span class="token string">'Follow Me Down'</span><span class="token punctuation">,</span><span class="token string">'Painting Flowers'</span><span class="token punctuation">,</span><span class="token string">'Queen of Hearts'</span><br><span class="token punctuation">]</span><span class="token punctuation">;</span><br> <br>shoppingList<span class="token punctuation">.</span><span class="token function">includes</span><span class="token punctuation">(</span><span class="token string">'cream'</span><span class="token punctuation">)</span><br><br>playlist<span class="token punctuation">.</span><span class="token function">includes</span><span class="token punctuation">(</span><span class="token string">'Drink Me'</span><span class="token punctuation">,</span> <span class="token number">3</span><span class="token punctuation">)</span><br><br><span class="token string">'Play the list'</span></code></pre>
+<h3>IndexOf</h3>
+<p>Returns the first index at which a give element can be found in the array, or -1 if the element is not present.</p>
+<pre class="language-js"><code class="language-js">playlist<span class="token punctuation">.</span><span class="token function">indexOf</span><span class="token punctuation">(</span><span class="token string">'Follow Me Down'</span><span class="token punctuation">)</span><br><br><span class="token keyword">if</span> <span class="token punctuation">(</span>playlist<span class="token punctuation">.</span><span class="token function">indexOf</span><span class="token punctuation">(</span><span class="token string">'Drink Me'</span><span class="token punctuation">)</span><span class="token punctuation">)</span> <span class="token punctuation">{</span><br>  console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'Play the list'</span><span class="token punctuation">)</span><br><span class="token punctuation">}</span></code></pre>
+<h3>Reverse</h3>
+<p>Reverses an array <em>in place</em>. The first array element becomes the last, and the least array element becomes the first.</p>
+<pre class="language-js"><code class="language-js">topSongs<span class="token punctuation">.</span><span class="token function">reverse</span><span class="token punctuation">(</span><span class="token punctuation">)</span><br><br><span class="token comment">// [ 'Queen of Hearts', 'Painting Flowers', 'Follow Me Down', 'Drink Me', 'Her Name Is Alice' ]</span><br></code></pre>
+<h3>Join</h3>
+<p>Join creates and returns a new string by concatenating all of the elements in an array (or an array-like object) separated by commas or a specified separator string. If an array has only one item, then that item will be returned without using the separator.</p>
+<pre class="language-js"><code class="language-js">topSongs<span class="token punctuation">.</span><span class="token function">join</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token string">', '</span><span class="token punctuation">)</span><span class="token punctuation">)</span><br><br><span class="token comment">// 'Her Name Is Alice, Drink Me, Follow Me Down, Painting Flowers, Queen of Hearts'</span><br><br>yellBackwards<span class="token punctuation">.</span><span class="token function">reverse</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">join</span><span class="token punctuation">(</span><span class="token string">' '</span><span class="token punctuation">)</span><br><span class="token comment">// 'off with their heads!'</span><br><br>numbers<span class="token punctuation">.</span><span class="token function">join</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token string">'-'</span><span class="token punctuation">)</span><span class="token punctuation">)</span><br><span class="token comment">// '2-4-5-8-9-10-7'</span></code></pre>
+<h3>Slice</h3>
+<p>Slice returns a shallow copy of a portion of an array into a new array object selected from begin to end (end not included) where begin and end represent the index of items in that array. The original array will not be modified.</p>
+<pre class="language-js"><code class="language-js"><span class="token keyword">const</span> games <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string">'crochet'</span><span class="token punctuation">,</span> <span class="token string">'chess'</span><span class="token punctuation">,</span> <span class="token string">'cards'</span><span class="token punctuation">,</span> <span class="token string">'painting the roses red'</span><span class="token punctuation">]</span><br><br><span class="token keyword">const</span> indoorGames<span class="token punctuation">.</span><span class="token function">slice</span><span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">,</span><span class="token number">3</span><span class="token punctuation">)</span><br><br><span class="token comment">// indoorGames = [ 'chess', 'cards' ]</span><br><br>favouriteGames <span class="token operator">=</span> games<span class="token punctuation">.</span><span class="token function">slice</span><span class="token punctuation">(</span><span class="token operator">-</span><span class="token number">2</span><span class="token punctuation">)</span><br><br><span class="token comment">// [ 'cards', 'painting the roses red' ]</span><br><br><span class="token keyword">const</span> myGames <span class="token operator">=</span> games<span class="token punctuation">.</span><span class="token function">slice</span><span class="token punctuation">(</span><span class="token punctuation">)</span><br><span class="token comment">// makes a ccomplete opy of the array - sometimes used to make a quick copy</span><br><span class="token comment">// myGames = ['crochet', 'chess', 'cards', 'painting the roses red']</span></code></pre>
+<h3>Splice</h3>
+<p>Changes the contents of an array by removing or replacing existing elements and/or adding new elements <em>in place</em>.</p>
+<p>To add an element without replacing any other element</p>
+<pre class="language-js"><code class="language-js">arrayName<span class="token punctuation">.</span><span class="token function">splice</span><span class="token punctuation">(</span>index to add something <span class="token keyword">in</span> at<span class="token punctuation">,</span> how many items to replace<span class="token punctuation">,</span> what to splice <span class="token keyword">in</span><span class="token punctuation">)</span><br><br>playlist<span class="token punctuation">.</span><span class="token function">splice</span><span class="token punctuation">(</span><span class="token number">4</span><span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">,</span> <span class="token string">'White Rabbit'</span><span class="token punctuation">)</span><br><br><span class="token comment">// [ 'Her Name Is Alice', 'Drink Me', 'Follow Me Down', 'Painting Flowers', 'White Rabbit', 'Queen of Hearts' ]</span></code></pre>
+<p>To replace element with another one</p>
+<pre class="language-js"><code class="language-js">playlist<span class="token punctuation">.</span><span class="token function">splice</span><span class="token punctuation">(</span><span class="token number">4</span><span class="token punctuation">,</span> <span class="token number">1</span><span class="token punctuation">,</span> <span class="token string">'White Rabbit'</span><span class="token punctuation">)</span><br><br><span class="token comment">// [ 'Her Name Is Alice', 'Drink Me', 'Follow Me Down', 'Painting Flowers', 'White Rabbit', ]</span><br></code></pre>
+<p>Can be used to simply remove one or more elements in the middle of an array.</p>
+<pre class="language-js"><code class="language-js">topSongs<span class="token punctuation">.</span><span class="token function">splice</span><span class="token punctuation">(</span><span class="token number">2</span><span class="token punctuation">,</span><span class="token number">2</span><span class="token punctuation">)</span><br><span class="token comment">// removes: [ 'Follow Me Down', 'Painting Flowers' ]</span><br><br><span class="token comment">// topSongs = [ 'Her Name Is Alice', 'Drink Me', 'Queen of Hearts' ]</span></code></pre>
+<h3>Sort</h3>
+<p>Sorts the elements of an array <em>in place</em> and returns the sorted array. The default sort order is built upon converting the elements into strings, then comparing their sequences of UTF-16 code unit values.</p>
+<p>It is <em>NOT</em> a numerical sort!</p>
+<pre class="language-js"><code class="language-js">yell<span class="token punctuation">.</span><span class="token function">sort</span><span class="token punctuation">(</span><span class="token punctuation">)</span><br><br><span class="token comment">// returns: [ 'heads!', 'off', 'their', 'with' ]</span><br><br>numbers<span class="token punctuation">.</span><span class="token function">sort</span><span class="token punctuation">(</span><span class="token punctuation">)</span><br><span class="token comment">// returns: [ 10, 2, 4, 5, 7, 8, 9 ]</span></code></pre>
+
+        
+     
+      </article>
+    </main>
+  </div>
+  
+</html>
+
+        </div>
+    </body>
+        <footer>
+  <p class="footer-font"><strong>Ginger Kiwi</strong></p>
+  <img
+    src="/assets/avatar.png"
+    alt="a redhead woman with a ponytail behind a laptop computer"
+    class="logo-img"
+  />
+  <p class="footer-font">Copyright &copy;  Elizabeth McCready, 2023</p>
+  
+<nav class="a11y-webring-club" aria-labelledby="a11y-webring-club">
+  <h2 id="a11y-webring-club">a11y-webring.club</h2>
+  <p>This site is a member of the <a rel="external" class="footer-link" href="https://a11y-webring.club/">a11y-webring.club</a>.</p>
+  <ul class="link-white-hover">
+    <li><a rel="external" referrerpolicy="strict-origin" class="footer-link" href="https://a11y-webring.club/prev">Previous website</a></li>
+    <li><a rel="external" referrerpolicy="strict-origin" class="footer-link" href="https://a11y-webring.club/random">Random website</a></li>
+    <li><a rel="external" referrerpolicy="strict-origin" class="footer-link" href="https://a11y-webring.club/next">Next website</a></li>
+  </ul>
+</nav>
+</footer>
+</html>
