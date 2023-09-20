@@ -1,0 +1,24 @@
+{
+	"title": "Ginger Kiwi BLog",
+	"url": "https://gingerkiwi.blog/",
+	"langauge": "en",
+	"feed": {
+		"subtitle": "Exploring technology, design, and accessibility",
+		"language": "en",
+		"filename": "feed.xml",
+		"path": "/feed.xml",
+		"url": "https://gingerkiwi.blog/feed.xml",
+		"id": "https://gingerkiwi.blog/"
+	},
+	"author": {
+		"name": "Elizabeth McCready",
+		"email": "liz@gingerkiwi.dev",
+		"url": "https://gingerkiwi.blog/",
+		"avatar": "https://res.cloudinary.com/conrmahr/image/upload/c_scale,dpr_auto,q_auto,w_64/v1641307995/conr.dev/headshot.png",
+		"mailtolink": "mailto:liz@gingerkiwi.dev?subject=BLog"
+	},
+	"socials": {
+		"linkedin": "https://www.linkedin.com/in/elizabethmccready/",
+		"github": "https://github.com/gingerkiwi"
+	}
+}
