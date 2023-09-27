@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://gingerkiwi.blog/" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ginger Kiwi Blog</title>
-    <link>https://gingerkiwi.blog/</link>
-    <atom:link href="https://gingerkiwi.blog/feed.xml" rel="self" type="application/rss+xml" />
-    <description>Exploring technology, design, and accessibility.</description>
-    <language>en</language>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="en">
+  <title>Ginger Kiwi Blog</title>
+  <subtitle>Exploring technology, design, and accessibility</subtitle>
+  <link href="https://gingerkiwi.blog/blog/feed.xml" rel="self"/>
+  <link href="https://gingerkiwi.blog/"/>
+  <updated>2023-09-20T17:50:12Z</updated>
+  <id>https://gingerkiwi.blog/</id>
+  <author>
+    <name>Elizabeth McCready</name>
+    <email>liz@gingerkiwi.dev</email>
+  </author>
+</feed>

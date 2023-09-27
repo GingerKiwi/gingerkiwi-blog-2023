@@ -6,8 +6,8 @@
 		"subtitle": "Exploring technology, design, and accessibility",
 		"language": "en",
 		"filename": "feed.xml",
-		"path": "/feed.xml",
-		"url": "https://gingerkiwi.blog/feed.xml",
+		"path": "blog/feed.xml",
+		"url": "https://gingerkiwi.blog/blog/feed.xml",
 		"id": "https://gingerkiwi.blog/"
 	},
 	"author": {
