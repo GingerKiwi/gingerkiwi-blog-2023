@@ -1,5 +1,5 @@
 ---
-title: French Fridays for Developers - 016
+title: French Fridays for Developers - 017
 date: 2023-11-03
 tags:
   - post
