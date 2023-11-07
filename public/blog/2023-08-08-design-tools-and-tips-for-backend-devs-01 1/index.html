@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Elizabeth McCready" />
+    <link rel="shortcut icon" type="image/png" href="/assets/blog/favicon-2.png" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Marcellus&family=Marcellus+SC&family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css" />
+
+    
+    <link href="https://unpkg.com/prismjs@1.20.0/themes/prism-okaidia.css" rel="stylesheet">
+    <title>Design Tools and Tips for Backend Developers - Part 01: Finding Design Files and Figma to Code 101
+</title>
+    <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
+
+  </head>
+        
+    <body>
+        
+        <header>
+  <div class="container container-flex">
+    <div class="site-title">
+      <h1 class="h1-brand">Ginger Kiwi</h1>
+      <p class="subtitle">Exploring technology, design, and accessibility</p>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/projects">Projects</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+  <!-- / .container -->
+</header>
+
+  <div class="container container-flex">
+    <main role="main" class="full-article">
+      <article class="article-featured">
+        <h2 class="article-title">Design Tools and Tips for Backend Developers - Part 01: Finding Design Files and Figma to Code 101
+</h2>
+        <img
+            src="/assets/blog/2023-08-08_charlesdeluvio-cZr2sgaxy3Q-unsplash.jpg"
+            alt="&#39;Photo of two black cell phones. The one on the upper left is showing an app login screen with a black background. It has the option to sign in with Apple or with Google. The app is named byte. there are multiple colourful small shapes swirling around the background. The second phone in the lower left shows the same app after login. It&#39;s also a black background. The top has a search bar that says &quot;user name&quot; Then there is an orange-yellow area that says &quot;Spotlight&quot; with stars around it. Underneath is a light blue area that says &quot;Popular Now&quot;, then another area that&#39;s purple that says &quot;Experimental, New &amp; Trending&quot; finally there&#39;s two side by side squares with no text. The on on the left is yellow ith an open banana. The one on the left is very light green with a lilly pad with a pink flower.&#39;
+"
+            class="article-image article-recent-image full-article-image"
+        />
+        <p class="article-info">Aug 7, 2023</p>
+        <p>Every time I get in a discussion with backend or sometimes full-stack devs that prefer the backend, they say that one reason they prefer backend is that they're &quot;not good at design&quot;. But just like anyone can learn the basics of coding, anyone can learn the basics of design. With a few simple tools and tips, even those scared of design can become more comfortable in designing good looking apps.</p>
+<p>This is the first in a series of articles on tips and tricks for web and app design - both for backend dev, and new developers. Note that because this series is aimed at devs who are uncomfortable with design, a few of the methods, tools, and tips are ones that I wouldn't necessarily recommend to frontend developers or those with experience in other types of art and design  or non-Figma tools like Adobe Xd/Adobe CC or Sketch.</p>
+<p>Today we're looking at where to find Figma design files and then how to quickly use them to get started coding. In future articles, colour themes/pallets, Figma to react code plugins, typography (fonts), and accessibility will be covered.</p>
+<h2>Overview (If You're Just Skimming!)</h2>
+<ol>
+<li>Find free files in Figma:
+<ul>
+<li>Scroll down to see the links to suggested sites and if they're free or have a small fee.</li>
+<li>Read the info for the ones you're interested in using - There's tips on how to best find what you're looking for.</li>
+</ul>
+</li>
+<li>Import Figma files into your Figma account</li>
+<li>Use Figma's new dev mode to extract the code for each section/component</li>
+<li>Keep reading this series for more design tools and tips including
+<ul>
+<li>Fonts/typography,</li>
+<li>Figma plugins (e.g. Figma to react code),</li>
+<li>Colour themes, pallets,</li>
+<li>Accessibility,</li>
+<li>Layout - Demystifying CSS Grid and Flexbox</li>
+<li>Basic design rules and how to follow them</li>
+</ul>
+</li>
+</ol>
+<h2>Part 01:  Finding Design Files and Figma 101 for Backend Devs</h2>
+<p>Does the following sound familiar? You have a great idea for an app, but have no idea where to start with the frontend. But it needs a frontend! So you cobble together some Bootstrap CSS, but it still doesn't look as cool as its functionality, the layout is weird, it's failing accessibility testing, and you're swearing at whoever invented CSS (Håkon Wium Lie).</p>
+<p>This series is designed to give backend devs and new devs a helping hand with design - we're all part of the awesome global dev community after all! It's much easier to focus on coding if you have a starting point in the design of the frontend. We don't have to re-invent the wheel to get coding and end up with great looking and well functioning app. With an already created Figma file and just 15 minutes of getting to know how to use Figma files you can go back to focusing on the fun puzzle of getting your app working and doing something!</p>
+<h3>Where to Get Figma and Other Design Files</h3>
+<p>Figma files are a great place to start - especially with the newer developer mode that writes the majority of the CSS for us. But where can you get Figma files? Here's a few places that are either free or have a small fee. For the ones with a fee the listed fee is current as of August, 2023.</p>
+<h4>Figma Community</h4>
+<p>The Figma Community has thousands of free files. There's a wide variety of themes, styles, and apps including dashboard, landing pages, blogs, social media apps, and more. With such variety and so many files it can take some time to find something that matches the needs for your app.</p>
+<p>Cost: Free - need to filter your search to only show free files.
+Link: <a href="https://www.figma.com/community">https://www.figma.com/community</a>
+Link to free web design files (includes mobile and desktop): <a href="https://www.figma.com/community/tag/web/files"> https://www.figma.com/community/tag/web/files</a></p>
+<h4>UI Store Design</h4>
+<p>UI Store Design has over 650 free design files, with many of them being Figma files. Downloading is a two step process, because the site is at least partially funded by advertising. For now, make sure that the design you want to use has a Figma option. Some are only Sketch, Adobe Xd/Adobe CC, InVision, or Webflow. Later in this series I'll show you options to open Adobe Xd and Sketch files in Figma.</p>
+<p>Cost: Free
+Links:
+Apps: <a href="https://www.uistore.design/categories/apps">https://www.uistore.design/categories/apps</a>
+Landing pages: <a href="https://www.uistore.design/categories/landing-pages">https://www.uistore.design/categories/landing-pages</a>
+Dashboards: <a href="https://www.uistore.design/categories/dashboards">https://www.uistore.design/categories/dashboards</a></p>
+<h4>Frontend Mentor</h4>
+<p>While Frontend Mentor has many free challenges, you must be a paid monthly or annual member to download the Figma files. However, a paid membership comes with support from their Discord community as well as project requirements. It's a great place to start building full-stack apps for your portfolio if you need ideas of what to build. Projects can be filtered by difficulty level, language/tools (html, css, javascript, api), and free/paid.</p>
+<ul>
+<li>Link: <a href="https://www.frontendmentor.io">https://www.frontendmentor.io</a></li>
+<li>Cost:
+<ul>
+<li>$12 USD for 1 month
+<ul>
+<li>2x premium challenge Figma files</li>
+<li>5x free challenge Figma files</li>
+</ul>
+</li>
+<li>$96 USD per year
+<ul>
+<li>Unlimited challenges with all Figma files</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4>iCodeThis</h4>
+<p>iCodeThis is a newer daily frontend coding challenge site. It's a great option to get design ideas for components and simple pages. A membership is required to have access to the Figma files. But all memberships are a one fee for a lifetime membership, so it's a great option if you're frequently stuck. It's also a great option if you want to improve your css/UI engineering skills a bit at a time and enjoy doing coding challenges. You could even build small backends for some of the challenges where it makes sense like login screens, dashboards, and forms.</p>
+<ul>
+<li>Link: <a href="https://icodethis.com/pro">https://icodethis.com/pro</a></li>
+<li>Cost:
+<ul>
+<li>Free - viewing the design of the day. Figma file isn't included.</li>
+<li>$24 (current -) for lifetime &quot;bronze&quot; membership - get the past 14 days of coding challenges with Figma Files</li>
+<li>$79 (current) for lifetime &quot;silver&quot; membership - get all coding challenges (currently 250+) with Figma files</li>
+</ul>
+</li>
+</ul>
+<h3>The Basics of How to Import and Use Figma Files</h3>
+<p>Figma is a powerful design tool, so it can be overwhelming to get started if you don't have a design background. However, with a quick tour and about 15 minutes it's fairly straightforward to learn the basics of using already completed Figma files.</p>
+<h4>Importing Figma Files</h4>
+<p>Some Files will give you the option to &quot;Open in Figma&quot;. For those files you can just click &quot;Open in Figma&quot;. Other files require you to download them. In that case, use the four steps below.</p>
+<p>The first step in using Figma files is importing them.</p>
+<ol>
+<li>Open Figma - you may have to sign in in your browser</li>
+<li>Go to your home - the small house icon in the upper left hand corner, below the menu bar</li>
+<li>On the top right of the screen click on the &quot;import&quot; button. It's next to the &quot;+ Design file&quot; and &quot;+ Fig Jam board&quot; buttons.</li>
+<li>When the dialog box says the file is imported, click &quot;done&quot;, then double click your file to open it.</li>
+</ol>
+<h4>Export Assets Including Images and Icons</h4>
+<p>Did you know that you can export all of the assets in bulk? It's a great shortcut if you want to get coding as quickly as possible.</p>
+<p>Before you do a bulk export:</p>
+<ul>
+<li>Click outside of any of the frames/ designed screens to make sure that you haven't selected anything.</li>
+<li>It's also good to check on the right hand side of the UI that your units are set to &quot;rems&quot; and not &quot;pixels&quot;, though this is not required for a bulk export.</li>
+</ul>
+<ol>
+<li>In the upper left hand corner, click on the down arrow next to the Figma &quot;F&quot; logo.</li>
+<li>Choose &quot;file&quot;, then &quot;export&quot;.</li>
+<li>A list of assets, including entire frames will show on the screen. All assets will have a green checkmark beside them. For now don't worry about which assets you might not need. Just export all of them.</li>
+<li>Note: Assets with duplicate names will/ should be renamed by your OS.</li>
+</ol>
+<h4>Extracting the CSS / Code in Figma Dev Mode</h4>
+<p>Figma has a new dev mode that takes the guessing out of using a Figma file, puts units in rems instead of pixels, and makes things much quicker. It even extracts the CSS code for you. We'll also take a look in a later article on how to use a plugin to extract React and CSS directly to Code Sandbox or downloaded to your local machine.</p>
+<ol>
+<li>Make sure you have Dev mode enabled by toggling on the toggle with &quot;&lt;/&gt;&quot; in the upper right hand corner</li>
+<li>Select a frame (page) in the design</li>
+<li>Information about that page including size in rem, background colour, and if there's any padding or margins is displayed in a graphic on the left-hand side.</li>
+<li>Once you've made a note of the page design, continue to click on individual elements to get their size, colours, and typography (font). You can copy and paste from Figma into your repo.
+<ol>
+<li>For example the following code is copied from a heading in the &quot;Sunnyside Landing Page&quot; from Frontend Mentor.</li>
+</ol>
+</li>
+</ol>
+<pre class="language-css"><code class="language-css"><span class="token property">color</span><span class="token punctuation">:</span> #FFF<span class="token punctuation">;</span><br><span class="token property">text-align</span><span class="token punctuation">:</span> center<span class="token punctuation">;</span><br><span class="token property">font-family</span><span class="token punctuation">:</span> Fraunces 9pt Soft<span class="token punctuation">;</span><br><span class="token property">font-size</span><span class="token punctuation">:</span> 3.5rem<span class="token punctuation">;</span><br><span class="token property">font-style</span><span class="token punctuation">:</span> normal<span class="token punctuation">;</span><br><span class="token property">font-weight</span><span class="token punctuation">:</span> 900<span class="token punctuation">;</span><br><span class="token property">line-height</span><span class="token punctuation">:</span> normal<span class="token punctuation">;</span><br><span class="token property">letter-spacing</span><span class="token punctuation">:</span> 0.54688rem<span class="token punctuation">;</span><br><span class="token property">text-transform</span><span class="token punctuation">:</span> uppercase<span class="token punctuation">;</span></code></pre>
+<ol start="5">
+<li>Go through the design one element at a time on each page to get the css.</li>
+<li>For measurements that have more than 2 decimal points, just round up or down to the closest. For example letter spacing of 0.54688rem becomes 0.55 rem.</li>
+<li>You will still have to figure out the layout with css grid, flexbox, or a combination of the two. Don't worry there will be at least one future article on that.</li>
+</ol>
+<h2>Congratulations You've Taken the First Step!</h2>
+<p>If you've made it this far you're well on your way to quickly finding and using designs so you can focus on coding. This is just a start, but it's a much quicker way to have a great design than muddling through from scratch. Keep reading this series for more design tools and tips for backend developers!</p>
+<h3>Next in This Series:</h3>
+<ul>
+<li>Colour Themes, Tools, and Tips</li>
+<li>Typography and Fonts 101</li>
+<li>7 Basic Design Rules and How to Apply Them</li>
+<li>Accessible Design - A11y in App Design</li>
+<li>Layout - Demystifying CSS Grid and Flexbox</li>
+<li>Photos, Images, and Videos</li>
+<li>Quickly Using Figma for Wireframes</li>
+<li>Figma Plugins - Figma to React code and more.</li>
+<li>Using Figma to Mock out Designs</li>
+<li>Using Dev Mode in Figma</li>
+</ul>
+
+        
+     
+      </article>
+    </main>
+  </div>
+  
+</html>
+
+        </div>
+    </body>
+        <footer>
+  <p class="footer-font"><strong>Ginger Kiwi</strong></p>
+  <img
+    src="/assets/avatar.png"
+    alt="a redhead woman with a ponytail behind a laptop computer"
+    class="logo-img"
+  />
+  <p class="footer-font">Copyright &copy;  Elizabeth McCready, 2023</p>
+  
+<nav class="a11y-webring-club" aria-labelledby="a11y-webring-club">
+  <h2 id="a11y-webring-club">a11y-webring.club</h2>
+  <p>This site is a member of the <a rel="external" class="footer-link" href="https://a11y-webring.club/">a11y-webring.club</a>.</p>
+  <ul class="link-white-hover">
+    <li><a rel="external" referrerpolicy="strict-origin" class="footer-link" href="https://a11y-webring.club/prev">Previous website</a></li>
+    <li><a rel="external" referrerpolicy="strict-origin" class="footer-link" href="https://a11y-webring.club/random">Random website</a></li>
+    <li><a rel="external" referrerpolicy="strict-origin" class="footer-link" href="https://a11y-webring.club/next">Next website</a></li>
+  </ul>
+</nav>
+</footer>
+</html>
