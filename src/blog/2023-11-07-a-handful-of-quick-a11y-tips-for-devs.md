@@ -1,6 +1,6 @@
 ---
 title: A Handful of Quick Accessibility Tips for Developers - With Cats and Coffee Themed Code Examples
-date: 2023-11-07
+date: 2023-11-08
 tags:
   - post
   - featured
@@ -9,7 +9,7 @@ tags:
   - tips
   - a11y
   - code
-image: /assets/blog/A11yCodingTips-Cover.png
+image: /assets/blog/A11yCodingTips-Cover.webp
 imageAlt: "'Graphic with hot pink text on a black background. The top text says A11y Tips for Devs. Then there's a row of emojis with plus signs between them: happy cat face + cup of coffee + laptop _ active wheelchair user symbol. The bottom text says With Cat and Coffee themed code examples!'"
 imageCaption: ADD CAPTION
 description: Coding with accessibility in mind can be intimidating if you're not familiar with the needs of disabled, neurodiverse, Deaf/deaf, and hard of hearing users. Here are five tips to get you started in making your sites accessible for users and learning how to implement the basics of WCAG.
