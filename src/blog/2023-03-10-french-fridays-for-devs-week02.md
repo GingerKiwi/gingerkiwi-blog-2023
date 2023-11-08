@@ -5,7 +5,7 @@ date: 2023-03-10
 tags:
   - post
   - french
-image: /assets/blog/FrenchForDevs_CoverImg.png
+image: /assets/blog/FrenchForDevs_CoverImg.webp
 imageAlt: "'White text on black background on top of a French Flag. Text says French for Devs! Funny and/or useful French quotes for developers. A New French for Devs Quote Every Friday! https://gingerkiwi.dev'"
 imageCaption: ADD CAPTION
 description: |

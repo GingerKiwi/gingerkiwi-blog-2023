@@ -9,7 +9,7 @@ tags:
   - humour
   - welsh
   - code
-image: /assets/blog/FrenchForDevs_CoverImg.png
+image: /assets/blog/FrenchForDevs_CoverImg.webp
 imageAlt: "'White text on black background on top of a French Flag. Text says French for Devs! Funny and/or useful French quotes for developers. A New French for Devs Quote Every Friday! https://gingerkiwi.dev'"
 imageCaption: ADD CAPTION
 description: In March, 2023  started French for Devs Fridays to celebrate getting to 400 days on Duolingo. Here you'll find weekly useful and/or amusing French phrases for developers.  « La période d’adaptation de la programmation solo à la programmation collaborative a été comme manger un piment. La première fois que vous l’essayerez, vous ne l’aimerez peut-être pas parce que vous n’y êtes pas habitué. Mais plus vous en mangez, plus vous l’appréciez. » ~ Anonyme.  Read the full post for the translation.
