@@ -14,22 +14,20 @@ imageAlt: "'Graphic with hot pink text on a black background. The top text says 
 imageCaption: ADD CAPTION
 description: Coding with accessibility in mind can be intimidating if you're not familiar with the needs of disabled, neurodiverse, Deaf/deaf, and hard of hearing users. Here are five tips to get you started in making your sites accessible for users and learning how to implement the basics of WCAG.
 ---
-**NOTE:  Final edits are needed. Publishing because the current code structure isn't set up for drafts.** 
-
 Coding with accessibility in mind can be intimidating if you're not familiar with the needs of disabled, neurodiverse, Deaf/deaf, and hard of hearing users. Yet, it's an essential skill to be both legally compliant, and to have easy to read and maintain code. 
 
-Here are five tips to get you started in making your sites accessible for users and learning how to implement the basics of Web Content Accessibility Guidelines (WCAG). Code examples are included so you can easily cut, paste, and adjust to fit your projects. 
+Here are five tips to get you started in making your sites accessible for users and learning how to implement the basics of Web Content Accessibility Guidelines (WCAG). Each tip has a template so you can easily cut, paste, and adjust to fit your projects, and a cats and coffee example so you can see how the tip works in an app.
 ## Contents
 
 - Page title
 - Landmarks
 - Headings
 - Prefers reduced motion
-- Contrast 
+- Skip to main content 
 
 ## The Cats and Coffee Examples
 
-All code examples are from a website for the fictional *"Crazy Cats Coffee"* coffee shop. Right now the site is a large Codepen, because it works. View the [Crazy Cats Coffee codepen here](https://codepen.io/gingerkiwi/pen/rNPjmXG?editors=1100)
+All code examples are from a website for the fictional *"Crazy Cats Coffee"* coffee shop. View the [Crazy Cats Coffee codepen here](https://codepen.io/gingerkiwi/pen/rNPjmXG?editors=1100)
 
 
 <img class="img-smaller"
@@ -40,9 +38,11 @@ All code examples are from a website for the fictional *"Crazy Cats Coffee"* cof
 ## Page Title
 
 **What is a page title?** 
-The name of your  in the head of your html documents.
+
+The name of your page in the head of your html documents.
 
 **Why should developer use a page title?**
+
 1. It's the first thing a user hears when visiting any page on your site.
 2. It allows screen reader users to know the content of your page quickly, without having to read the majority of the page.
 3. (Bonus): It's also helpful for search engine optimization (SEO).
@@ -93,10 +93,10 @@ The name of your  in the head of your html documents.
 Landmarks are section tags such as header, nav, main, and footer that identify different core sections of a page.
 
 **Why should developer use semantic landmarks?**
-1. allow users of screen readers and other assistive tech to navigate the page just like a user using their eyes
+1. They allow users of screen readers and other assistive tech to navigate the page just like a user using their eyes.
 2. Makes it easier for others to read your code. Who wants to get lost in an endless sea of divs?
 
-**How to use semantic landmarks in your code**: 
+**How to use semantic landmarks in your code**
 1. All text on a page should be contained between a pair of landmark tags
 2. If you have multiple incidences of a particular landmark - such as nav in both your header and footer, use either "aria-label" or "aria-labelledby" to show the difference between the two.
 
@@ -122,7 +122,7 @@ Landmarks are section tags such as header, nav, main, and footer that identify d
 ### Semantic Landmarks Example
 
 ```html
-%% FIRST SEMANTIC LANDMARK - header tag %%
+%% FIRST SEMANTIC LANDMARK - header tag %% 
 
 <header>
 	<nav aria-label="Primary navigation">
@@ -135,7 +135,7 @@ Landmarks are section tags such as header, nav, main, and footer that identify d
 	</nav>
 </header>
 
-%% SECOND SEMANTIC LANDMARK  - main tag %%
+ %% SECOND SEMANTIC LANDMARK  - main tag %% 
 
 <main>
 	<h1>Welcome to Crazy Cats Coffee!</h1>
@@ -147,7 +147,7 @@ Landmarks are section tags such as header, nav, main, and footer that identify d
 	<h2>About Crazy Cats Coffee</h2>
 	<p>Information about the coffee shop</p>
 	
-	%% This area can contain multiple headings, content items such as lists, and images, as well as sections and articles %%
+	<!-- This area can contain multiple headings, content items such as lists, and images, as well as sections and articles -->
 
 </main>
 
@@ -168,11 +168,16 @@ Landmarks are section tags such as header, nav, main, and footer that identify d
 
 ## Semantic Headings
 
-**What are semantic Headings?**
+**What are semantic headings?**
 
 Semantic headings are heading tags from h1 though h6 that provide navigation aids, and content organization and structure to your page.
 
-**Why should developers use semantic headings?**:
+**Why should developers use semantic headings?**
+
+1. They help sighted users easily scan to a particular topic on your page.
+2. Screen reader users frequently use a list of headings and jump to the particular section they're looking for.
+3. Semantic headings help your SEO.
+4. They make your code easier to read by others, and by yourself months or years later - making it easier to maintain.
 
 **How to use semantic headings in your code**:
 
@@ -187,10 +192,10 @@ Semantic headings are heading tags from h1 though h6 that provide navigation aid
 
 ```html
 <h1>My Page Topic</h1>
-	%some content like paragraphs, images, lists, ...%
+	<!-- some content like paragraphs, images, lists, ...-->
 
 	<h2>Section 1 heading</h2>
-		%some content like paragraphs, images, lists, ...%
+		<!-- some content like paragraphs, images, lists, ...-->
 
 		<h3>A subtopic of section 1</h3>
 		%page content%
@@ -198,12 +203,12 @@ Semantic headings are heading tags from h1 though h6 that provide navigation aid
 		%page content%
 		
 	<h2>Section 2 heading</h2>
-		%some content like paragraphs, images, lists, ...%
+		<!-- some content like paragraphs, images, lists, ...-->
 
 		<h3>A subtopic of section 2</h3>
-		% content%
+		<!-- content -->
 		<h3>Another subtopic of section 2</h3>
-		% content%
+		<!-- content -->
 ```
 
 ### Semantic Headings Code Example
@@ -294,8 +299,9 @@ font--like-h2 {
 
 **Why should developers include prefers reduced motion in our code?**
 
-- Motion can trigger seizures, migraines, vertigo, and be painful for users with sight loss, and/or other disabilities and medical conditions.
-- Yes, animations are cool! But risking a user being in pain or even having an ambulance ride from your animations isn't cool.
+1. Motion can trigger seizures, migraines, vertigo, and be painful for users with sight loss, and/or other disabilities and medical conditions.
+2. Yes, animations are cool! But risking a user being in pain or even having an ambulance ride from your animations isn't cool. 
+3. Respecting users' preferences helps keep users on your site, and reduces the chance they leave your site and never visit again.
   
 **How can I include prefers reduced motion in my code?**
 
@@ -303,7 +309,7 @@ font--like-h2 {
 2. For every animated element include it's class name inside of an @media query in your css.
 3. There's some really awesome, but more complex ways to implement prefers reduced motion, css that only implements animations and transitions if a user hasn't set their preferences. 
 	1. But again, the goal of this article is "quick accessibility tips". 
-	2. See [Respecting Users’ Motion Preferences by Michelle Barker on Smashing Magazine](# Respecting Users’ Motion Preferences) for an in-depth 12-minute read on different ways to implement prefers reduced motion.
+	2. See [Respecting Users’ Motion Preferences](https://www.smashingmagazine.com/2021/10/respecting-users-motion-preferences/?utm_source=pocket_saves) by Michelle Barker on Smashing Magazine for an in-depth 12-minute read on different ways to implement prefers reduced motion.
 
 ```css
 @media (prefers-reduced-motion: reduce) {
@@ -371,17 +377,19 @@ font--like-h2 {
 ## Skip to Main Content
 
 **What is skip to main content?**
+
 A simple link at the top of the page that allows users to skip hearing the navigation, banner, icons, logos, and get right to the main content.
 
 **Why should developers use skip to main content?**
 
-You wouldn't spend all the time and effort to develop a site, only to annoy a large percentage of your users! This allows users to get to the main content and enjoy it - rather than be annoyed at hearing the entire navigation, banner, logos, icons and other header information read out loud.
+1. This allows users to get to the main content and enjoy it - rather than be annoyed at hearing the entire navigation, banner, logos, icons and other header information read out loud.
+	1. You wouldn't want to spend all the time and effort to develop and maintain a site, only to annoy your users.
 
 **How can you include a skip to main content in your code?** 
 
 1. The simplest way is to include a visible link before any of your page content - right below the header tag. This is the method we're using here.
 2. You can also use css, or css and some javascript to make the link visible only on keyboard focus to screen reader users.
-	1. As the theme of this article is "quick a11y tips", I'm not getting into the different options for hiding and showing the link here.
+	1. As the theme of this article is *"quick a11y tips"*, I'm not getting into the different options for hiding and showing the link here.
 
 ### Skip to Main Content template
 
@@ -416,6 +424,7 @@ You wouldn't spend all the time and effort to develop a site, only to annoy a la
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 ## Credits
 
-1. Animated call to action button was restyled from # Izzat Azmi's code pen: [https://codepen.io/IzzatAzmi/pen/KWemrY?editors=0100](https://codepen.io/IzzatAzmi/pen/KWemrY?editors=0100 */)
+1. Animated call to action button was restyled from [Izzat Azmi's code pen](https://codepen.io/IzzatAzmi/pen/KWemrY?editors=0100 */)
