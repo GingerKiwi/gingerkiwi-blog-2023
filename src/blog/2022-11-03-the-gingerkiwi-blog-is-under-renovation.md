@@ -1,11 +1,14 @@
 ---
-title: >
- The Ginger Kiwi Blog is Under Renovation: It's Time For a Complete Redesign
+title: |
+  The Ginger Kiwi Blog is Under Renovation: It's Time For a Complete Redesign
 date: 2022-11-03
-tags: ["post", "featured", "web-dev", "jamstack"]
-image: '/assets/blog/roselyn-tirado-GDWmu0bFfS4-unsplash.jpg'
-imageAlt: 'a man and a woman holding hands while holding indoor house paint brushes for painting a room. There are drips of paint all over them. The woman is wearing denim overall shorts and a white t-shirt. The man is wearing ripped blue jeans and a light grey t-shirt'
-imageCaption: 'ADD CAPTION'
+tags:
+  - post
+  - web-dev
+  - jamstack
+image: /assets/blog/roselyn-tirado-GDWmu0bFfS4-unsplash.webp
+imageAlt: a man and a woman holding hands while holding indoor house paint brushes for painting a room. There are drips of paint all over them. The woman is wearing denim overall shorts and a white t-shirt. The man is wearing ripped blue jeans and a light grey t-shirt
+imageCaption: ADD CAPTION
 description: While the early 2022 version of this site was functional, I wasn't happy with the design. I'm currently working on a new responsive JamStack static site version of this design using 11ty and Numjucks.
 ---
 ## It's Time For a Complete Redesign

@@ -1,14 +1,17 @@
 ---
-title: >
- French Fridays for Developers - Week 09
+title: |
+  French Fridays for Developers - Week 09
 date: 2023-06-02
-tags: ["post", "featured", "french", "dutch", "humour"]
-image: '/assets/blog/dorian-hurst-d-igN2ptyC8-unsplash.jpg'
-imageAlt: >
- 'adults celebrating at a French street party. There's a large French flag waving in a breeze and confetti thrown up and falling down in the air'
-imageCaption: 'ADD CAPTION'
-description: >
- To celebrate getting to 400 days on Duolingo French at the beginning of March, 2023 I've started French for Devs Fridays. Here you'll find  useful and/or amusing French phrases for developers. ~ Java est à javascript comme la voiture est à la moquette. ~ Read the full post for the translation.
+tags:
+  - post
+  - french
+  - dutch
+  - humour
+image: /assets/blog/FrenchForDevs_CoverImg.png
+imageAlt: "'White text on black background on top of a French Flag. Text says French for Devs! Funny and/or useful French quotes for developers. A New French for Devs Quote Every Friday! https://gingerkiwi.dev'"
+imageCaption: ADD CAPTION
+description: |
+  To celebrate getting to 400 days on Duolingo French at the beginning of March, 2023 I've started French for Devs Fridays. Here you'll find  useful and/or amusing French phrases for developers. ~ Java est à javascript comme la voiture est à la moquette. ~ Read the full post for the translation.
 ---
 
 To celebrate getting to 400 days on Duolingo French at the beginning of March, 2023 I've started French for Devs Fridays. Here you'll find weekly useful and/or amusing French phrases for developers. 

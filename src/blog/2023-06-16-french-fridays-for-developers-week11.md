@@ -1,14 +1,19 @@
 ---
-title: >
- French Fridays for Developers - Week 11
+title: |
+  French Fridays for Developers - Week 11
 date: 2023-06-16
-tags: ["post", "featured", "french", "dutch", "humour", "welsh", "code"]
-image: '/assets/blog/alice-triquet-HUtWTHelH1w-unsplash.jpg'
-imageAlt: >
- 'A crowd of people waving French flags. There's the top and roof of an old ornate stone building in the background.'
-imageCaption: 'ADD CAPTION'
-description: >
- In March, 2023  started French for Devs Fridays to celebrate getting to 400 days on Duolingo. Here you'll find weekly useful and/or amusing French phrases for developers.  Comment les non-programmeurs voient le code : *« Le code peut sembler alarmant pour les non-initiés : des «langues» impénétrables qui se lisent principalement comme une calculatrice ayant un accident vasculaire cérébral. » Read the full post for the translation.
+tags:
+  - post
+  - french
+  - dutch
+  - humour
+  - welsh
+  - code
+image: /assets/blog/FrenchForDevs_CoverImg.png
+imageAlt: "'White text on black background on top of a French Flag. Text says French for Devs! Funny and/or useful French quotes for developers. A New French for Devs Quote Every Friday! https://gingerkiwi.dev'"
+imageCaption: ADD CAPTION
+description: |
+  In March, 2023  started French for Devs Fridays to celebrate getting to 400 days on Duolingo. Here you'll find weekly useful and/or amusing French phrases for developers.  Comment les non-programmeurs voient le code : *« Le code peut sembler alarmant pour les non-initiés : des «langues» impénétrables qui se lisent principalement comme une calculatrice ayant un accident vasculaire cérébral. » Read the full post for the translation.
 ---
 In March, 2023  started French for Devs Fridays to celebrate getting to 400 days on Duolingo. Here you'll find weekly useful and/or amusing French phrases for developers. This one's for all those new devs learning to code for the first time, current devs diving into a completely new language far removed from your usual stack, or anyone who's tried to explain code to non-programmers and gotten "that look".
 

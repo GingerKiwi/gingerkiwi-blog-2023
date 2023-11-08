@@ -1,11 +1,13 @@
 ---
-title: >
- Introducing Bitesize Accessibility: A New A11y Series for Developers, UX Designers, and Content Creators
+title: |
+  Introducing Bitesize Accessibility: A New A11y Series for Developers, UX Designers, and Content Creators
 date: 2022-11-07
-tags: ["post", "featured", "a11y"]
-image: '/assets/blog/seth-kane-oyZalm8fvS4-unsplash.jpg'
-imageAlt: 'man wearing bicycle helmet in a bright green, 3 wheeled racing wheelchair going fast. The background of the photo is blurred. Stickers on the wheelchair say 248 and Masterson. Photo taken during the 2017 Chicago Marathon'
-imageCaption: 'ADD CAPTION'
+tags:
+  - post
+  - a11y
+image: /assets/blog/seth-kane-oyZalm8fvS4-unsplash.jpg
+imageAlt: man wearing bicycle helmet in a bright green, 3 wheeled racing wheelchair going fast. The background of the photo is blurred. Stickers on the wheelchair say 248 and Masterson. Photo taken during the 2017 Chicago Marathon
+imageCaption: ADD CAPTION
 description: Welcome to my regular article series  "Bitesize Accessibility" that provides developers with quick and hopefully entertaining information on accessibility! Accessibility doesn't have to be time consuming, or complex. Learning a little every few weeks, and spending even 5 minutes every hour or two while coding can have huge payoffs.
 ---
 

@@ -1,13 +1,21 @@
 ---
-title: > 
- What's Happening With The Alice in Wonderland Project?
+title: |
+  What's Happening With The Alice in Wonderland Project?
 date: 2023-04-03
-tags: ["post", "featured", "a11y", "dev-community", "open-source", "alice", "github", "git", "hacktoberfest"]
-image: '/assets/blog/down-the-rabbit-hole.jpg'
-imageAlt: 'Tardis blue police box from Doctor Who appearing to move through space. The stylized photo is a purplish blue.'
-imageCaption: 'ADD CAPTION'
-description: > 
- The Alice in Wonderland Project started without much planning during Hacktoberfest 2022. Learning GitHub workflows and how to work as part of team building a project can be intimidating and challenging for new developers. So I created an open source repo to help other new developers learn GitHub work flows, learn how to contribute to a remote team project, get involved with open source while being social and making something fun. However, I've since realized that I was actually creating something more than an open source project. It's the fledgling curriculum of a project based learning program. 
+tags:
+  - post
+  - a11y
+  - dev-community
+  - open-source
+  - alice
+  - github
+  - git
+  - hacktoberfest
+image: /assets/blog/down-the-rabbit-hole.jpg
+imageAlt: Tardis blue police box from Doctor Who appearing to move through space. The stylized photo is a purplish blue.
+imageCaption: ADD CAPTION
+description: |
+  The Alice in Wonderland Project started without much planning during Hacktoberfest 2022. Learning GitHub workflows and how to work as part of team building a project can be intimidating and challenging for new developers. So I created an open source repo to help other new developers learn GitHub work flows, learn how to contribute to a remote team project, get involved with open source while being social and making something fun. However, I've since realized that I was actually creating something more than an open source project. It's the fledgling curriculum of a project based learning program.
 ---
 The [Alice in Wonderland Project](https://github.com/GingerKiwi/alice-game) started a lot of enthusiasm, but without much planning during Hacktoberfest 2022. Getting involved in open source and learning GitHub workflows can be intimidating and challenging for new developers. So I created an open source repo to help other new developers learn GitHub work flows, learn how to contribute to a remote team project, get involved with open source while being social and making something fun.
 

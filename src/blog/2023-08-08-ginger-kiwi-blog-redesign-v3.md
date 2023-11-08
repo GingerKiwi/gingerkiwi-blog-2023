@@ -1,14 +1,20 @@
 ---
-title: >
- Ginger Kiwi Blog Redesign - Version 3.0
+title: |
+  Ginger Kiwi Blog Redesign - Version 3.0
 date: 2023-08-08
-tags: ["post", "featured", "french", "dutch", "humour", "welsh", "code"]
-image: '/assets/blog/Boo-helping-me-code.jpg'
-imageAlt: >
- 'Grey long haired cat peaking up over a laptop screen. The screen has a Git merging exercise on it and multiple tabs open. There's a set of white bookcases in the background. Some have solid doors, some have glass doors.'
-imageCaption: 'ADD CAPTION'
-description: >
- It's almost time for yet another update to the Ginger Kiwi blog design. There's a semantic issue with a lot of the headings, I'd like separate pages for articles with different themes, and a dark mode. For now my focus is The Alice in Wonderland Project and job applications, 
+tags:
+  - post
+  - french
+  - dutch
+  - humour
+  - welsh
+  - code
+image: /assets/blog/Boo-helping-me-code.jpg
+imageAlt: |
+  'Grey long haired cat peaking up over a laptop screen. The screen has a Git merging exercise on it and multiple tabs open. There's a set of white bookcases in the background. Some have solid doors, some have glass doors.'
+imageCaption: ADD CAPTION
+description: |
+  It's almost time for yet another update to the Ginger Kiwi blog design. There's a semantic issue with a lot of the headings, I'd like separate pages for articles with different themes, and a dark mode. For now my focus is The Alice in Wonderland Project and job applications,
 ---
 
 <h3>Planned Updates for Fall 2023</h3>

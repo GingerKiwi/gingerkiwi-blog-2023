@@ -1,11 +1,14 @@
 ---
-title: >
- Learn GitHub Workflows and Open Source the Fun Way: The Alice in Wonderland Project
+title: |
+  Learn GitHub Workflows and Open Source the Fun Way: The Alice in Wonderland Project
 date: 2022-11-05
-tags: ["post", "featured", "alice", "git-github", "open-source"]
-image: '/assets/blog/down-the-rabbit-hole.jpg'
-imageAlt: 'Neon lights saying Down the Rabbit Hole on a black background. All the words are in pink neon, except the is in yellow neon'
-imageCaption: 'ADD CAPTION'
+tags:
+  - post
+  - git-github
+  - open-source
+image: /assets/blog/down-the-rabbit-hole.jpg
+imageAlt: Neon lights saying Down the Rabbit Hole on a black background. All the words are in pink neon, except the is in yellow neon
+imageCaption: ADD CAPTION
 description: Welcome to Wonderland! Getting involved in open source and learning GitHub workflows can be intimidating and challenging for new developers. During Hacktoberfest 2022, I created an open source repo to help other new developers learn GitHub work flows, get involved with open source while being social and making something fun.
 ---
 

@@ -24,17 +24,13 @@ layout: 'base.njk'
 
     <main role="main">
       {# <article class="article-recent"> #}
-        <h1>Recent Articles</h1>
+        <h1>Blog</h1>
 
           <ul role="list" class="articles__list flow"> 
-
-            {%- for post in collections.post| reverse -%}
-
-              {% include 'article-snippet.njk' %}
-              
-            {%- endfor %}
-
-          </ul>  
+        {%- for post in collections.post -%}
+            {% include 'article-snippet.njk' %}
+        {%- endfor %}
+      </ul> 
 
   
       

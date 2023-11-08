@@ -1,14 +1,15 @@
 ---
-title: >
- French Fridays for Developers - Week 2
+title: |
+  French Fridays for Developers - Week 2
 date: 2023-03-10
-tags: ["post", "featured", "french"]
-image: '/assets/blog/dorian-hurst-d-igN2ptyC8-unsplash.jpg'
-imageAlt: >
- 'adults celebrating at a French street party. There's a large French flag waving in a breeze and confetti thrown up and falling down in the air'
-imageCaption: 'ADD CAPTION'
-description: >
- To celebrate getting to 400 days on Duolingo French this week I'm starting French for Devs Fridays. Here you'll find  useful and/or amusing French phrases for developers. ~ Développeur junior : Comment avez-vous trouvé le bug si facilement? ~ Développeur senior : J'étais là quand le code a été écrit. Read the full post for the translation.
+tags:
+  - post
+  - french
+image: /assets/blog/FrenchForDevs_CoverImg.png
+imageAlt: "'White text on black background on top of a French Flag. Text says French for Devs! Funny and/or useful French quotes for developers. A New French for Devs Quote Every Friday! https://gingerkiwi.dev'"
+imageCaption: ADD CAPTION
+description: |
+  To celebrate getting to 400 days on Duolingo French this week I'm starting French for Devs Fridays. Here you'll find  useful and/or amusing French phrases for developers. ~ Développeur junior : Comment avez-vous trouvé le bug si facilement? ~ Développeur senior : J'étais là quand le code a été écrit. Read the full post for the translation.
 ---
 
 To celebrate getting to 400 days on Duolingo French this week I'm starting *French Fridays for Developers*. Here you'll find weekly useful and/or amusing French phrases for developers.

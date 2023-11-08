@@ -1,14 +1,19 @@
 ---
-title: >
- French Fridays for Developers - Week 12
+title: |
+  French Fridays for Developers - Week 12
 date: 2023-06-23
-tags: ["post", "featured", "french", "dutch", "humour", "welsh", "code"]
-image: '/assets/blog/alice-triquet-HUtWTHelH1w-unsplash.jpg'
-imageAlt: >
- 'A crowd of people waving French flags. There's the top and roof of an old ornate stone building in the background.'
-imageCaption: 'ADD CAPTION'
-description: >
- In March, 2023 I started French for Devs Fridays to celebrate getting to 400 days on Duolingo. Here you'll find weekly useful and/or amusing French phrases for developers.  « J'écris du Javascript ! Il faut faire corps avec le chaos pour écrire du Javascript » Read the full post for the translation.
+tags:
+  - post
+  - french
+  - dutch
+  - humour
+  - welsh
+  - code
+image: /assets/blog/FrenchForDevs_CoverImg.png
+imageAlt: "'White text on black background on top of a French Flag. Text says French for Devs! Funny and/or useful French quotes for developers. A New French for Devs Quote Every Friday! https://gingerkiwi.dev'"
+imageCaption: ADD CAPTION
+description: |
+  In March, 2023 I started French for Devs Fridays to celebrate getting to 400 days on Duolingo. Here you'll find weekly useful and/or amusing French phrases for developers.  « J'écris du Javascript ! Il faut faire corps avec le chaos pour écrire du Javascript » Read the full post for the translation.
 ---
 In March, 2023  started French for Devs Fridays to celebrate getting to 400 days on Duolingo. Here you'll find weekly useful and/or amusing French phrases for developers. This one's for all my fellow javascript developers and members of [Andrew Clarkson's](https://www.linkedin.com/in/andrewtclarkson/) [Andrew's Coffee Chats](https://www.linkedin.com/company/andrews-coffee-chats/) discord server. It's slightly Star Wars inspired - but with chaos instead of the Force.
 

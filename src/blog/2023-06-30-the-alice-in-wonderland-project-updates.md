@@ -1,14 +1,17 @@
 ---
-title: >
- The Alice in Wonderland Project Updates!
+title: |
+  The Alice in Wonderland Project Updates!
 date: 2023-06-30
-tags: ["post", "featured", "alice", "github"]
-image: '/assets/blog/AliceProjectDev-screenshot_2023-06-30.jpg'
-imageAlt: >
- 'website screenshot with a black background. white rabbit icon. In purple fantasy style text: The Alice in Wonderland Project. In white computer text: Go down the rabbit hole together to learn GitHub workflows and contribute to open-source!'
-imageCaption: 'ADD CAPTION'
-description: >
- The Alice in Wonderland Project started a lot of enthusiasm, but without much planning during Hacktoberfest 2022. It's now in redevelopment as an experiential, project based learning open source software project and curriculum to help new developers learn GitHub workflows and Open Source in a supportive, social environment. Version 2.0 will be ready for new participants for Hacktoberfest in October, 2023.
+tags:
+  - post
+  - alice
+  - github
+image: /assets/blog/AliceProjectDev-screenshot_2023-06-30.jpg
+imageAlt: |
+  'website screenshot with a black background. white rabbit icon. In purple fantasy style text: The Alice in Wonderland Project. In white computer text: Go down the rabbit hole together to learn GitHub workflows and contribute to open-source!'
+imageCaption: ADD CAPTION
+description: |
+  The Alice in Wonderland Project started a lot of enthusiasm, but without much planning during Hacktoberfest 2022. It's now in redevelopment as an experiential, project based learning open source software project and curriculum to help new developers learn GitHub workflows and Open Source in a supportive, social environment. Version 2.0 will be ready for new participants for Hacktoberfest in October, 2023.
 ---
 ## 🐇 The Alice in Wonderland Project Updates! 🐇
 

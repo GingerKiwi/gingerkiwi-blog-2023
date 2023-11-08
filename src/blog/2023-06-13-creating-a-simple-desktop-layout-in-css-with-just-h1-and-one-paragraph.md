@@ -1,12 +1,17 @@
 ---
 title: Creating a Simple Desktop Layout in CSS with Just an H1 and One Paragraph
 date: 2023-06-13
-tags: ["post", "featured", "css", "design", "ui", "before-prismjs"]
-image: '/assets/blog/ui-design-stop-drop-roll.png'
-imageAlt: >
- 'Webpage with a greyscale background of a woman smiling while rollerskaing at a skate park wearing a light pink helmet, pink t-shirt, and wrist guards. Text reads "Stop, Drop, Roll. Take the new challenge, starting today." There is a light pink rounded border on the top left and bottom right of the text'
-description: >
- This is one of many articles written before I had prism.js code block highlighting added. ... For the past couple of weeks I've been focusing on improving my css and design skills by doing Gary Simon's UI Design course on Scrimba.com. Today, I finished building a simple layout that started with just one level 1 heading and a single sentance paragraph. It's amazing how much can be done with so little html, an image from unsplash.com and a bit of css!
+tags:
+  - post
+  - featured
+  - css
+  - design
+  - ui
+  - before-prismjs
+image: /assets/blog/ui-design-stop-drop-roll.webp
+imageAlt: "'Webpage with a greyscale background of a woman smiling while rollerskaing at a skate park wearing a light pink helmet, pink t-shirt, and wrist guards. Text reads \"Stop, Drop, Roll. Take the new challenge, starting today.\" There is a light pink rounded border on the top left and bottom right of the text'"
+description: |
+  This is one of many articles written before I had prism.js code block highlighting added. ... For the past couple of weeks I've been focusing on improving my css and design skills by doing Gary Simon's UI Design course on Scrimba.com. Today, I finished building a simple layout that started with just one level 1 heading and a single sentance paragraph. It's amazing how much can be done with so little html, an image from unsplash.com and a bit of css!
 ---
 Note: I have a backlog of draft articles from before I added prism.js code block syntax highlighting to my blog. This one is from the Scrimba UI Design course by Gary Simon in January 2023. 
 

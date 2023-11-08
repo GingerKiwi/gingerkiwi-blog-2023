@@ -9,9 +9,8 @@ tags:
   - humour
   - welsh
   - code
-image: /assets/blog/alice-triquet-HUtWTHelH1w-unsplash.jpg
-imageAlt: |
-  'A crowd of people waving French flags. There's the top and roof of an old ornate stone building in the background.'
+image: /assets/blog/FrenchForDevs_CoverImg.png
+imageAlt: "'White text on black background on top of a French Flag. Text says French for Devs! Funny and/or useful French quotes for developers. A New French for Devs Quote Every Friday! https://gingerkiwi.dev'"
 imageCaption: ADD CAPTION
 description: In March, 2023  started French for Devs Fridays to celebrate getting to 400 days on Duolingo. Here you'll find weekly useful and/or amusing French phrases for developers.  « La confusion fait partie de la programmation »> ~ Felienne Hermans.  Read the full post for the translation.
 ---

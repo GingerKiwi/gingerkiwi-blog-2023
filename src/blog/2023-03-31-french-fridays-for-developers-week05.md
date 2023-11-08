@@ -1,14 +1,16 @@
 ---
-title: >
- French Fridays for Developers - Week 05
+title: |
+  French Fridays for Developers - Week 05
 date: 2023-03-31
-tags: ["post", "featured", "french", "cats"]
-image: '/assets/blog/dorian-hurst-d-igN2ptyC8-unsplash.jpg'
-imageAlt: >
- 'adults celebrating at a French street party. There's a large French flag waving in a breeze and confetti thrown up and falling down in the air'
-imageCaption: 'ADD CAPTION'
-description: >
- To celebrate getting to 400 days on Duolingo French at the beginning of March, 2023 I've started French for Devs Fridays. Here you'll find  useful and/or amusing French phrases for developers. ~ Mon chat a renversé mon café sur mon clavier! ~ Read the full post for the translation, and a cute cat photo.
+tags:
+  - post
+  - french
+  - cats
+image: /assets/blog/FrenchForDevs_CoverImg.png
+imageAlt: "'White text on black background on top of a French Flag. Text says French for Devs! Funny and/or useful French quotes for developers. A New French for Devs Quote Every Friday! https://gingerkiwi.dev'"
+imageCaption: ADD CAPTION
+description: |
+  To celebrate getting to 400 days on Duolingo French at the beginning of March, 2023 I've started French for Devs Fridays. Here you'll find  useful and/or amusing French phrases for developers. ~ Mon chat a renversé mon café sur mon clavier! ~ Read the full post for the translation, and a cute cat photo.
 ---
 
 To celebrate getting to 400 days on Duolingo French at the beginning of March, 2023 I've started French for Devs Fridays. Here you'll find weekly useful and/or amusing French phrases for developers. 

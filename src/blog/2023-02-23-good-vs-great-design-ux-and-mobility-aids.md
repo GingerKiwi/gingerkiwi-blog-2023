@@ -1,14 +1,19 @@
 ---
-title: >
- Good vs Great Design: UX and Mobility Aids
+title: |
+  Good vs Great Design: UX and Mobility Aids
 date: 2023-02-23
-tags: ["post", "featured", "a11y", "ux", "mobility-aids"]
-image: '/assets/blog/neo-walk-instagram-2022.02.22.png'
-imageAlt: >
- 'Young woman wearing a high fashion, light greyish purple off the shoulder short sleeved dress with a layered asymetical bottom hem. She has on a very wide brimbed matching hat. She has straight black shoulder length hair, and appears to be Asian. She has a translucent bright purple curved handle walking cane with bubbles inside it and a light pink ribbon strap hanging from the handle. She's also wearing a very wide leather black goth type belt and platform boots. One leg has tatoos and the other might be a prostetic'
-imageCaption: 'ADD CAPTION'
-description: >
- On January 21, 2023 I volunteered at #A11yTOCamp at Microsoft here in Toronto. With the event's focus on accessibility there were many people with visible mobility aids. This led to many conversations about design and mobility aids. Great design and user experience isn't just about a product being functional and usable, it should be aesthetically pleasing and bring joy to users. This is true for both digital and physical products. The main inspiration for this article is to have one place to share some of the great designed, beautiful and/or cool mobility aids with others, and to discuss this through the lens of design.
+tags:
+  - post
+  - featured
+  - a11y
+  - ux
+  - mobility-aids
+image: /assets/blog/neo-walk-instagram-2022.02.22.webp
+imageAlt: |
+  'Young woman wearing a high fashion, light greyish purple off the shoulder short sleeved dress with a layered asymetical bottom hem. She has on a very wide brimbed matching hat. She has straight black shoulder length hair, and appears to be Asian. She has a translucent bright purple curved handle walking cane with bubbles inside it and a light pink ribbon strap hanging from the handle. She's also wearing a very wide leather black goth type belt and platform boots. One leg has tatoos and the other might be a prostetic'
+imageCaption: ADD CAPTION
+description: |
+  On January 21, 2023 I volunteered at #A11yTOCamp at Microsoft here in Toronto. With the event's focus on accessibility there were many people with visible mobility aids. This led to many conversations about design and mobility aids. Great design and user experience isn't just about a product being functional and usable, it should be aesthetically pleasing and bring joy to users. This is true for both digital and physical products. The main inspiration for this article is to have one place to share some of the great designed, beautiful and/or cool mobility aids with others, and to discuss this through the lens of design.
 ---
 
 **On January 21, 2023 I volunteered at #A11yTOCamp at Microsoft here in Toronto.** One of the best parts was meeting new awesome people and seeing ones I've met at events in the past again. With the event's focus on accessibility there were many people with visible mobility aids including walking canes, wheelchairs, rollators (walkers), white canes, and service dogs. 

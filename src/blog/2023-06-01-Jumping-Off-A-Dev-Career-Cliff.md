@@ -1,14 +1,20 @@
 ---
-title: >
- Jumping Off a Dev Career Cliff
+title: |
+  Jumping Off a Dev Career Cliff
 date: 2023-06-01
-tags: ["post", "featured", "EDS", "a11y", "developer community", "cats"]
-image: '/assets/blog/bibhash-polygon-cafe-banerjee-ZbJwMkhj_yI-unsplash.jpg'
-imageAlt: >
- 'close up of a herd of zebras'
-imageCaption: 'ADD CAPTION'
-description: >
- 🦓 May was Ehlers Danlos Syndrome (EDS) and Hypermobility Spectrum Disorder Awareness Month! 🦓 To wrap things up I'm writing this more personal, but still career related post. Writing this feels a lot like submitting my first pull request as a new dev on a large public GitHub repo - like I'm jumping off a cliff on a zipline with tons of people watching. 
+tags:
+  - post
+  - EDS
+  - a11y
+  - developer
+  - community
+  - cats
+image: /assets/blog/bibhash-polygon-cafe-banerjee-ZbJwMkhj_yI-unsplash.jpg
+imageAlt: |
+  'close up of a herd of zebras'
+imageCaption: ADD CAPTION
+description: |
+  🦓 May was Ehlers Danlos Syndrome (EDS) and Hypermobility Spectrum Disorder Awareness Month! 🦓 To wrap things up I'm writing this more personal, but still career related post. Writing this feels a lot like submitting my first pull request as a new dev on a large public GitHub repo - like I'm jumping off a cliff on a zipline with tons of people watching.
 ---
 
 🦓 May was Ehlers Danlos Syndrome (EDS) and Hypermobility Spectrum Disorder Awareness Month! 🦓
