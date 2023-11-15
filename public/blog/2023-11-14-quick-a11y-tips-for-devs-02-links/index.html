@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Ginger Kiwi blog: Exploring Web development, accessibility, and design">
+    <meta name="author" content="Elizabeth McCready" />
+    <link rel="shortcut icon" type="image/png" href="/assets/blog/favicon-2.png" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Marcellus&family=Marcellus+SC&family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css" />
+
+    
+    <link href="https://unpkg.com/prismjs@1.20.0/themes/prism-okaidia.css" rel="stylesheet">
+    <title>Quick Accessibility Tips for Developers Part 2: Links - With Cats and Coffee Themed Code Examples</title>
+    <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
+
+  </head>
+        
+    <body>
+        
+        <header>
+  <div class="container container-flex">
+    <div class="site-title">
+      <h1 class="h1-brand">Ginger Kiwi</h1>
+      <p class="subtitle">Exploring technology, design, and accessibility</p>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/projects">Projects</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+  <!-- / .container -->
+</header>
+
+  <div class="container container-flex">
+    <main role="main" class="full-article">
+      <article class="article-featured">
+        
+        <h2 class="article-title">Quick Accessibility Tips for Developers Part 2: Links - With Cats and Coffee Themed Code Examples</h2>
+        <img
+            src="/assets/blog/A11yCodingTips-Cover.webp"
+            alt="&#39;Graphic with hot pink text on a black background. The top text says A11y Tips for Devs. Then there&#39;s a row of emojis with plus signs between them: happy cat face + cup of coffee + laptop _ active wheelchair user symbol. The bottom text says With Cat and Coffee themed code examples!&#39;"
+            class="article-image article-recent-image full-article-image"
+        />
+        <p class="article-info">Nov 7, 2023</p>
+        <h2>About This Article Series</h2>
+<p>Coding with accessibility in mind can be intimidating if you're not familiar with the needs of disabled, neurodiverse, Deaf/deaf, and hard of hearing users. Yet, it's an essential skill to be both legally compliant, and to have easy to read and maintain code.</p>
+<h3>The Cats and Coffee Examples</h3>
+<p>The <strong>Quick Accessibility Tips for Devs</strong> series has a fun cats and coffee example with the Crazy Cats Coffee website and repo. The first article used a codepen.</p>
+<p><img class="img-smaller"
+     src="/assets/blog/a11y-tips_crazy-cats-coffee_screenshot.png"
+     alt="screenshot of Crazy Cats Coffee website. Colour theme is beige and brown. Top navigation is dark black-brown with beige text. It says Skip to main content. underneath there's links to HOME MENU and THE CATS. Below in red-brown calligraphy text is Welcome to Crazy Cats Coffee! The next line says in bold italic black text Your Purr-fect Downtown Coffee Shop! underneath in regular weight and styled black text is Percentage of profits goes to support local rescue cat organizations. There's a picture of a dark brown long haired cat at coffee shop on a dark wood table by two iced coffees in plastic cups. Finally below the photo, in smaller red-brown calligraphy text than the welcome message is About Crazy Cats Coffee"></p>
+<ul>
+<li><a href="https://github.com/GingerKiwi/a11y-crazy-cats-coffee">GitHub repo for the series</a></li>
+<li><a href="https://github.com/GingerKiwi/a11y-crazy-cats-coffee/tree/article-02-a11y-links">GitHub branch for this article</a></li>
+<li>The deployed site</li>
+<li>The page we're looking at today</li>
+<li>The <a href="https://codepen.io/gingerkiwi/pen/rNPjmXG?editors=1100">Crazy Cats Coffee codepen</a>from article number 1.</li>
+</ul>
+<p>This week's article is a shorter one covering links to other pages in your site, and links to other parts of your pages such as in a longer blog post.</p>
+<h2>Contents</h2>
+<ul>
+<li>Navigation</li>
+<li>Links general tips</li>
+<li>Links within a page</li>
+</ul>
+<h2>Navigation</h2>
+<p><strong>What is navigation?</strong></p>
+<p>The name of your page in the head of your html documents.</p>
+<p><strong>Why should developer use accessible navigation?</strong></p>
+<ol>
+<li>I</li>
+</ol>
+<p><strong>How to use accessible navigation in your code.</strong></p>
+<ol>
+<li>Ea</li>
+</ol>
+<h3>Navigation Code Template</h3>
+<pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>head</span><span class="token punctuation">></span></span><br>	</code></pre>
+<h3>Navigation Crazy Cats Coffee Code Example</h3>
+<pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>head</span><span class="token punctuation">></span></span></code></pre>
+<h2>Links - General Tips</h2>
+<p><strong>What are accessible links?</strong></p>
+<p>Landmarks are section tags such as header, nav, main, and footer that identify different core sections of a page.</p>
+<p><strong>Why should developer use accessible links?</strong></p>
+<ol>
+<li>They allow users of screen readers and other assistive tech to navigate the page just like a user using their eyes.</li>
+<li>Makes it easier for others to read your code. Who wants to get lost in an endless sea of divs?</li>
+</ol>
+<p><strong>How to use accessible links in your code</strong></p>
+<ol>
+<li>All text on a page should be contained between a pair of landmark tags</li>
+<li>If you have multiple incidences of a particular landmark - such as nav in both your header and footer, use either &quot;aria-label&quot; or &quot;aria-labelledby&quot; to show the difference between the two.</li>
+</ol>
+<h3>Accessible Links Template</h3>
+<pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>header</span><span class="token punctuation">></span></span><br>   </code></pre>
+<h3>Accessible Links Crazy Cats Coffee Code Example</h3>
+<pre class="language-html"><code class="language-html"><br><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>footer</span><span class="token punctuation">></span></span></code></pre>
+<h2>Links Within Pages</h2>
+<p><strong>What are links within pages?</strong></p>
+<p>Sema</p>
+<p><strong>Why should developers use links within pages?</strong></p>
+<ol>
+<li>Th</li>
+</ol>
+<p><strong>How to use links within pages in your code</strong>:</p>
+<ol>
+<li>Use</li>
+</ol>
+<h3>Links Within Pages Template</h3>
+<pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>h1</span><span class="token punctuation">></span></span></code></pre>
+<h3>Links Within Pages Crazy Cat Coffee Code Example</h3>
+<pre class="language-html"><code class="language-html"><br><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>main</span><span class="token punctuation">></span></span></code></pre>
+<h3>CSS for Semantic Headings Code Example</h3>
+<pre class="language-css"><code class="language-css"><span class="token selector">h1,<br>h2</span> <span class="token punctuation">{</span><br>	<span class="token property">font-family</span><span class="token punctuation">:</span> <span class="token function">var</span><span class="token punctuation">(</span>--ff-heading<span class="token punctuation">)</span><span class="token punctuation">;</span><br>	<span class="token property">color</span><span class="token punctuation">:</span> <span class="token function">var</span><span class="token punctuation">(</span>--clr-spice<span class="token punctuation">)</span><span class="token punctuation">;</span><br>	<span class="token property">text-align</span><span class="token punctuation">:</span> center<span class="token punctuation">;</span><br>	<span class="token property">padding</span><span class="token punctuation">:</span> 2rem 0<span class="token punctuation">;</span><br><span class="token punctuation">}</span><br><br><span class="token selector">h3</span> <span class="token punctuation">{</span><br>	<span class="token property">color</span><span class="token punctuation">:</span> <span class="token function">var</span><span class="token punctuation">(</span>--clr-spice<span class="token punctuation">)</span><span class="token punctuation">;</span><br>	<span class="token property">text-decoration</span><span class="token punctuation">:</span> underline<span class="token punctuation">;</span><br><span class="token punctuation">}</span><br><br><span class="token selector">%% UTILITY CLASS <br>- THIS CHANGES THE STYLING OF THE h3 ABOVE TO BE CLOSER TO THE H2 <br>- WITHOUT CHANGING THE OUTLINE/HEADING LEVEL%%<br><br>font--like-h2</span> <span class="token punctuation">{</span><br>	<span class="token property">font-family</span><span class="token punctuation">:</span> <span class="token function">var</span><span class="token punctuation">(</span>--ff-heading<span class="token punctuation">)</span><span class="token punctuation">;</span><br>	<span class="token property">color</span><span class="token punctuation">:</span> <span class="token function">var</span><span class="token punctuation">(</span>--clr-spice<span class="token punctuation">)</span><span class="token punctuation">;</span><br>	<span class="token property">text-align</span><span class="token punctuation">:</span> center<span class="token punctuation">;</span><br>	<span class="token property">padding</span><span class="token punctuation">:</span> 2rem 0<span class="token punctuation">;</span><br><span class="token punctuation">}</span></code></pre>
+<h2>Prefers Reduced Motion</h2>
+<p><strong>What is prefers reduced motion?</strong></p>
+<ul>
+<li>CSS that respects users preferences for reduced or no motion and animations</li>
+</ul>
+<p><strong>Why should developers include prefers reduced motion in our code?</strong></p>
+<ol>
+<li>Motion can trigger seizures, migraines, vertigo, and be painful for users with sight loss, and/or other disabilities and medical conditions.</li>
+<li>Yes, animations are cool! But risking a user being in pain or even having an ambulance ride from your animations isn't cool.</li>
+<li>Respecting users' preferences helps keep users on your site, and reduces the chance they leave your site and never visit again.</li>
+</ol>
+<p><strong>How can I include prefers reduced motion in my code?</strong></p>
+<ol>
+<li>There are many ways to implement prefers reduced motion. The simplest is below.</li>
+<li>For every animated element include it's class name inside of an @media query in your css.</li>
+<li>There's some really awesome, but more complex ways to implement prefers reduced motion, css that only implements animations and transitions if a user hasn't set their preferences.
+<ol>
+<li>But again, the goal of this article is &quot;quick accessibility tips&quot;.</li>
+<li>See <a href="https://www.smashingmagazine.com/2021/10/respecting-users-motion-preferences/?utm_source=pocket_saves">Respecting Users’ Motion Preferences</a> by Michelle Barker on Smashing Magazine for an in-depth 12-minute read on different ways to implement prefers reduced motion.</li>
+</ol>
+</li>
+</ol>
+<pre class="language-css"><code class="language-css"><span class="token atrule"><span class="token rule">@media</span> <span class="token punctuation">(</span><span class="token property">prefers-reduced-motion</span><span class="token punctuation">:</span> reduce<span class="token punctuation">)</span></span> <span class="token punctuation">{</span><br>  <span class="token selector">.your-element-name</span> <span class="token punctuation">{</span><br>    <span class="token property">animation</span><span class="token punctuation">:</span> none<span class="token punctuation">;</span><br>  <span class="token punctuation">}</span><br>  <span class="token selector">.your-other-element-name</span> <span class="token punctuation">{</span><br>    <span class="token property">animation</span><span class="token punctuation">:</span> none<span class="token punctuation">;</span><br>  <span class="token punctuation">}</span><br><span class="token punctuation">}</span></code></pre>
+<pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>button</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>btn--cta<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><br>		Book your holiday party<br>		<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>span</span><span class="token punctuation">></span></span> - 10% off until Nov 15th!<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>span</span><span class="token punctuation">></span></span><br><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>button</span><span class="token punctuation">></span></span></code></pre>
+<pre class="language-css"><code class="language-css"><br><span class="token selector">.btn--cta</span> <span class="token punctuation">{</span><br>  <span class="token property">border</span><span class="token punctuation">:</span> 5px solid transparent<span class="token punctuation">;</span><br>  <span class="token property">background</span><span class="token punctuation">:</span> <span class="token function">var</span><span class="token punctuation">(</span>--clr-spice<span class="token punctuation">)</span><span class="token punctuation">;</span><br>  <span class="token property">color</span><span class="token punctuation">:</span> <span class="token function">var</span><span class="token punctuation">(</span>--clr-white<span class="token punctuation">)</span><span class="token punctuation">;</span><br>	<span class="token property">text-transform</span><span class="token punctuation">:</span> uppercase<span class="token punctuation">;</span><br>	<span class="token property">width</span><span class="token punctuation">:</span> 20rem<span class="token punctuation">;</span><br>  <span class="token property">border-radius</span><span class="token punctuation">:</span> 42px<span class="token punctuation">;</span><br>  <span class="token property">padding</span><span class="token punctuation">:</span> 15px 30px<span class="token punctuation">;</span><br>	<span class="token property">margin-bottom</span><span class="token punctuation">:</span> 2rem<span class="token punctuation">;</span><br>  <span class="token property">overflow</span><span class="token punctuation">:</span> hidden<span class="token punctuation">;</span><br>  <span class="token property">transition</span><span class="token punctuation">:</span> <br>    all        1.2s<span class="token punctuation">,</span><br>    border     0.5s 1.2s<span class="token punctuation">,</span><br>    box-shadow 0.3s 1.5s<span class="token punctuation">;</span><br>  <span class="token property">white-space</span><span class="token punctuation">:</span> nowrap<span class="token punctuation">;</span><br>  <span class="token property">text-indent</span><span class="token punctuation">:</span> 23px<span class="token punctuation">;</span><br>  <span class="token property">font-weight</span><span class="token punctuation">:</span> bold<span class="token punctuation">;</span><br>  <span class="token selector">span</span> <span class="token punctuation">{</span><br>    <span class="token property">display</span><span class="token punctuation">:</span> inline-block<span class="token punctuation">;</span><br>    <span class="token property">transform</span><span class="token punctuation">:</span> <span class="token function">translateX</span><span class="token punctuation">(</span>300px<span class="token punctuation">)</span><span class="token punctuation">;</span><br>    <span class="token property">font-weight</span><span class="token punctuation">:</span> normal<span class="token punctuation">;</span><br>    <span class="token property">opacity</span><span class="token punctuation">:</span> 0<span class="token punctuation">;</span><br>    <span class="token property">transition</span><span class="token punctuation">:</span> <br>      opacity 0.1s 0.5s<span class="token punctuation">,</span><br>      transform 0.4s 0.5s<span class="token punctuation">;</span><br>  <span class="token punctuation">}</span><br>  <span class="token selector">&amp;:hover</span> <span class="token punctuation">{</span><br>    <span class="token property">text-indent</span><span class="token punctuation">:</span> 0<span class="token punctuation">;</span><br>		<span class="token property">width</span><span class="token punctuation">:</span> 30rem<span class="token punctuation">;</span><br>    <span class="token property">background</span><span class="token punctuation">:</span> <span class="token function">var</span><span class="token punctuation">(</span>--clr-holiday-green<span class="token punctuation">)</span><span class="token punctuation">;</span><br>    <span class="token property">color</span><span class="token punctuation">:</span> #FFE8A3<span class="token punctuation">;</span><br>    <span class="token property">border</span><span class="token punctuation">:</span> 10px solid <span class="token function">var</span><span class="token punctuation">(</span>--clr-holiday-purple<span class="token punctuation">)</span><span class="token punctuation">;</span><br>		<span class="token property">padding-right</span><span class="token punctuation">:</span> 20px<span class="token punctuation">;</span><br>    <span class="token property">box-shadow</span><span class="token punctuation">:</span> 3px 3px 2px <span class="token function">rgba</span><span class="token punctuation">(</span>black<span class="token punctuation">,</span> 0.15<span class="token punctuation">)</span><span class="token punctuation">;</span><br>    <span class="token selector">span</span> <span class="token punctuation">{</span><br>      <span class="token property">transform</span><span class="token punctuation">:</span> <span class="token function">translateX</span><span class="token punctuation">(</span>0<span class="token punctuation">)</span><span class="token punctuation">;</span><br>      <span class="token property">opacity</span><span class="token punctuation">:</span> 1<span class="token punctuation">;</span><br>    <span class="token punctuation">}</span><br>  <span class="token punctuation">}</span><br><span class="token punctuation">}</span></code></pre>
+<h2>Skip to Main Content</h2>
+<p><strong>What is skip to main content?</strong></p>
+<p>A simple link at the top of the page that allows users to skip hearing the navigation, banner, icons, logos, and get right to the main content.</p>
+<p><strong>Why should developers use skip to main content?</strong></p>
+<ol>
+<li>This allows users to get to the main content and enjoy it - rather than be annoyed at hearing the entire navigation, banner, logos, icons and other header information read out loud.
+<ol>
+<li>You wouldn't want to spend all the time and effort to develop and maintain a site, only to annoy your users.</li>
+</ol>
+</li>
+</ol>
+<p><strong>How can you include a skip to main content in your code?</strong></p>
+<ol>
+<li>The simplest way is to include a visible link before any of your page content - right below the header tag. This is the method we're using here.</li>
+<li>You can also use css, or css and some javascript to make the link visible only on keyboard focus to screen reader users.
+<ol>
+<li>As the theme of this article is <em>&quot;quick a11y tips&quot;</em>, I'm not getting into the different options for hiding and showing the link here.</li>
+</ol>
+</li>
+</ol>
+<h3>Skip to Main Content template</h3>
+<pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>header</span><span class="token punctuation">></span></span><br>	<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>a</span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>#main<span class="token punctuation">"</span></span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>skipToMain<span class="token punctuation">"</span></span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>a11y--skip-to-main<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>Skip to main content<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>a</span><span class="token punctuation">></span></span><br><br>%% other header content such as your nav, site logo, branding %%<br><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>header</span><span class="token punctuation">></span></span></code></pre>
+<h3>Skip to Main Content code example</h3>
+<pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>header</span><span class="token punctuation">></span></span><br>	<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>a</span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>#main<span class="token punctuation">"</span></span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>skipToMain<span class="token punctuation">"</span></span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>a11y--skip-to-main<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>Skip to main content<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>a</span><span class="token punctuation">></span></span><br>	<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>nav</span> <span class="token attr-name">aria-label</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>Primary navigation<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><br>		<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>ul</span><span class="token punctuation">></span></span><br>			<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>li</span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>a</span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>/<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>Home<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>a</span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>li</span><span class="token punctuation">></span></span><br>			<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>li</span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>a</span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>/menu<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>Menu<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>a</span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>li</span><span class="token punctuation">></span></span><br>			<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>li</span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>a</span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>/cats<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>The Cats<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>a</span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>li</span><span class="token punctuation">></span></span><br>		<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>ul</span><span class="token punctuation">></span></span><br>	<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>nav</span><span class="token punctuation">></span></span><br><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>header</span><span class="token punctuation">></span></span></code></pre>
+<h3>Putting it All Together</h3>
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="rNPjmXG" data-user="gingerkiwi" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/gingerkiwi/pen/rNPjmXG">
+  CrazyCatsCoffee_A11y</a> by GingerKiwi (<a href="https://codepen.io/gingerkiwi">@gingerkiwi</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<h2>Credits</h2>
+<ol>
+<li>Animated call to action button was restyled from [Izzat Azmi's code pen](https://codepen.io/IzzatAzmi/pen/KWemrY?editors=0100 */)</li>
+</ol>
+
+        
+     
+      </article>
+    </main>
+  </div>
+  
+</html>
+
+        </div>
+    </body>
+        <footer>
+  <p class="footer-font"><strong>Ginger Kiwi</strong></p>
+  <img
+    src="/assets/avatar.png"
+    alt="a redhead woman with a ponytail behind a laptop computer"
+    class="logo-img"
+  />
+  <p class="footer-font">Copyright &copy;  Elizabeth McCready, 2023</p>
+  
+<nav class="a11y-webring-club" aria-labelledby="a11y-webring-club">
+  <h2 id="a11y-webring-club">a11y-webring.club</h2>
+  <p>This site is a member of the <a rel="external" class="footer-link" href="https://a11y-webring.club/">a11y-webring.club</a>.</p>
+  <ul class="link-white-hover">
+    <li><a rel="external" referrerpolicy="strict-origin" class="footer-link" href="https://a11y-webring.club/prev">Previous website</a></li>
+    <li><a rel="external" referrerpolicy="strict-origin" class="footer-link" href="https://a11y-webring.club/random">Random website</a></li>
+    <li><a rel="external" referrerpolicy="strict-origin" class="footer-link" href="https://a11y-webring.club/next">Next website</a></li>
+  </ul>
+</nav>
+</footer>
+</html>
