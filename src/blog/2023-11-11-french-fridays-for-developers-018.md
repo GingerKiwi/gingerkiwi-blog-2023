@@ -31,7 +31,7 @@ Today is my:
 
 Here's this week's French for Devs quote and translation. 
 
-Week 16, 29 septembre 2023
+Semaine, 11 octobre 2023
 
 >*«Le débogage, c'est comme être un détective dans un film policier où vous êtes aussi le meurtrier»* <br>
 >~ Anonyme
