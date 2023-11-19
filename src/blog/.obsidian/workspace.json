@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-17-french-fridays-for-developers-017.md",
+                "file": "2023-11-21-how-to-choose-colours-and-fonts-for-your-app-for-backend-devs.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-17-french-fridays-for-developers-017.md",
+                "file": "2023-11-21-how-to-choose-colours-and-fonts-for-your-app-for-backend-devs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-17-french-fridays-for-developers-017.md",
+                "file": "2023-11-21-how-to-choose-colours-and-fonts-for-your-app-for-backend-devs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-17-french-fridays-for-developers-017.md"
+                "file": "2023-11-21-how-to-choose-colours-and-fonts-for-your-app-for-backend-devs.md"
               }
             }
           },
@@ -188,8 +188,9 @@
   },
   "active": "f9cad01d0cbf5557",
   "lastOpenFiles": [
-    "2023-11-11-french-fridays-for-developers-018.md",
     "2023-11-17-french-fridays-for-developers-017.md",
+    "2023-11-21-how-to-choose-colours-and-fonts-for-your-app-for-backend-devs.md",
+    "2023-11-11-french-fridays-for-developers-018.md",
     "2023-11-07-a-handful-of-quick-a11y-tips-for-devs.md",
     "2023-11-14-quick-a11y-tips-for-devs-02-links-within-pages.md",
     "2023-11-14-quick-a11y-tips-for-devs-03-links-navigation.md",
@@ -213,7 +214,6 @@
     "2023-05-05-french-fridays-for-developers-week06.md",
     "2023-03-31-french-fridays-for-developers-week05.md",
     "2023-03-24-french-fridays-for-devs-week04.md",
-    "2023-03-17-french-fridays-for-devs-week03.md",
     "themes",
     "2023-03-19-100-days-of-code-week-06-days-126-130",
     "Untitled.canvas"
