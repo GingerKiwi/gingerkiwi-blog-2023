@@ -40,6 +40,10 @@ layout: 'base.njk'
       <p>This morning (Tuesday, Nov 07), I saw that Lazar Nikolov has <a href="https://egghead.io/courses/build-a-full-stack-blog-with-astro-7ffcf9ec" rel="noreferrer" rel=”noopener” target=”_blank”>a new Astro blog course</a> that's free on Egghead.io for the next two weeks. So here we go! I've started working on a new site that consolodates this blog with my .dev portfolio site.</p>
       
     </article>
+    <h2>Recent Articles</h2>
+    {# ====================================== #}
+    {# Recent Articles #}
+    {# ====================================== #}
 {# ====================================== #}
       <ul role="list" class="articles__list flow"> 
         {%- for post in collections.featured| reverse -%}

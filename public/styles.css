@@ -20,6 +20,7 @@
     --header-colour-1: hsl(0, 0%, 97%); /* hex: F8F8F8| ver 1.0 was named off-white */
     --accent-2: hsl(337, 74%, 45%); /* hex: #c71e5f | ver 1.0 was named medium-blue */
     --accent-1: hsl(16, 69%, 42%); /* hex: b44821 | ver 1.0 was named dark-blue */
+    --accent-3: #be185d;
     --nav-accent-1: hsl(0, 0%, 44%); /* hex: 707070 | ver 1.0 was named medium-grey-1 */
     --medium-grey-2: hsl(0, 0%, 44%); /* hex: 717171 | ver 1.0 was named medium-grey-2 */
 
@@ -97,12 +98,22 @@ h4 {
 }
 
 a {
-    color: var(--accent-2);
+    color: var(--accent-3);
+    font-weight: bolder;
 }
 
 a:hover,
 a:focus {
     color: var(--accent-1);
+    font-weight: bold;
+    font-size: large;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid var(--nav-accent-1);
+    margin: 2em 0;
+
 }
 
 strong {

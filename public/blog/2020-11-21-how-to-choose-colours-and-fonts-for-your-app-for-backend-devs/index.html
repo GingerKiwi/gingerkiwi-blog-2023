@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Ginger Kiwi blog: Exploring Web development, accessibility, and design">
+    <meta name="author" content="Elizabeth McCready" />
+    <link rel="shortcut icon" type="image/png" href="/assets/blog/favicon-2.png" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Marcellus&family=Marcellus+SC&family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css" />
+
+    
+    <link href="https://unpkg.com/prismjs@1.20.0/themes/prism-okaidia.css" rel="stylesheet">
+    <title>Design Tools and Tips for Backend Developers - Part 02: How to Choose a Colour Pallet and Fonts 101</title>
+    <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
+
+  </head>
+        
+    <body>
+        
+        <header>
+  <div class="container container-flex">
+    <div class="site-title">
+      <h1 class="h1-brand">Ginger Kiwi</h1>
+      <p class="subtitle">Exploring technology, design, and accessibility</p>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/projects">Projects</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+  <!-- / .container -->
+</header>
+
+  <div class="container container-flex">
+    <main role="main" class="full-article">
+      <article class="article-featured">
+        
+        <h2 class="article-title full-article-title">Design Tools and Tips for Backend Developers - Part 02: How to Choose a Colour Pallet and Fonts 101</h2>
+        <img
+            src="/assets/blog/2023-08-08_charlesdeluvio-cZr2sgaxy3Q-unsplash.jpg"
+            alt="&#39;Photo of two black cell phones. The one on the upper left is showing an app login screen with a black background. It has the option to sign in with Apple or with Google. The app is named byte. there are multiple colourful small shapes swirling around the background. The second phone in the lower left shows the same app after login. It&#39;s also a black background. The top has a search bar that says &quot;user name&quot; Then there is an orange-yellow area that says &quot;Spotlight&quot; with stars around it. Underneath is a light blue area that says &quot;Popular Now&quot;, then another area that&#39;s purple that says &quot;Experimental, New &amp; Trending&quot; finally there&#39;s two side by side squares with no text. The on on the left is yellow ith an open banana. The one on the left is very light green with a lilly pad with a pink flower.&#39;"
+            class="article-image article-recent-image full-article-image"
+        />
+        <p class="article-info">Nov 20, 2023</p>
+        <h1>DRAFT</h1>
+<p>This is second in a series of articles on tips and tricks for UI design and CSS - both for backend dev, and new developers. There's <a href="#about-this-series">more about this series</a> below. But <a href="#todays-topic">let's get started!</a></p>
+<p><em>Note: If you're viewing this on gingerkiwi.blog some of the headings and links may look a little weird. I'm working on a new fullstack Astro site which will have nice styling for in-page links, along with a ton of other design and accessibility improvements. It's being built as a dark theme first, with a theme switcher to be added. The <a href="https://gingerkiwi.xyz">new Astro site</a>is being built in public at a temporary url. It will be moved to <a href="https://gingerkiwi.dev">https://gingerkiwi.dev</a> in the next few weeks (November and December, 2023)</em>.</p>
+<h2><h2 id="todays-topic">Today's Topic</h2></h2>
+<p><strong>Today we're looking at how to choose a beautiful and accessible colour pallet and fonts (typography) for your app.</strong> We'll be using the <a href="https://tailwindcss.com/docs/customizing-colors">Tailwind CSS colors page</a> as our starting point. <strong>You don't have to use Tailwind in your project</strong>, but the nice grid of Tailwind colours page helps keep things simple - a grid is far easier than a colour wheel.<strong>This process should take about 15-30 minutes.</strong> However, it could be as long as an hour if you spend more time trying different options out.</p>
+<h2>Contents: The Tools and The Five Steps</h2>
+<p>There's a selection of tools, and five simple steps to follow. Feel free to skip the &quot;About this article series&quot; section if you just want to get going.</p>
+<ol>
+<li><a href="#about-this-series">About this article series </a></li>
+<li><a href="#tools-overview">Tools used: Overview</a></li>
+<li><a href="#tools-setup">Tools: Setup and organize your tools</a></li>
+<li><a href="#tools-links-to-open">Tools: Links to have open</a></li>
+<li><a href="#step-1">Step 1: Choose your favourite colour</a> from the Tailwind colour page</li>
+<li><a href="#step-2">Step 2: Create a colour pallet with the colour calculator.</a></li>
+<li><a href="#step-3">Step 3: Convert your three colours to Tailwind colours</a></li>
+<li><a href="#step-4">Step 4: Choose a header and a body font from Google Fonts</a></li>
+<li><a href="#step-5">Step 5: Visualize your colours and fonts</a> using Real Time Colours</li>
+<li><a href="#resources-and-readings">Resources and recommended readings</a></li>
+</ol>
+<h2 id="about-this-series">About The Design Tips for Backend Devs Series</h2>
+<p><strong>Does the following sound familiar?</strong> You have a great idea for an app, but have no idea where to start with the frontend. But it needs a frontend! So you cobble together some Bootstrap CSS, but it still doesn't look as cool as its functionality, the layout is weird, it's failing accessibility testing, and you're swearing at whoever invented CSS (Håkon Wium Lie). Basically, the awesome fullstack app that you spent ages coding and debugging looks like 💩!</p>
+<p>This series is designed to give backend devs and new devs a helping hand with design - we're all part of the awesome global dev community after all! It's much easier to focus on coding if you have a starting point in the design of the frontend.</p>
+<p>Accessibility tips are also integrated. This decreases tech debt, keeps more users on your site (20% of people are disabled, Deaf/deaf, and/or neurodivergent), and is a legal requirement.</p>
+<p>Note: This series is aimed at developers who are uncomfortable with design. So some of the methods, tools, and tips are ones that I wouldn't necessarily recommend to those comfortable and/or experienced in UI design, graphic design, or other art. I also skip over some of the more design geek topics and theory. But resources and recommended readings are included. All the articles give simple ways to just get something done so developers can move on to what they're passionate about.</p>
+<h2 id="tools-overview">Tools Used in This Article</h2>
+<p>There's so many tools on the web that can help you design a colour pallet and typography for websites and mobile apps. I've chosen the following set because it's worked for myself, and for when I helped my Toronto Javascript coding buddy with his new Astro site. Using the Tailwind CSS Colours has two added bonuses. It's lovely colour grid keeping things organized. It's also simple to implement the colour pallet and fonts if you happen to be using Tailwind.</p>
+<h3>Setup and Organize Your Tools</h3>
+<p>Before diving in it's important to be organized. Things will go faster and you'll be able to get back to your awesome app's code sooner.</p>
+<ol>
+<li>Open the websites and tools listed below.</li>
+<li>Arrange them in tabs from left to right in your browser of choice.</li>
+<li>You will also need a place to take notes. A markdown file or Notion.io is ideal for this because you can add code blocks, but a Word or Google doc works perfectly fine.</li>
+</ol>
+<h3>Links to Have Open - In Order</h3>
+<ol>
+<li><a href="https://tailwindcss.com/docs/customizing-colors">Tailwind CSS colours page</a></li>
+<li><a href="https://tailwind-color-finder.vercel.app">Tailwind to Hex converter</a></li>
+<li><a href="https://www.sessions.edu/color-calculator/?utm_source=pocket_saves">Sessions College Colour Calculator</a></li>
+<li><a href="">Realtime Colours</a></li>
+<li><a href="https://fonts.google.com/?classification=Display">Google Fonts - display fonts</a> This is for your headings</li>
+<li><a href="https://fonts.google.com/?stroke=Sans+Serif">Google Fonts - sans serif</a>This is for your body text</li>
+</ol>
+<hr>
+<h2 id="step-1">Step 1: Choose Your Favourite Colour on the Tailwind Colours Page</h2>
+<h3>Substeps</h3>
+<ul>
+<li>1a. Go to the first tab you have open.</li>
+<li>1b. Choose your favourite colour row.</li>
+<li>1c. Write down the name of the colour row</li>
+<li>1d. Click on the 700 value of your colour</li>
+</ul>
+<h3>Example</h3>
+<ul>
+<li>Favourite colour:</li>
+</ul>
+<h2 id="step-2">Step 2: Use the Color Calculator to Create a Pallet</h2>
+<h3>Substeps</h3>
+<ul>
+<li>1a. Go to the Sessions Color Calculator tab</li>
+<li>1b. Scroll down until you see the colour wheel</li>
+<li>1c. Paste your Tailwind 800 colour in the &quot;1. Pick a colour&quot; text box.</li>
+<li>1d. In &quot;Step 2: Colour Harmonies&quot; select one of the 3, three-colour harmonies after reading the section on &quot;Selecting a colour harmony&quot; below.</li>
+</ul>
+<h4>Selecting a colour harmony</h4>
+<p><strong>What are colour harmonies?</strong> Colour harmonies are sets of colours that work well together given their mathematical relationship to each other on the colour wheel. (Yes, there's math in art - and a whole bunch if you're a knitter and knitting designer as well as a developer!)</p>
+<p><strong>We're only going to choose between the 3, three-colour harmonies in step two in the Sessions College tool : the 3rd, 4th, and 5th options</strong>  I could - and have in my university art courses - written thousands of words just on colour theory. Let's just skip that and quickly choose one of three options based on your goals and audience for your app.</p>
+<p>From left to right, starting at the 3rd option on this tool the colour harmony choices are:</p>
+<ol>
+<li>Analogous: this is the three dots close to each other</li>
+<li>Split complimentary: This is the skinny (isosceles) triangle</li>
+<li>Triadic: This is the equilateral triangle</li>
+</ol>
+<p>Ok, but which ones should you choose? Lets' skip the thousands of words of colour theory and psychology again, and quickly choose one based on the following:</p>
+<ol>
+<li>Split complimentary: Unless you're audience is one of the two below start with the split complimentary. It's a nice happy middle.</li>
+<li>Analogous: If you have a <strong>very formal audience</strong> like a banking app or something for a legal firm or government department.</li>
+<li>Triadic: If you have a very vibrant and fun app,  or your app features an important call to action.</li>
+</ol>
+<h3>Substeps Continued</h3>
+<ul>
+<li>1e. Click on the chosen colour harmony.
+<em>Note: If you're using the split complimentary colour harmony and you hate one of the colours use Triadic instead.</em></li>
+</ul>
+<h3>Example: Choosing a Colour Harmony</h3>
+<p>...</p>
+<h2 id="step-3">Step 3: Convert Your Colours to Tailwind Colours</h2>
+<h3>Substeps</h3>
+<h3>Example</h3>
+<h2 id="step-4">Step 4: Choose Fonts From Google Fonts</h2>
+<h3>Substeps</h3>
+<h3>Example</h3>
+<h2 id="step-5">Step 5: Visualize Your Colours and Fonts</h2>
+<h3>Substeps</h3>
+<h3>Example</h3>
+<h2 id="resources-and-readings">Resources </h2>
+<p>If you want to learn more about colour theory here's a few resources to get you started.</p>
+<ul>
+<li>Cameron Chapman's <a href="https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/">5 Part Series</a>on Colour Theory, visual perception, and typography in <a href="https://www.smashingmagazine.com/">Smashing Magazine</a></li>
+<li>Interaction Design Foundation <a href="https://www.interaction-design.org/literature/topics/color-theory">What is Color Theory?</a></li>
+<li>Jane Hannah <a href="https://careerfoundry.com/en/blog/ui-design/introduction-to-color-theory-and-color-palettes/#:~:text=The%20color%20wheel%20doesn%E2%80%99t%20just%20chart%20each%20primary%2C,create%20bespoke%20color%20palettes%20that%20promote%20aesthetic%20harmony.">An Introduction to Color Theory and Color Palettes</a>on Career Foundery</li>
+<li>Jane Hannah on LinkedIn <a href="https://www.linkedin.com/in/jaye-hannah-8b50ba120/">Jaye Hannah | LinkedIn</a></li>
+<li>Blender Gruru <a href="https://youtu.be/Qj1FK8n7WgY?si=dmwbJ9HK58nnt0dc">Understanding Colour</a>on YouTube</li>
+<li>Brooklyn Tweed <a href="https://youtu.be/wZSaZWErjLw?si=CMTZ8sbUrkyxXNro"># How to Knit: Selecting Colors for Colorwork</a> <em>Yes, I had to slip a knitting reference in!</em></li>
+</ul>
+
+        
+     
+      </article>
+    </main>
+  </div>
+  
+</html>
+
+        </div>
+    </body>
+        <footer>
+  <p class="footer-font"><strong>Ginger Kiwi</strong></p>
+  <img
+    src="/assets/avatar.png"
+    alt="a redhead woman with a ponytail behind a laptop computer"
+    class="logo-img"
+  />
+  <p class="footer-font">Copyright &copy;  Elizabeth McCready, 2023</p>
+  
+<nav class="a11y-webring-club" aria-labelledby="a11y-webring-club">
+  <h2 id="a11y-webring-club">a11y-webring.club</h2>
+  <p>This site is a member of the <a rel="external" class="footer-link" href="https://a11y-webring.club/">a11y-webring.club</a>.</p>
+  <ul class="link-white-hover">
+    <li><a rel="external" referrerpolicy="strict-origin" class="footer-link" href="https://a11y-webring.club/prev">Previous website</a></li>
+    <li><a rel="external" referrerpolicy="strict-origin" class="footer-link" href="https://a11y-webring.club/random">Random website</a></li>
+    <li><a rel="external" referrerpolicy="strict-origin" class="footer-link" href="https://a11y-webring.club/next">Next website</a></li>
+  </ul>
+</nav>
+</footer>
+</html>

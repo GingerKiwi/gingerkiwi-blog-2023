@@ -1,14 +1,22 @@
 ---
-title: >
- Design Tools and Tips for Backend Developers - Part 01: Finding Design Files and Figma to Code 101
+title: |
+  Design Tools and Tips for Backend Developers - Part 01: Finding Design Files and Figma to Code 101
 date: 2023-08-08
-tags: ["post", "featured", "design", "css", "figma", "backend", "tools", "tips"]
-image: '/assets/blog/2023-08-08_charlesdeluvio-cZr2sgaxy3Q-unsplash.jpg'
-imageAlt: >
- 'Photo of two black cell phones. The one on the upper left is showing an app login screen with a black background. It has the option to sign in with Apple or with Google. The app is named byte. there are multiple colourful small shapes swirling around the background. The second phone in the lower left shows the same app after login. It's also a black background. The top has a search bar that says "user name" Then there is an orange-yellow area that says "Spotlight" with stars around it. Underneath is a light blue area that says "Popular Now", then another area that's purple that says "Experimental, New & Trending" finally there's two side by side squares with no text. The on on the left is yellow ith an open banana. The one on the left is very light green with a lilly pad with a pink flower.'
-imageCaption: 'ADD CAPTION'
-description: >
- This is the first in a series of articles on tips and tricks for web and app design - both for backend dev, and new developers. Every time I get in a discussion with backend or sometimes full-stack devs that prefer the backend, they say that one reason they prefer backend is that they're "not good at design". However, with a few simple tools and tips even those scared of design can become more comfortable in designing good looking apps. Today we're looking at where to find Figma design files and then how to quickly use them to get started coding.
+tags:
+  - post
+  - design
+  - css
+  - figma
+  - backend
+  - tools
+  - tips
+  - featured
+image: /assets/blog/2023-08-08_charlesdeluvio-cZr2sgaxy3Q-unsplash.jpg
+imageAlt: |
+  'Photo of two black cell phones. The one on the upper left is showing an app login screen with a black background. It has the option to sign in with Apple or with Google. The app is named byte. there are multiple colourful small shapes swirling around the background. The second phone in the lower left shows the same app after login. It's also a black background. The top has a search bar that says "user name" Then there is an orange-yellow area that says "Spotlight" with stars around it. Underneath is a light blue area that says "Popular Now", then another area that's purple that says "Experimental, New & Trending" finally there's two side by side squares with no text. The on on the left is yellow ith an open banana. The one on the left is very light green with a lilly pad with a pink flower.'
+imageCaption: ADD CAPTION
+description: |
+  This is the first in a series of articles on tips and tricks for web and app design - both for backend dev, and new developers. Every time I get in a discussion with backend or sometimes full-stack devs that prefer the backend, they say that one reason they prefer backend is that they're "not good at design". However, with a few simple tools and tips even those scared of design can become more comfortable in designing good looking apps. Today we're looking at where to find Figma design files and then how to quickly use them to get started coding.
 ---
 Every time I get in a discussion with backend or sometimes full-stack devs that prefer the backend, they say that one reason they prefer backend is that they're "not good at design". But just like anyone can learn the basics of coding, anyone can learn the basics of design. With a few simple tools and tips, even those scared of design can become more comfortable in designing good looking apps. 
 
