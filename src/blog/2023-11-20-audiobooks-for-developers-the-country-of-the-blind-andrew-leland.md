@@ -28,15 +28,16 @@ It's also a story of growing up with family, retinal specialists, and family doc
 1. **About this book or podcast**: See the first paragraph above!
 2. . **Why I'm recommending it**
 	- It's read by the author and read well. There's always something a bit more special and real when it's the author reading their non-fiction book.
-	- Andrew Leland is a fantastic professional writer who comes from a family of writers and creatives - and it shows. He's also a podcaster, editor, and non-fiction writing teacher.
 	- It combines three of my favourite topics: history of technology, blindness and disability, and assistive tech, all while telling a story.
 	- There's little realization in the general public of how much the blind community has innovated, how far back that innovation goes, and how much those innovations affect our everyday lives - especially as developers and tech professionals. 
 3. **Who the author is**.
-4. **A couple of links to the book and author**
+	-  Andrew Leland is a fantastic professional writer who comes from a family of writers and creatives - and it shows. 
+	- He's also a podcaster, editor, and non-fiction writing teacher.
+1. **A couple of links to the book and author**
 	1. [Andrew Leland's website](https://www.andrewleland.org)
 	2. Wikipedia page for [Andrew Leland's grandfather Neil Simon](https://en.wikipedia.org/wiki/Neil_Simon) playwrite and screenwriter
 
-_**A pip for busy devs: If you don't have a lot of time to listen, start with "Chapter 7: The Makers"**_
+_**A tip for busy devs: If you don't have a lot of time to listen, start with "Chapter 7: The Makers"**_
 
 <hr>
 
@@ -240,12 +241,20 @@ I'm working on switching from Google Workspace to Microsoft. Instead of research
 Look for more articles on Microsoft Accessibility features in both the "Tips and Tools for Devs" series and the "A11y Tips for Devs" series.
 ### Tomorrow: First EDS Clinic
 
-In May of 2022 I won the family doctor lottery, and found an amazing family doctor who actually listens. She's given me a provisional clinical diagnosis of hypermobile EDS (hEDS). It's the most common type of EDS. Unlike the other 12 types, there's no genetic test for hEDS. She's also done a ton of referrals. Tomorrow I finally have my intake appointment at the GoodHope Ehlers-Danlos Symptom Clinic here in Toronto. It's the only one in Canada. 
+In May of 2022 I won the family doctor lottery, and found an amazing family doctor who actually listens. She's given me a provisional clinical diagnosis of hypermobile EDS (hEDS). It's the most common type of EDS. Unlike the other 12 types, there's no genetic test for hEDS. She's also done a ton of referrals. 
+
+Tomorrow I finally have my intake appointment at the GoodHope Ehlers-Danlos Symptom Clinic here in Toronto. It's the only one in Canada. Then it's back to finishing my new, more accessible blog using Astro, Typescript, Next.js, Drizzle ORM, and Better SQLite.
+
+## The Country of The Blind: Definitely Motivating.
+
+Give Andrew Leland's _"The Country of the Blind"_ a listen. It definitely fits the brief of being a Motivational Monday audiobook - this article is 6,000 words!
 
 ___
 ......
 
-Note: Parts of this reflection, especially the first few paragraphs are a rewrite of my earlier article _"How Having Surgery for a Hole in My Retina Led to Teaching Myself Adobe Xd Yesterday"_ from April, 2021.
+Notes: 
+1. As this will one of the first articles moved over to my new full stack site, I've left out some images I'd like to included, and left many of the in text links out of the "References and Recommended Readings" section below.
+2. Parts of this reflection, especially the first few paragraphs are a rewrite of my earlier article _"How Having Surgery for a Hole in My Retina Led to Teaching Myself Adobe Xd Yesterday"_ from April, 2021.
 
 ## References and Recommended Reading/Viewing
 
