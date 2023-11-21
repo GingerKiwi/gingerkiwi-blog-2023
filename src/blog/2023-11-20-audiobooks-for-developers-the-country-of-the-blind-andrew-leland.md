@@ -123,7 +123,7 @@ While I could have gone into geographical information systems (GIS) or another t
 
 Then one day, the head of special education and guidance asked me if I'd be willing to be the private tutor of one of my students. The tutor his parents paid directly to tutor him at home had moved out of town, and they were looking for someone to continue to support him at home. They'd asked his high school for a recommendation. Because I already had a working relationship with him, and understood his needs, my name was top of the list. 
 
-Though word of mouth I soon had many more students, and was running a small group class for grade nine math. All the students had learning disabilities, giftedness, and/or ADHD. Most had test anxiety. Having grown up with my mom having a disability that affected her reading, and thinking that I would likely be blind or low vision, was very helpful in understanding my tutoring students' frustrations and figuring out strategies that would work for them. I continued on tutoring students with liabilities after I graduated.
+Though word of mouth I soon had many more students, and was running a small group class for grade nine math. All the students had learning disabilities, giftedness, and/or ADHD. Most had test anxiety. Having grown up with my mom having a disability that affected her reading, and thinking that I would likely be blind or low vision, was very helpful in understanding my tutoring students' frustrations and figuring out strategies that would work for them. I continued on tutoring students with disabilities after I graduated.
 
 #### Microsoft Windows and Office Instructor, and Assistive Technologist
 
