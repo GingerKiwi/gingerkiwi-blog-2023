@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-25-building-in-public-group-debugging-party.md",
+                "file": "2023-11-27-new-astro-site-update.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-25-building-in-public-group-debugging-party.md",
+                "file": "2023-11-27-new-astro-site-update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-25-building-in-public-group-debugging-party.md",
+                "file": "2023-11-27-new-astro-site-update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-25-building-in-public-group-debugging-party.md"
+                "file": "2023-11-27-new-astro-site-update.md"
               }
             }
           },
@@ -200,8 +200,8 @@
   },
   "active": "f9cad01d0cbf5557",
   "lastOpenFiles": [
-    "2023-11-27-new-astro-site-update 1.md",
     "2023-11-25-building-in-public-group-debugging-party.md",
+    "2023-11-27-new-astro-site-update.md",
     "2023-11-17-french-fridays-for-developers-017.md",
     "2023-11-20-audiobooks-for-developers-the-country-of-the-blind-andrew-leland.md",
     "1999-11-21-how-to-choose-colours-and-fonts-for-your-app-for-backend-devs.md",
