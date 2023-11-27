@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2020-11-21-how-to-choose-colours-and-fonts-for-your-app-for-backend-devs.md",
+                "file": "2023-11-25-building-in-public-group-debugging-party.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-20-audiobooks-for-developers-the-country-of-the-blind-andrew-leland.md",
+                "file": "2023-07-07-french-fridays-for-developers-week14.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.50390243530273,
-    "collapsed": true
+    "width": 242.50390243530273
   },
   "right": {
     "id": "3deda49bd5a9c069",
@@ -119,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-20-audiobooks-for-developers-the-country-of-the-blind-andrew-leland.md",
+                "file": "2023-11-25-building-in-public-group-debugging-party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-20-audiobooks-for-developers-the-country-of-the-blind-andrew-leland.md",
+                "file": "2023-11-25-building-in-public-group-debugging-party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-20-audiobooks-for-developers-the-country-of-the-blind-andrew-leland.md"
+                "file": "2023-11-25-building-in-public-group-debugging-party.md"
               }
             }
           },
@@ -200,34 +198,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b0de270fcafc03c",
+  "active": "f9cad01d0cbf5557",
   "lastOpenFiles": [
-    "2021-05-27-how-having-surgery-for-a-hole-in-my-retina-led-to-teaching-myself-adobe-xd-yesterday.md",
-    "Untitled.md",
-    "2023-11-20-audiobooks-for-developers-the-country-of-the-blind-andrew-leland.md",
-    "2020-11-21-how-to-choose-colours-and-fonts-for-your-app-for-backend-devs.md",
-    "2023-08-08-design-tools-and-tips-for-backend-devs-01.md",
+    "2023-11-27-new-astro-site-update 1.md",
+    "2023-11-25-building-in-public-group-debugging-party.md",
     "2023-11-17-french-fridays-for-developers-017.md",
-    "2023-11-07-a-handful-of-quick-a11y-tips-for-devs.md",
-    "2023-11-11-french-fridays-for-developers-018.md",
-    "2023-11-14-quick-a11y-tips-for-devs-02-links-within-pages.md",
-    "2023-11-14-quick-a11y-tips-for-devs-03-links-navigation.md",
+    "2023-11-20-audiobooks-for-developers-the-country-of-the-blind-andrew-leland.md",
+    "1999-11-21-how-to-choose-colours-and-fonts-for-your-app-for-backend-devs.md",
+    "Untitled.md",
+    "2023-07-07-french-fridays-for-developers-week14.md",
+    "2023-08-08-design-tools-and-tips-for-backend-devs-01.md",
+    "2023-09-08-french-fridays-for-developers-015.md",
+    "2023-09-10-dsa-javascript-arrays-01.md",
+    "2023-09-11-dsa-javascript-arrays-02.md",
+    "2023-09-29-french-fridays-for-developers-016.md",
     "2023-11-03-french-fridays-for-developers-017.md",
+    "2023-11-11-french-fridays-for-developers-018.md",
+    "2023-11-07-a-handful-of-quick-a11y-tips-for-devs.md",
+    "2023-11-14-quick-a11y-tips-for-devs-02-links-within-pages.md",
+    "2023-02-23-good-vs-great-design-ux-and-mobility-aids.md",
+    "2023-02-12-100-days-of-code-days-101-200.md",
+    "2021-05-27-how-having-surgery-for-a-hole-in-my-retina-led-to-teaching-myself-adobe-xd-yesterday.md",
+    "2023-11-14-quick-a11y-tips-for-devs-03-links-navigation.md",
     "2023-09-11-dsa-javascript-arrays-02 copy.md",
     "2023-09-10-dsa-javascript-arrays-01 copy.md",
     "2023-11-07-a-handful-of-quick-a11y-tips-for-devs copy.md",
-    "2023-09-11-dsa-javascript-arrays-02.md",
     "2023-03-13-100-days-of-code-week-05-days-120-125.md",
-    "2023-09-10-dsa-javascript-arrays-01.md",
-    "2023-09-29-french-fridays-for-developers-016.md",
-    "2023-09-08-french-fridays-for-developers-015.md",
-    "2023-07-07-french-fridays-for-developers-week14.md",
     "2023-06-30-french-fridays-for-developers-week13.md",
     "2023-06-23-french-fridays-for-developers-week12.md",
-    "2023-06-16-french-fridays-for-developers-week11.md",
-    "2023-06-09-french-fridays-for-developers-week10.md",
-    "2023-06-02-french-fridays-for-developers-week09.md",
-    "2023-05-26-french-fridays-for-developers-week08.md",
     "themes",
     "2023-03-19-100-days-of-code-week-06-days-126-130",
     "Untitled.canvas"

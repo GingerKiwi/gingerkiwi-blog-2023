@@ -34,7 +34,6 @@
       <ul>
         <li><a href="/" class="current-page">Home</a></li>
         <li><a href="/blog">Blog</a></li>
-        <li><a href="/projects">Projects</a></li>
         <li><a href="/about">About</a></li>
         <li><a href="/contact">Contact</a></li>
       </ul>
@@ -56,9 +55,10 @@
       <p class="article-body">
         <strong> Welcome to the Ginger Kiwi Blog!</strong> This site is developed with 11ty/Eleventy, Nunjucks, markdown, Obsdian, and css with css variables for colours and fonts - and of course lots of "help" from Boo (my grey cat), as well as Maybel and Kitten. Scroll down to see some of my recent and featured articles, or go the the <a href="https://gingerkiwi.blog/blog/">blog page</a> to see all my  articles.</p>
       <h3>Updates for Fall 2023</h3>
-      <p><strong>Nov 13, 2023: Visit <a href="https://gingerkiwi-2024-02.fly.dev rel="noreferrer" rel=”noopener” target=”_blank">https://gingerkiwi-2024-02.fly.dev</a> to see the new combined, fullstack, Ginger Kiwi blog and dev portfolio being built in public on Fly.io using Astro, Docker, and SQLite3!</strong> <br>A static version is also deployed on <a href="https://gingerkiwi.xyz rel="noreferrer" rel=”noopener” target=”_blank">https://gingerkiwi.xyz</a>. <br>My ".xyz" domain is a temporary one I have for testing.</p> 
-      <p>It's past time for a redesign of the Ginger Kiwi blog. Having dedicated pages for topics such as French for Devs, design tips for backend devs, DSA, etc, would make the site more user friendly. I also need to set up an RSS, implement some A11y enhancements, fix the styling of article main images, and update the theme to at least a dark mode, and ideally a dark/light toggle. Also, 11ty 2.0 came out months ago, and Astro has been taking off. So I've been on the fence if I'm going to migrate to 11ty 2.0, or try something new with Astro. </p>
-      <p>This morning (Tuesday, Nov 07), I saw that Lazar Nikolov has <a href="https://egghead.io/courses/build-a-full-stack-blog-with-astro-7ffcf9ec" rel="noreferrer" rel=”noopener” target=”_blank”>a new Astro blog course</a> that's free on Egghead.io for the next two weeks. So here we go! I've started working on a new site that consolodates this blog with my .dev portfolio site.</p>
+      
+      <strong> 
+      <p class="article-body">It's past time for a redesign of the Ginger Kiwi blog. The new gingerkiwi.dev site combines this blog with over two years of writing, with a developer portfolio, while adding a ton of new features, and improving the accessibility. Read the update articles below to learn more.</p></strong>
+      <p>Nov 13, 2023: Visit <a href="https://gingerkiwi-2024-02.fly.dev rel="noreferrer" rel=”noopener” target=”_blank">https://gingerkiwi-2024.fly.dev</a> to see the new combined, fullstack, Ginger Kiwi blog and dev portfolio being built in public on Fly.io using Astro, Docker, and SQLite3!</p>
       
     </article>
     <h2>Recent Articles</h2>
@@ -67,6 +67,46 @@
     
 
       <ul role="list" class="articles__list flow"><li>
+
+    <article class="article-recent">
+        <div class="article-recent-main">
+        <h2 class="article-title">New Astro Site Updates and Plans</h2>
+            <p class="article-body article-recent-p">
+            Earlier this month I started the long overdue process of combining my .dev and .blog sites into a single full-stack site with improved accessibility, article collections, an RSS, and reader features. As of Sunday evening, the new site is currently live at: https://gingerkiwi-2024.fly.dev, and the backend is working. Readers can now like posts. Continue reading to learn of plans and when it should be live on www.GingerKiwi.dev
+            </p>
+            <a href="/blog/2023-11-27-new-astro-site-update 1/" class="article-read-more">CONTINUE READING</a>
+        </div>
+        <div class="article-recent-secondary">
+        <img
+            src="/assets/blog/GK-dev_Update.webp"
+            alt="&#39;Graphic. Dark blue background. Gradient orange to pink border. Gradient text at top says GingerKiwi.dev. Underneath orange text says New Blog &amp; Portfolio Astro + Next.js + SQLite then there&#39;s a row of three emojis separated by two + signs. crossed hammer and wrench, a redheaded woman behind a silver laptop, and a blue wheelchair symbol. Underneath in pink text it says Building in Public Updates&#39;"
+            class="article-image article-recent-image"
+        />
+        <p class="article-info">Nov 26, 2023</p>
+    </div>
+    </article>
+
+</li><li>
+
+    <article class="article-recent">
+        <div class="article-recent-main">
+        <h2 class="article-title">Building in Public: The Social Saturday Group Debugging Episode</h2>
+            <p class="article-body article-recent-p">
+            Earlier this month I started the long overdue process of combining my .dev and .blog sites into one full-stack site with improved accessibility, collections, and reader features. During a 4 hour &quot;Group Debugging Party&quot; on the Creatures.dev discord today, the issues caused by updates to drizzle were solved.
+            </p>
+            <a href="/blog/2023-11-25-building-in-public-group-debugging-party/" class="article-read-more">CONTINUE READING</a>
+        </div>
+        <div class="article-recent-secondary">
+        <img
+            src="/assets/blog/RubberDuck_Shades.webp"
+            alt="Photo: a yellow rubber duck wearing sunglasses floating in a pool."
+            class="article-image article-recent-image"
+        />
+        <p class="article-info">Nov 24, 2023</p>
+    </div>
+    </article>
+
+</li><li>
 
     <article class="article-recent">
         <div class="article-recent-main">
@@ -447,8 +487,7 @@
 
     <article class="article-recent">
         <div class="article-recent-main">
-        <h2 class="article-title">Good vs Great Design: UX and Mobility Aids
-</h2>
+        <h2 class="article-title">Good vs Great Design: UX and Mobility Aids</h2>
             <p class="article-body article-recent-p">
             On January 21, 2023 I volunteered at #A11yTOCamp at Microsoft here in Toronto. With the event&#39;s focus on accessibility there were many people with visible mobility aids. This led to many conversations about design and mobility aids. Great design and user experience isn&#39;t just about a product being functional and usable, it should be aesthetically pleasing and bring joy to users. This is true for both digital and physical products. The main inspiration for this article is to have one place to share some of the great designed, beautiful and/or cool mobility aids with others, and to discuss this through the lens of design.
 

@@ -1,6 +1,5 @@
 ---
-title: |
-  Good vs Great Design: UX and Mobility Aids
+title: "Good vs Great Design: UX and Mobility Aids"
 date: 2023-02-23
 tags:
   - post
